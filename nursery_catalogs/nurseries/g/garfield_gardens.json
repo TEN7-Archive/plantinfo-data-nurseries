@@ -1,0 +1,60 @@
+{
+    "name": "Garfield Gardens",
+    "machine_name": "garfield_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7861 Garfield Avenue",
+        "address_2": null,
+        "city": "Lonsdale",
+        "state": "MN",
+        "postal_code": "55046",
+        "geo_coordinate": "POINT (-93.400001 44.472762)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.alldaylilies.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@alldaylilies.com",
+        "phone": "612-756-1462",
+        "fax": "507-744-4314",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673824",
+        "legacy_id": "19148",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

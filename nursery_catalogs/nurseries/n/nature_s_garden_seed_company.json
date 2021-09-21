@@ -1,0 +1,60 @@
+{
+    "name": "Nature's Garden Seed Company",
+    "machine_name": "nature_s_garden_seed_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "7361 Bell McKinnon Road",
+        "address_2": "",
+        "city": "Duncan",
+        "state": "BC",
+        "postal_code": "V9L 6A9",
+        "geo_coordinate": "POINT (-123.712956 48.836093)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/naturesgardenseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "mail@naturesgardenseed.com",
+        "phone": "250-597-0715",
+        "fax": "250-597-0769",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672333",
+        "legacy_id": "11748",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Cherry Lake Tree Farm",
+    "machine_name": "cherry_lake_tree_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7836 Cherry Lake Road",
+        "address_2": null,
+        "city": "Groveland",
+        "state": "FL",
+        "postal_code": "34736",
+        "geo_coordinate": "POINT (-81.826856 28.601334)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cherrylake.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "MSallin@cherrylake.com",
+        "phone": "352-429-2171",
+        "fax": "352-429-4195",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671799",
+        "legacy_id": "10149",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

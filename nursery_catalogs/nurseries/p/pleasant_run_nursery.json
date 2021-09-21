@@ -1,0 +1,74 @@
+{
+    "name": "Pleasant Run Nursery",
+    "machine_name": "pleasant_run_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 247",
+        "address_2": "",
+        "city": "Allentown",
+        "state": "NJ",
+        "postal_code": "08501",
+        "geo_coordinate": "POINT (-74.5834887 40.1778886)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.pleasantrunnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "609-259-8585",
+        "fax": "609-259-6044",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673874",
+        "legacy_id": "27931",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

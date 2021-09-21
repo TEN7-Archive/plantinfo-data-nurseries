@@ -1,0 +1,60 @@
+{
+    "name": "Gabriel Valley Farms",
+    "machine_name": "gabriel_valley_farms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "440 Old Hwy. 29 East",
+        "address_2": null,
+        "city": "Georgetown",
+        "state": "TX",
+        "postal_code": "78626",
+        "geo_coordinate": "POINT (-97.5407096 30.638244)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.gabrielvalleyfarms.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "512-930-0923",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671686",
+        "legacy_id": "30211",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

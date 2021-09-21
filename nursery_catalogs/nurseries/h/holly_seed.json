@@ -1,0 +1,67 @@
+{
+    "name": "Holly Seed",
+    "machine_name": "holly_seed",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1967 W Fifth Street",
+        "address_2": "",
+        "city": "Sheridan",
+        "state": "WY",
+        "postal_code": "82801",
+        "geo_coordinate": "POINT (-106.9855709 44.807205)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/hollyseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "307-672-8997",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674298",
+        "legacy_id": "33150",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

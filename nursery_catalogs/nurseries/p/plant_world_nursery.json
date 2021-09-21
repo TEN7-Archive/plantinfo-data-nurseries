@@ -1,0 +1,74 @@
+{
+    "name": "Plant World Nursery",
+    "machine_name": "plant_world_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "250 El Pueble Road NE",
+        "address_2": null,
+        "city": "Albuquerque",
+        "state": "NM",
+        "postal_code": "87113",
+        "geo_coordinate": "POINT (-106.615237 35.175322)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.plantworldinc.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "877-905-6432",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673433",
+        "legacy_id": "30968",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,611 @@
+{
+    "name": "Noweta Gardens Inc.",
+    "machine_name": "noweta_gardens_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "18389 Michigan Ave.",
+        "address_2": "",
+        "city": "Three Rivers",
+        "state": "MI",
+        "postal_code": "49093",
+        "geo_coordinate": "POINT (-85.5992522 42.0421526)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.nowetagardens.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": "269-279-6207",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "noweta_gardens_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1507755",
+                    "machine_name": "gladiolus_cultivars_jester_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p5",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13200",
+                        "fgsid": null,
+                        "legacy_id": "79871",
+                        "catalog_source_id": "57663"
+                    }
+                },
+                {
+                    "reference": "1508018",
+                    "machine_name": "gladiolus_cultivars_plum_tart",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p6",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13215",
+                        "fgsid": null,
+                        "legacy_id": "79926",
+                        "catalog_source_id": "57776"
+                    }
+                },
+                {
+                    "reference": "1508024",
+                    "machine_name": "gladiolus_cultivars_priscilla",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p6",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13219",
+                        "fgsid": null,
+                        "legacy_id": "79932",
+                        "catalog_source_id": "57788"
+                    }
+                },
+                {
+                    "reference": "1508029",
+                    "machine_name": "gladiolus_cultivars_rapid_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p7",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13221",
+                        "fgsid": null,
+                        "legacy_id": "79937",
+                        "catalog_source_id": "57797"
+                    }
+                },
+                {
+                    "reference": "1472261",
+                    "machine_name": "gladiolus_cultivars_rose_supreme",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p7",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13227",
+                        "fgsid": null,
+                        "legacy_id": "10724",
+                        "catalog_source_id": "57820"
+                    }
+                },
+                {
+                    "reference": "1507460",
+                    "machine_name": "gladiolus_cultivars_blue_sky",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "75578",
+                        "fgsid": null,
+                        "legacy_id": "79782",
+                        "catalog_source_id": "533730"
+                    }
+                },
+                {
+                    "reference": "1569900",
+                    "machine_name": "gladiolus_cultivars_old_spice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "75586",
+                        "fgsid": null,
+                        "legacy_id": "176478",
+                        "catalog_source_id": "533737"
+                    }
+                },
+                {
+                    "reference": "1472023",
+                    "machine_name": "gladiolus_cultivars_peter_pears",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "75587",
+                        "fgsid": null,
+                        "legacy_id": "10712",
+                        "catalog_source_id": "533739"
+                    }
+                },
+                {
+                    "reference": "1508301",
+                    "machine_name": "gladiolus_cultivars_white_prosperity",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "75591",
+                        "fgsid": null,
+                        "legacy_id": "80001",
+                        "catalog_source_id": "533743"
+                    }
+                },
+                {
+                    "reference": "1605452",
+                    "machine_name": "gladiolus_cultivars_chit_chat",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114434",
+                        "fgsid": null,
+                        "legacy_id": "277598",
+                        "catalog_source_id": "940606"
+                    }
+                },
+                {
+                    "reference": "1472003",
+                    "machine_name": "gladiolus_cultivars_jester",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114440",
+                        "fgsid": null,
+                        "legacy_id": "10692",
+                        "catalog_source_id": "940614"
+                    }
+                },
+                {
+                    "reference": "1507762",
+                    "machine_name": "gladiolus_cultivars_land_o_lakes",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114441",
+                        "fgsid": null,
+                        "legacy_id": "79878",
+                        "catalog_source_id": "940616"
+                    }
+                },
+                {
+                    "reference": "1641233",
+                    "machine_name": "gladiolus_cultivars_pink_event",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114448",
+                        "fgsid": null,
+                        "legacy_id": "334820",
+                        "catalog_source_id": "940623"
+                    }
+                },
+                {
+                    "reference": "1641234",
+                    "machine_name": "gladiolus_cultivars_rhapsody_in_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114449",
+                        "fgsid": null,
+                        "legacy_id": "334821",
+                        "catalog_source_id": "940625"
+                    }
+                },
+                {
+                    "reference": "1605460",
+                    "machine_name": "gladiolus_cultivars_romance",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114450",
+                        "fgsid": null,
+                        "legacy_id": "277606",
+                        "catalog_source_id": "940626"
+                    }
+                },
+                {
+                    "reference": "1605467",
+                    "machine_name": "gladiolus_cultivars_tampico",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114454",
+                        "fgsid": null,
+                        "legacy_id": "277613",
+                        "catalog_source_id": "940631"
+                    }
+                },
+                {
+                    "reference": "1641235",
+                    "machine_name": "gladiolus_cultivars_vista",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114456",
+                        "fgsid": null,
+                        "legacy_id": "334822",
+                        "catalog_source_id": "940633"
+                    }
+                },
+                {
+                    "reference": "1630345",
+                    "machine_name": "gladiolus_cultivars_american_dream",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146260",
+                        "fgsid": null,
+                        "legacy_id": "248622",
+                        "catalog_source_id": "1334566"
+                    }
+                },
+                {
+                    "reference": "1595483",
+                    "machine_name": "gladiolus_cultivars_captiva",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146261",
+                        "fgsid": null,
+                        "legacy_id": "390210",
+                        "catalog_source_id": "1334567"
+                    }
+                },
+                {
+                    "reference": "1507997",
+                    "machine_name": "gladiolus_cultivars_nova_lux",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146262",
+                        "fgsid": null,
+                        "legacy_id": "79905",
+                        "catalog_source_id": "1334568"
+                    }
+                },
+                {
+                    "reference": "1652703",
+                    "machine_name": "gladiolus_cultivars_ovatie",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146265",
+                        "fgsid": null,
+                        "legacy_id": "390213",
+                        "catalog_source_id": "1334569"
+                    }
+                },
+                {
+                    "reference": "1508003",
+                    "machine_name": "gladiolus_cultivars_palm_springs",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146266",
+                        "fgsid": null,
+                        "legacy_id": "79911",
+                        "catalog_source_id": "1334570"
+                    }
+                },
+                {
+                    "reference": "1610798",
+                    "machine_name": "gladiolus_cultivars_trinity",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146267",
+                        "fgsid": null,
+                        "legacy_id": "387972",
+                        "catalog_source_id": "1334571"
+                    }
+                },
+                {
+                    "reference": "1605468",
+                    "machine_name": "gladiolus_cultivars_velvet_eyes",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146268",
+                        "fgsid": null,
+                        "legacy_id": "277614",
+                        "catalog_source_id": "1334572"
+                    }
+                },
+                {
+                    "reference": "1597472",
+                    "machine_name": "gladiolus_cultivars_sparkler",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146272",
+                        "fgsid": null,
+                        "legacy_id": "387969",
+                        "catalog_source_id": "1334573"
+                    }
+                },
+                {
+                    "reference": "1632610",
+                    "machine_name": "gladiolus_cultivars_star_perfomer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "146273",
+                        "fgsid": null,
+                        "legacy_id": "312156",
+                        "catalog_source_id": "1334574"
+                    }
+                },
+                {
+                    "reference": "1610800",
+                    "machine_name": "gladiolus_cultivars_beau_jour",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148634",
+                        "fgsid": null,
+                        "legacy_id": "387975",
+                        "catalog_source_id": "1172395"
+                    }
+                },
+                {
+                    "reference": "1621971",
+                    "machine_name": "gladiolus_cultivars_sun_kissed",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148636",
+                        "fgsid": null,
+                        "legacy_id": "373551",
+                        "catalog_source_id": "1172397"
+                    }
+                },
+                {
+                    "reference": "1627562",
+                    "machine_name": "gladiolus_cultivars_finishing_touch",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "214977",
+                        "fgsid": null,
+                        "legacy_id": "244917",
+                        "catalog_source_id": "703505"
+                    }
+                },
+                {
+                    "reference": "1627559",
+                    "machine_name": "gladiolus_cultivars_brilliance",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "214979",
+                        "fgsid": null,
+                        "legacy_id": "244914",
+                        "catalog_source_id": "703508"
+                    }
+                },
+                {
+                    "reference": "1610799",
+                    "machine_name": "gladiolus_cultivars_alexandra_the_great",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "252834",
+                        "fgsid": null,
+                        "legacy_id": "387974",
+                        "catalog_source_id": "1171094"
+                    }
+                },
+                {
+                    "reference": "1569882",
+                    "machine_name": "gladiolus_cultivars_fiesta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "253339",
+                        "fgsid": null,
+                        "legacy_id": "176460",
+                        "catalog_source_id": "1170688"
+                    }
+                },
+                {
+                    "reference": "1642503",
+                    "machine_name": "gladiolus_cultivars_fun_time",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "253341",
+                        "fgsid": null,
+                        "legacy_id": "259156",
+                        "catalog_source_id": "1170689"
+                    }
+                },
+                {
+                    "reference": "1624461",
+                    "machine_name": "gladiolus_cultivars_olympic_flame",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "253352",
+                        "fgsid": null,
+                        "legacy_id": "356723",
+                        "catalog_source_id": "1170694"
+                    }
+                },
+                {
+                    "reference": "1508002",
+                    "machine_name": "gladiolus_cultivars_oscar",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "253353",
+                        "fgsid": null,
+                        "legacy_id": "79910",
+                        "catalog_source_id": "1170695"
+                    }
+                },
+                {
+                    "reference": "1605464",
+                    "machine_name": "gladiolus_cultivars_sugar_plum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "253355",
+                        "fgsid": null,
+                        "legacy_id": "277610",
+                        "catalog_source_id": "1170696"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672056",
+        "legacy_id": "649",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

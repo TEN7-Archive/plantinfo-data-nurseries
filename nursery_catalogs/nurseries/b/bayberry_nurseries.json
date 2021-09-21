@@ -1,0 +1,60 @@
+{
+    "name": "Bayberry Nurseries",
+    "machine_name": "bayberry_nurseries",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "151 Kensington Road",
+        "address_2": "",
+        "city": "Hampton Falls",
+        "state": "NH",
+        "postal_code": "03844",
+        "geo_coordinate": "POINT (-70.9006225 42.9119973)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bayberrynurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674177",
+        "legacy_id": "32409",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Halifax Seed Company Inc.",
+    "machine_name": "halifax_seed_company_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "5860 Kane St. - P.O. Box8026",
+        "address_2": "",
+        "city": "Halifax",
+        "state": "NS",
+        "postal_code": "B3K 5L8",
+        "geo_coordinate": "POINT (-63.6025507 44.6611819)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.halifaxseed.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@halifaxseed.ca",
+        "phone": "902-454-7456",
+        "fax": "902-455-5271",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "does NOT ship to USA",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672943",
+        "legacy_id": "9269",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

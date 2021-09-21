@@ -1,0 +1,74 @@
+{
+    "name": "Six Mile Nursery",
+    "machine_name": "six_mile_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "810 W Hwy 14 SD",
+        "address_2": "",
+        "city": "Brooking",
+        "state": "SD",
+        "postal_code": "57006",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.sixmilenursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2624941",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1589977324"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Devil Mountain Wholesale Nursery",
+    "machine_name": "devil_mountain_wholesale_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "9885 Alcosta Blvd",
+        "address_2": null,
+        "city": "San Ramon",
+        "state": "CA",
+        "postal_code": "94583",
+        "geo_coordinate": "POINT (-121.9324333 37.7453478)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/devilmountainnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@devilmountainnursery.com",
+        "phone": "925-829-6006",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672250",
+        "legacy_id": "29689",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

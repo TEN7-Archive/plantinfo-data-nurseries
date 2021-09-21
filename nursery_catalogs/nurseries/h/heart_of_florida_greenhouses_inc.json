@@ -1,0 +1,67 @@
+{
+    "name": "Heart of Florida Greenhouses, Inc.",
+    "machine_name": "heart_of_florida_greenhouses_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7555 Crewsville Rd",
+        "address_2": null,
+        "city": "Zolfo Springs",
+        "state": "FL",
+        "postal_code": "33890",
+        "geo_coordinate": "POINT (-81.5950019 27.411248)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.heartplants.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-226-4079",
+        "fax": "863-735-1081",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673359",
+        "legacy_id": "23149",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

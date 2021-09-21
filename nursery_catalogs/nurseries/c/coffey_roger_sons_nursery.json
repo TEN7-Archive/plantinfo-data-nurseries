@@ -1,0 +1,67 @@
+{
+    "name": "Coffey, Roger & Sons Nursery",
+    "machine_name": "coffey_roger_sons_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5016 Valley View Circle",
+        "address_2": "",
+        "city": "Lenoir",
+        "state": "NC",
+        "postal_code": "28645",
+        "geo_coordinate": "POINT (-81.665696 35.923707)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.rogercoffeyandsons.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@rogercoffeyandsons.com",
+        "phone": "828-759-7157",
+        "fax": "828-758-9285",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "rhododendron",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216179"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672732",
+        "legacy_id": "8513",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

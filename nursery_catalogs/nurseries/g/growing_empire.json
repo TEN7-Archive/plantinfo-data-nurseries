@@ -1,0 +1,81 @@
+{
+    "name": "Growing Empire",
+    "machine_name": "growing_empire",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "820 Empire Avenue",
+        "address_2": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "postal_code": "84106",
+        "geo_coordinate": "POINT (-111.8686615 40.694551)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.growingempire.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "801-685-7099",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674295",
+        "legacy_id": "32988",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

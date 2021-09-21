@@ -1,0 +1,67 @@
+{
+    "name": "Hummert Seed & Supply",
+    "machine_name": "hummert_seed_supply",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5802 Corporate Drive",
+        "address_2": "",
+        "city": "St Joseph",
+        "state": "MO",
+        "postal_code": "64507",
+        "geo_coordinate": "POINT (-94.759725 39.75022)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hummert.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@hummert.com",
+        "phone": "800-325-3055",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        },
+        {
+            "machine_name": "seeds_lawn",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216197"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673070",
+        "legacy_id": "27433",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2017",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

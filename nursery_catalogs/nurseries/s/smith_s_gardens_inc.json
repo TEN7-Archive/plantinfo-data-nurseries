@@ -1,0 +1,74 @@
+{
+    "name": "Smith's Gardens Inc",
+    "machine_name": "smith_s_gardens_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7520 Home Road",
+        "address_2": null,
+        "city": "Delaware",
+        "state": "OH",
+        "postal_code": "43015",
+        "geo_coordinate": "POINT (-83.169612 40.196271)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.smithsgardensinc.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "740-881-6147",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673293",
+        "legacy_id": "33969",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

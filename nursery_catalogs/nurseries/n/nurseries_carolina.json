@@ -1,0 +1,116 @@
+{
+    "name": "Nurseries Carolina",
+    "machine_name": "nurseries_carolina",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "143 Mims Grove Church Road",
+        "address_2": null,
+        "city": "North Augusta",
+        "state": "SC",
+        "postal_code": "29841",
+        "geo_coordinate": "POINT (-81.9214618 33.582488)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.nurcar.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "803-279-2707",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bamboo",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216154"
+            }
+        },
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        },
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        },
+        {
+            "machine_name": "vines",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216187"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674181",
+        "legacy_id": "31208",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

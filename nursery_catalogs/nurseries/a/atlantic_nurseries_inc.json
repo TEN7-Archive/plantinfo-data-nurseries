@@ -1,0 +1,95 @@
+{
+    "name": "Atlantic Nurseries, Inc",
+    "machine_name": "atlantic_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "691 Deer Park Avenue",
+        "address_2": "",
+        "city": "Dix Hills",
+        "state": "NY",
+        "postal_code": "11746",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.atlanticnurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "631-586-6242",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2623236",
+        "legacy_id": null,
+        "ships": false,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1588857197"
+    }
+}

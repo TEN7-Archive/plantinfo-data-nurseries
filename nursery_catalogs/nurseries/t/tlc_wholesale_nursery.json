@@ -1,0 +1,74 @@
+{
+    "name": "TLC Wholesale Nursery",
+    "machine_name": "tlc_wholesale_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "742 Main Street",
+        "address_2": "",
+        "city": "Monroe",
+        "state": "CT",
+        "postal_code": "06468",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/tlcwholesalenursery.business.site\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "203-268-6964",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2617361",
+        "legacy_id": null,
+        "ships": false,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1585577574"
+    }
+}

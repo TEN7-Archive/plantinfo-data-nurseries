@@ -1,0 +1,93 @@
+{
+    "name": "Rhapis Gardens",
+    "machine_name": "rhapis_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. BOX 287",
+        "address_2": "",
+        "city": "Gregory",
+        "state": "TX",
+        "postal_code": "78359",
+        "geo_coordinate": "POINT (-97.2899915 27.9222444)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.rhapisgardens.com\/catalog\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": "361-643-2869",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019 only ships seed",
+    "nursery_catalog_items": [
+        {
+            "name": "Rhapis Gardens 2019",
+            "machine_name": "rhapis_gardens_2019",
+            "type": "nursery_catalog",
+            "date": "Jul 19 2019",
+            "nursery": "rhapis_gardens",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1409153",
+                    "machine_name": "cycas_revoluta",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "102545",
+                        "fgsid": "9692",
+                        "legacy_id": null,
+                        "catalog_source_id": "835797"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672362",
+        "legacy_id": "17128",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

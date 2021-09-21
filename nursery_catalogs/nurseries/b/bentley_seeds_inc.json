@@ -1,0 +1,60 @@
+{
+    "name": "Bentley Seeds, Inc.",
+    "machine_name": "bentley_seeds_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "16 Railroad Avenue",
+        "address_2": null,
+        "city": "Cambridge",
+        "state": "NY",
+        "postal_code": "12816",
+        "geo_coordinate": "POINT (-73.382084 43.025775)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bentleyseeds.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-836-0430",
+        "fax": "800-253-1371",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673699",
+        "legacy_id": "18249",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

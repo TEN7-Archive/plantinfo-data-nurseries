@@ -1,0 +1,67 @@
+{
+    "name": "Russell's Nursery, Inc",
+    "machine_name": "russell_s_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 845",
+        "address_2": null,
+        "city": "Aurora",
+        "state": "OR",
+        "postal_code": "97002",
+        "geo_coordinate": "POINT (-122.7559267 45.2309536)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.russellsnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "503-678-2536",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673494",
+        "legacy_id": "25548",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

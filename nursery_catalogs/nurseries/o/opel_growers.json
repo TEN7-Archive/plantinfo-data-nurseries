@@ -1,0 +1,60 @@
+{
+    "name": "Opel Growers",
+    "machine_name": "opel_growers",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6275 Tyler Street",
+        "address_2": null,
+        "city": "Hudsonville",
+        "state": "MI",
+        "postal_code": "49426",
+        "geo_coordinate": "POINT (-85.938275 42.901589)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.opelgrowers.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "616-777-5128",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672405",
+        "legacy_id": "30992",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

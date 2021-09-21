@@ -1,0 +1,74 @@
+{
+    "name": "Green Lake Nursery",
+    "machine_name": "green_lake_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "300 Environmental Way",
+        "address_2": "",
+        "city": "Seagoville",
+        "state": "TX",
+        "postal_code": "75159",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/greenlakenursery.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "972-287-2322",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        },
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2625551",
+        "legacy_id": null,
+        "ships": false,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1590153184"
+    }
+}

@@ -1,0 +1,836 @@
+{
+    "name": "Blossom Hill Nursery",
+    "machine_name": "blossom_hill_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "681 Fife's Bay Road RR#2",
+        "address_2": "",
+        "city": "Selwyn",
+        "state": "ON",
+        "postal_code": "K9J 6X4",
+        "geo_coordinate": "POINT (-78.1784811 44.5222915)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.blossomhillnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "705-742-9923",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "peonies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216176"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017",
+    "nursery_catalog_items": [
+        {
+            "name": "Blossom Hill Nursery 2017",
+            "machine_name": "blossom_hill_nursery_2017",
+            "type": "nursery_catalog",
+            "date": "May 11 2017",
+            "nursery": "blossom_hill_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1520222",
+                    "machine_name": "paeonia_cultivars_ruth_clay",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543341",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1522688",
+                    "machine_name": "paeonia_cultivars_angel_cheeks",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543361",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484310",
+                    "machine_name": "paeonia_cultivars_ann_berry_cousins",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543366",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1483987",
+                    "machine_name": "paeonia_t_cultivars_boreas",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543381",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484579",
+                    "machine_name": "paeonia_cultivars_coral_n_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543406",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485150",
+                    "machine_name": "paeonia_cultivars_monsieur_jules_elie",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543421",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1519677",
+                    "machine_name": "paeonia_cultivars_mrs_frank_beach",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543436",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1520174",
+                    "machine_name": "paeonia_cultivars_princess_margaret",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543451",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485182",
+                    "machine_name": "paeonia_cultivars_raspberry_charm",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543456",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1541983",
+                    "machine_name": "paeonia_cultivars_sugar_n_spice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543461",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484303",
+                    "machine_name": "paeonia_cultivars_ala_mode",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543491",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1562445",
+                    "machine_name": "paeonia_t_cultivars_alice_harding",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543496",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1522400",
+                    "machine_name": "paeonia_t_cultivars_golden_bowl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543501",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1656511",
+                    "machine_name": "paeonia_cultivars_louise_lossing",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543541",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1424062",
+                    "machine_name": "paeonia_tenuifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543551",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1580730",
+                    "machine_name": "paeonia_cultivars_pastel_splendor",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543556",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1621874",
+                    "machine_name": "paeonia_cultivars_peter_barr",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543566",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485187",
+                    "machine_name": "paeonia_cultivars_red_grace",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543591",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1520216",
+                    "machine_name": "paeonia_cultivars_roselette",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543596",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1483999",
+                    "machine_name": "paeonia_t_cultivars_first_arrival",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543661",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484855",
+                    "machine_name": "paeonia_cultivars_golden_era",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543676",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484890",
+                    "machine_name": "paeonia_cultivars_lady_alexandra_duff",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543716",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1519379",
+                    "machine_name": "paeonia_cultivars_leto",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543721",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1519387",
+                    "machine_name": "paeonia_cultivars_longfellow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "543731",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1522672",
+                    "machine_name": "paeonia_cultivars_a_b_franklin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722241",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1522686",
+                    "machine_name": "paeonia_cultivars_amalia_olson",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722246",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1483982",
+                    "machine_name": "paeonia_t_cultivars_banquet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722251",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484555",
+                    "machine_name": "paeonia_cultivars_belle_center",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722256",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1518482",
+                    "machine_name": "paeonia_cultivars_border_charm",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722261",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1424035",
+                    "machine_name": "paeonia_brownii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722266",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1483990",
+                    "machine_name": "paeonia_t_cultivars_chinese_dragon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722271",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1483998",
+                    "machine_name": "paeonia_t_cultivars_ezra_pound",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722276",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1545367",
+                    "machine_name": "paeonia_cultivars_garden_lace",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722281",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484001",
+                    "machine_name": "paeonia_t_cultivars_godaishu_giant_globe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722286",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1593691",
+                    "machine_name": "paeonia_cultivars_janice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722291",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1519340",
+                    "machine_name": "paeonia_cultivars_jayhawker",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722296",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1615960",
+                    "machine_name": "paeonia_t_cultivars_kopper_kettle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722301",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1650285",
+                    "machine_name": "paeonia_cultivars_linda_kathleen_jack",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722306",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1519634",
+                    "machine_name": "paeonia_cultivars_martha_reed",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722311",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485502",
+                    "machine_name": "paeonia_tenuifolia_rubra_plena",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722316",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1583244",
+                    "machine_name": "paeonia_cultivars_red_satin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722321",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485202",
+                    "machine_name": "paeonia_cultivars_sarah_bernhardt",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722326",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1520450",
+                    "machine_name": "paeonia_cultivars_shaylor_s_sunburst",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722331",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485496",
+                    "machine_name": "paeonia_officinalis_villosa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722336",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1519891",
+                    "machine_name": "paeonia_cultivars_mrs_w_l_gumm",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722341",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1520514",
+                    "machine_name": "paeonia_cultivars_westerner",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722346",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2132731",
+                    "machine_name": "paeonia_cultivars_john_s_dream",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722351",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2132736",
+                    "machine_name": "paeonia_cultivars_pride_of_blasdell",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722356",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2132741",
+                    "machine_name": "paeonia_cultivars_joyce_ellen",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722361",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2132746",
+                    "machine_name": "paeonia_cultivars_white_water",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722366",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2132751",
+                    "machine_name": "paeonia_cultivars_rose_crystal",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "722371",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673920",
+        "legacy_id": "28231",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Druid City Daylily Garden",
+    "machine_name": "druid_city_daylily_garden",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4842 Jennifer Lane",
+        "address_2": "",
+        "city": "Douglasville",
+        "state": "GA",
+        "postal_code": "30135",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/druidcitydaylilies.blogspot.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [
+        {
+            "name": "Druid City Daylily Garden 2018",
+            "machine_name": "druid_city_daylily_garden_2018",
+            "type": "nursery_catalog",
+            "date": "Dec 8 2017",
+            "nursery": "druid_city_daylily_garden",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1651385",
+                    "machine_name": "hemerocallis_cultivars_va_va_voom",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "804101",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "2169541",
+        "legacy_id": "2017",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1512746536"
+    }
+}

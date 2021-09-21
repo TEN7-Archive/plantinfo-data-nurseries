@@ -1,0 +1,81 @@
+{
+    "name": "Savage, Tommy Nursery",
+    "machine_name": "savage_tommy_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "172 Dr. Jennings Rd.",
+        "address_2": "",
+        "city": "McMinnville",
+        "state": "TN",
+        "postal_code": "37110-3636",
+        "geo_coordinate": "POINT (-85.689009 35.762481)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.tommysavagenursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "931-686-2442",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2367641",
+        "legacy_id": "52018",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1535137082"
+    }
+}

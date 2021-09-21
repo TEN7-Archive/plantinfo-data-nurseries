@@ -1,0 +1,60 @@
+{
+    "name": "Frysville Farms",
+    "machine_name": "frysville_farms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "300 Frysville Road",
+        "address_2": null,
+        "city": "Ephrata",
+        "state": "PA",
+        "postal_code": "17522",
+        "geo_coordinate": "POINT (-76.1024666 40.1707412)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.frysvillefarms.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@frysvillefarms.com",
+        "phone": "800-422-3797",
+        "fax": "717-354-8423",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672830",
+        "legacy_id": "8591",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

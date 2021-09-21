@@ -1,0 +1,67 @@
+{
+    "name": "Bottoms Brothers Nursery",
+    "machine_name": "bottoms_brothers_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "83 McGee Road",
+        "address_2": null,
+        "city": "McMinnville",
+        "state": "TN",
+        "postal_code": "37110",
+        "geo_coordinate": "POINT (-85.706456 35.643138)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bottomsbrothersnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "BBrothersNur@blomand.net",
+        "phone": "931-212-7994",
+        "fax": "931-668-5849",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671904",
+        "legacy_id": "10528",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

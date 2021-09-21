@@ -1,0 +1,102 @@
+{
+    "name": "Alta Nursery, Inc",
+    "machine_name": "alta_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 370",
+        "address_2": "",
+        "city": "San Jacinto",
+        "state": "CA",
+        "postal_code": "92581",
+        "geo_coordinate": "POINT (-116.9618653 33.7729474)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.altanursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2369766",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1535555736"
+    }
+}

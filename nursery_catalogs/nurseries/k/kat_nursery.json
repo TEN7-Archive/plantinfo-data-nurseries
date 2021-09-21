@@ -1,0 +1,67 @@
+{
+    "name": "Kat Nursery",
+    "machine_name": "kat_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "30050 W 135th St",
+        "address_2": "",
+        "city": "Olathe",
+        "state": "KS",
+        "postal_code": "66061",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/katwholesale.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2598286",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1579549256"
+    }
+}

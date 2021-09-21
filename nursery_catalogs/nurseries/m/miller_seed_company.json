@@ -1,0 +1,67 @@
+{
+    "name": "Miller Seed Company",
+    "machine_name": "miller_seed_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1600 Cornhusker Hwy",
+        "address_2": "",
+        "city": "Lincoln",
+        "state": "NE",
+        "postal_code": "68521",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.millerseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        },
+        {
+            "machine_name": "seeds_lawn",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216197"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2621801",
+        "legacy_id": null,
+        "ships": false,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1588285358"
+    }
+}

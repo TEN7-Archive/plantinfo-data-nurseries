@@ -1,0 +1,74 @@
+{
+    "name": "Native Revival Nursery",
+    "machine_name": "native_revival_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2600 Mar Vista Drive",
+        "address_2": "",
+        "city": "Aptos",
+        "state": "CA",
+        "postal_code": "95003",
+        "geo_coordinate": "POINT (-121.9162091 36.9819454)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.nativerevival.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "nativerevival@sbcglobal.net",
+        "phone": "831-684-1811",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673233",
+        "legacy_id": "30908",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

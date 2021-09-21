@@ -1,0 +1,60 @@
+{
+    "name": "Main Street Trees",
+    "machine_name": "main_street_trees",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2751 Beard Road",
+        "address_2": null,
+        "city": "Napa",
+        "state": "CA",
+        "postal_code": "94558",
+        "geo_coordinate": "POINT (-122.2948429 38.317764)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mainstreettrees.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "707-257-2783",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673427",
+        "legacy_id": "30905",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

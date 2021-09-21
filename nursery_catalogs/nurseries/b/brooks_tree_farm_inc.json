@@ -1,0 +1,60 @@
+{
+    "name": "Brooks Tree Farm, Inc",
+    "machine_name": "brooks_tree_farm_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "9785 Portland Rd",
+        "address_2": null,
+        "city": "Salem",
+        "state": "OR",
+        "postal_code": "97305",
+        "geo_coordinate": "POINT (-122.9464128 45.0590412)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.brookstreefarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "503-393-6300",
+        "fax": "503-393-0827",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671840",
+        "legacy_id": "16008",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

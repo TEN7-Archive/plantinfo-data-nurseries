@@ -1,0 +1,67 @@
+{
+    "name": "Browns, Sam Wholesale Nursery",
+    "machine_name": "browns_sam_wholesale_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "366 Paoli Pike",
+        "address_2": "",
+        "city": "Malvern",
+        "state": "PA",
+        "postal_code": "19355",
+        "geo_coordinate": "POINT (-75.523728 40.017001)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sambrownsnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "610-647-6947",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672719",
+        "legacy_id": "29348",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

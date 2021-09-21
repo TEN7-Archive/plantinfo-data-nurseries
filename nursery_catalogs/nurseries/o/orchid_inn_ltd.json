@@ -1,0 +1,60 @@
+{
+    "name": "Orchid Inn Ltd",
+    "machine_name": "orchid_inn_ltd",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "18218 US Hwy 150",
+        "address_2": "",
+        "city": "Bloomington",
+        "state": "IL",
+        "postal_code": "61705",
+        "geo_coordinate": "POINT (-88.9171867 40.4280837)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.orchidinnusa.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "samtsui@orchidinnusa.com",
+        "phone": "309-662-2386",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674165",
+        "legacy_id": "32189",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

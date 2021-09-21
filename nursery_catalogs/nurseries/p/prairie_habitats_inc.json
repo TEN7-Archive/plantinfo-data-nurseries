@@ -1,0 +1,145 @@
+{
+    "name": "Prairie Habitats Inc.",
+    "machine_name": "prairie_habitats_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "Box 10",
+        "address_2": "",
+        "city": "Argyle",
+        "state": "MB",
+        "postal_code": "R0C 0B0",
+        "geo_coordinate": "POINT (-97.4523862 50.1712638)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.prairiehabitats.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "jpmorgan@mts.net",
+        "phone": "204-467-9371",
+        "fax": "204-467-5004",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 11 2016",
+            "nursery": "prairie_habitats_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1400328",
+                    "machine_name": "beckmannia_syzigachne",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222604",
+                        "fgsid": "4243",
+                        "legacy_id": null,
+                        "catalog_source_id": "942663"
+                    }
+                },
+                {
+                    "reference": "1427102",
+                    "machine_name": "poa_palustris",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222605",
+                        "fgsid": "27826",
+                        "legacy_id": null,
+                        "catalog_source_id": "942664"
+                    }
+                },
+                {
+                    "reference": "1413531",
+                    "machine_name": "elymus_canadensis",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222606",
+                        "fgsid": "12345",
+                        "legacy_id": null,
+                        "catalog_source_id": "942665"
+                    }
+                },
+                {
+                    "reference": "1407631",
+                    "machine_name": "deschampsia_cespitosa",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222607",
+                        "fgsid": "10787",
+                        "legacy_id": null,
+                        "catalog_source_id": "942666"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1671765",
+        "legacy_id": "1609",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "R",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

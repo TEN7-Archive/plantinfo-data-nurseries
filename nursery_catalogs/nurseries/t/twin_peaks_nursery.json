@@ -1,0 +1,95 @@
+{
+    "name": "Twin Peaks Nursery",
+    "machine_name": "twin_peaks_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "51 East Lake Fork Road",
+        "address_2": "",
+        "city": "McCall",
+        "state": "ID",
+        "postal_code": "83638",
+        "geo_coordinate": "POINT (-116.0774115 44.832524)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.buffaloberryfarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "208-634-3062",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2100821",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1479917400"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Alpha Nursery (OR)",
+    "machine_name": "alpha_nursery_or",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5050 Hazelgreen Road NE",
+        "address_2": "",
+        "city": "Salem",
+        "state": "OR",
+        "postal_code": "97305",
+        "geo_coordinate": "POINT (-122.9578714 45.0039894)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.alphanursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-293-1286",
+        "fax": "503-390-2639",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673784",
+        "legacy_id": "26328",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017\/18, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

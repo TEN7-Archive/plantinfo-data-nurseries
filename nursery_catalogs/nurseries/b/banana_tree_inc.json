@@ -1,0 +1,81 @@
+{
+    "name": "Banana Tree, Inc.",
+    "machine_name": "banana_tree_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "715 Northampton St.",
+        "address_2": null,
+        "city": "Easton",
+        "state": "PA",
+        "postal_code": "18042",
+        "geo_coordinate": "POINT (-75.2187938 40.6909225)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.banana-tree.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "610-253-9589",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        },
+        {
+            "machine_name": "seeds_woody_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216183"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        },
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672567",
+        "legacy_id": "67",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

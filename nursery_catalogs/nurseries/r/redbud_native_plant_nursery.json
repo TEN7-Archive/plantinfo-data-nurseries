@@ -1,0 +1,74 @@
+{
+    "name": "Redbud Native Plant Nursery",
+    "machine_name": "redbud_native_plant_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1214 North Middletown Road",
+        "address_2": "",
+        "city": "Glen Mills",
+        "state": "PA",
+        "postal_code": "19342",
+        "geo_coordinate": "POINT (-75.4607046 39.939215)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.redbudnativeplantnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "610-358-4300",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673493",
+        "legacy_id": "28537",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

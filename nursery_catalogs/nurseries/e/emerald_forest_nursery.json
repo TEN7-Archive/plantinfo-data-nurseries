@@ -1,0 +1,60 @@
+{
+    "name": "Emerald Forest Nursery",
+    "machine_name": "emerald_forest_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "13260 Station Road",
+        "address_2": null,
+        "city": "Columbia Station",
+        "state": "OH",
+        "postal_code": "44028",
+        "geo_coordinate": "POINT (-81.944929 41.319514)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.emeraldforestnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "440-552-7851",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673287",
+        "legacy_id": "33968",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

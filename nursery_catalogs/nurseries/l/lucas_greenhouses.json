@@ -1,0 +1,74 @@
+{
+    "name": "Lucas Greenhouses",
+    "machine_name": "lucas_greenhouses",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1049 Whig Lane Road",
+        "address_2": "",
+        "city": "Monroeville",
+        "state": "NJ",
+        "postal_code": "08343",
+        "geo_coordinate": "POINT (-75.1849387 39.6601193)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.lucasgreenhouses.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "856-881-0234",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "emailed 8\/16 consider for SL",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671924",
+        "legacy_id": "29508",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017\/18, ",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

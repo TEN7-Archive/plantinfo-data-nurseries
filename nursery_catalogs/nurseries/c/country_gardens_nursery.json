@@ -1,0 +1,67 @@
+{
+    "name": "Country Gardens Nursery",
+    "machine_name": "country_gardens_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "220 Old Country Road",
+        "address_2": "",
+        "city": "Eastport",
+        "state": "NY",
+        "postal_code": "11941",
+        "geo_coordinate": "POINT (-72.7125394 40.8327064)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.countrygardensnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@countrygardensnursery.com",
+        "phone": "631-325-1522",
+        "fax": "631-325-2723",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2015",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672782",
+        "legacy_id": "202",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

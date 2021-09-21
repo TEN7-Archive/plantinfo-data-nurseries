@@ -1,0 +1,67 @@
+{
+    "name": "Tinga Nursery Inc.",
+    "machine_name": "tinga_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2918 Castle Hayne Rd.",
+        "address_2": null,
+        "city": "Castle Hayne",
+        "state": "NC",
+        "postal_code": "28429-5421",
+        "geo_coordinate": "POINT (-77.9186778 34.2990771)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.tinganursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "tinganursery@bellsouth.net",
+        "phone": "910-762-1975",
+        "fax": "910-763-4231",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673619",
+        "legacy_id": "24768",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

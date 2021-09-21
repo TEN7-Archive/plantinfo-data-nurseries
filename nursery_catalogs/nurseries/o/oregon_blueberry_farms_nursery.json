@@ -1,0 +1,60 @@
+{
+    "name": "Oregon Blueberry Farms & Nursery",
+    "machine_name": "oregon_blueberry_farms_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8474 Hazelgreen Rd",
+        "address_2": null,
+        "city": "Silverton",
+        "state": "OR",
+        "postal_code": "97381-9631",
+        "geo_coordinate": "POINT (-122.8873693 45.0093079)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.oreblueberry.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@oreblueberry.com",
+        "phone": "503-873-1200",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673892",
+        "legacy_id": "20050",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

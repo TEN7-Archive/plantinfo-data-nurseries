@@ -1,0 +1,67 @@
+{
+    "name": "Australian Native Plants Nursery",
+    "machine_name": "australian_native_plants_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "Po Box 1606",
+        "address_2": "",
+        "city": "Oak View",
+        "state": "CA",
+        "postal_code": "93022",
+        "geo_coordinate": "POINT (-119.3001134 34.399996)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.australianplants.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@australianplants.com",
+        "phone": "510-384-2716",
+        "fax": "805-649-4080",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        },
+        {
+            "machine_name": "xeriscaping_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216194"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672423",
+        "legacy_id": "7690",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

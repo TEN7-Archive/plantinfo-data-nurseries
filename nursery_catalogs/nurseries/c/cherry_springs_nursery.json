@@ -1,0 +1,81 @@
+{
+    "name": "Cherry Springs Nursery",
+    "machine_name": "cherry_springs_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 8155--215 Lorance Lane",
+        "address_2": null,
+        "city": "McMinnville",
+        "state": "TN",
+        "postal_code": "37110",
+        "geo_coordinate": "POINT (-85.9299489 35.77458)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cherryspringsnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@cherryspringsnursery.com",
+        "phone": "800-438-8574",
+        "fax": "931-939-4890",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671906",
+        "legacy_id": "10530",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

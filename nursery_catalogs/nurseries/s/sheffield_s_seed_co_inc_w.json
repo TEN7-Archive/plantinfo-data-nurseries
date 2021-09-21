@@ -1,0 +1,67 @@
+{
+    "name": "Sheffield's Seed Co., Inc. (W)",
+    "machine_name": "sheffield_s_seed_co_inc_w",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "269 Auburn Road, Rt. 34",
+        "address_2": null,
+        "city": "Locke",
+        "state": "NY",
+        "postal_code": "13092",
+        "geo_coordinate": "POINT (-76.494372 42.6182979)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sheffields.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "seed@sheffields.com",
+        "phone": "315-497-1058",
+        "fax": "315-497-1059",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_woody_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216183"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672391",
+        "legacy_id": "811",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Just Fruits and Exotics",
+    "machine_name": "just_fruits_and_exotics",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "30 Saint Frances Street",
+        "address_2": null,
+        "city": "Crawfordville",
+        "state": "FL",
+        "postal_code": "32327",
+        "geo_coordinate": "POINT (-84.369314 30.119933)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.justfruitsandexotics.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "justfruits@hotmail.com",
+        "phone": "850-926-5644",
+        "fax": "850-926-9885",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671831",
+        "legacy_id": "15888",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

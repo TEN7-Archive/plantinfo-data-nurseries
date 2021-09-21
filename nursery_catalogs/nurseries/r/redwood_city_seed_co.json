@@ -1,0 +1,1653 @@
+{
+    "name": "Redwood City Seed Co.",
+    "machine_name": "redwood_city_seed_co",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "Box 361",
+        "address_2": "",
+        "city": "Redwood City",
+        "state": "CA",
+        "postal_code": "94064",
+        "geo_coordinate": "POINT (-122.23 37.49)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.ecoseeds.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "650-325-7333",
+        "fax": "650-325-4056",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2016",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "redwood_city_seed_co",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1488635",
+                    "machine_name": "phaseolus_p_cultivars_kentucky_wonder",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "54839",
+                        "fgsid": null,
+                        "legacy_id": "23671",
+                        "catalog_source_id": "1028294"
+                    }
+                },
+                {
+                    "reference": "1469019",
+                    "machine_name": "daucus_carota_danvers",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55230",
+                        "fgsid": null,
+                        "legacy_id": "7322",
+                        "catalog_source_id": "1028298"
+                    }
+                },
+                {
+                    "reference": "1558826",
+                    "machine_name": "zea_c_cultivars_golden_bantam_8_row",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55232",
+                        "fgsid": null,
+                        "legacy_id": "154602",
+                        "catalog_source_id": "1028300"
+                    }
+                },
+                {
+                    "reference": "1515086",
+                    "machine_name": "lactuca_cultivars_prizehead",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55236",
+                        "fgsid": null,
+                        "legacy_id": "89689",
+                        "catalog_source_id": "1028304"
+                    }
+                },
+                {
+                    "reference": "1504613",
+                    "machine_name": "cucumis_melo_casaba",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55238",
+                        "fgsid": null,
+                        "legacy_id": "75551",
+                        "catalog_source_id": "1028306"
+                    }
+                },
+                {
+                    "reference": "1504617",
+                    "machine_name": "cucumis_melo_crenshaw",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55239",
+                        "fgsid": null,
+                        "legacy_id": "75555",
+                        "catalog_source_id": "1028307"
+                    }
+                },
+                {
+                    "reference": "1518373",
+                    "machine_name": "pisum_sativum_laxton_s_progress",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55243",
+                        "fgsid": null,
+                        "legacy_id": "96411",
+                        "catalog_source_id": "1028312"
+                    }
+                },
+                {
+                    "reference": "1518376",
+                    "machine_name": "pisum_sativum_lincoln",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55244",
+                        "fgsid": null,
+                        "legacy_id": "96414",
+                        "catalog_source_id": "1028313"
+                    }
+                },
+                {
+                    "reference": "1642610",
+                    "machine_name": "capsicum_h_cultivars_mustard_habanero",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55246",
+                        "fgsid": null,
+                        "legacy_id": "261299",
+                        "catalog_source_id": "1028319"
+                    }
+                },
+                {
+                    "reference": "1496880",
+                    "machine_name": "capsicum_h_cultivars_pequin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55249",
+                        "fgsid": null,
+                        "legacy_id": "73606",
+                        "catalog_source_id": "1028325"
+                    }
+                },
+                {
+                    "reference": "1468632",
+                    "machine_name": "cucurbita_p_cultivars_sugar_pie",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55252",
+                        "fgsid": null,
+                        "legacy_id": "6054",
+                        "catalog_source_id": "1028330"
+                    }
+                },
+                {
+                    "reference": "1639290",
+                    "machine_name": "cucurbita_s_cultivars_golden_summer_crookneck",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55254",
+                        "fgsid": null,
+                        "legacy_id": "327259",
+                        "catalog_source_id": "1028332"
+                    }
+                },
+                {
+                    "reference": "1647582",
+                    "machine_name": "cucurbita_s_cultivars_kumi_kumi",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55255",
+                        "fgsid": null,
+                        "legacy_id": "364740",
+                        "catalog_source_id": "1028333"
+                    }
+                },
+                {
+                    "reference": "1590325",
+                    "machine_name": "cucurbita_s_cultivars_striato_d_italia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "55257",
+                        "fgsid": null,
+                        "legacy_id": "326460",
+                        "catalog_source_id": "1028335"
+                    }
+                },
+                {
+                    "reference": "1517116",
+                    "machine_name": "lycopersicon_cultivars_red_cherry_small",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68150",
+                        "fgsid": null,
+                        "legacy_id": "91336",
+                        "catalog_source_id": "1336199"
+                    }
+                },
+                {
+                    "reference": "1577855",
+                    "machine_name": "capsicum_h_cultivars_costeno_amarillo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68152",
+                        "fgsid": null,
+                        "legacy_id": "196781",
+                        "catalog_source_id": "1165754"
+                    }
+                },
+                {
+                    "reference": "1468617",
+                    "machine_name": "citrullus_lanatus_crimson_sweet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68153",
+                        "fgsid": null,
+                        "legacy_id": "4837",
+                        "catalog_source_id": "1336200"
+                    }
+                },
+                {
+                    "reference": "1468605",
+                    "machine_name": "citrullus_lanatus_allsweet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68154",
+                        "fgsid": null,
+                        "legacy_id": "4825",
+                        "catalog_source_id": "1336201"
+                    }
+                },
+                {
+                    "reference": "1605343",
+                    "machine_name": "capsicum_h_cultivars_bhut_jolokia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68155",
+                        "fgsid": null,
+                        "legacy_id": "282378",
+                        "catalog_source_id": "1165757"
+                    }
+                },
+                {
+                    "reference": "1504610",
+                    "machine_name": "citrullus_lanatus_yellow_moon_and_stars",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68156",
+                        "fgsid": null,
+                        "legacy_id": "74452",
+                        "catalog_source_id": "1336202"
+                    }
+                },
+                {
+                    "reference": "1405293",
+                    "machine_name": "coriandrum_sativum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68157",
+                        "fgsid": "8683",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336243"
+                    }
+                },
+                {
+                    "reference": "1501473",
+                    "machine_name": "coriandrum_sativum_slow_bolt",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68158",
+                        "fgsid": null,
+                        "legacy_id": "74740",
+                        "catalog_source_id": "1336244"
+                    }
+                },
+                {
+                    "reference": "1470605",
+                    "machine_name": "capsicum_s_cultivars_numex_big_jim",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68159",
+                        "fgsid": null,
+                        "legacy_id": "4045",
+                        "catalog_source_id": "1165760"
+                    }
+                },
+                {
+                    "reference": "1589533",
+                    "machine_name": "capsicum_h_cultivars_trinidad_scorpion",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68160",
+                        "fgsid": null,
+                        "legacy_id": "319041",
+                        "catalog_source_id": "1165761"
+                    }
+                },
+                {
+                    "reference": "1468360",
+                    "machine_name": "cucurbita_p_cultivars_atlantic_giant",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68161",
+                        "fgsid": null,
+                        "legacy_id": "6005",
+                        "catalog_source_id": "1165762"
+                    }
+                },
+                {
+                    "reference": "1440405",
+                    "machine_name": "porophyllum_coloratum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68162",
+                        "fgsid": "43309",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336245"
+                    }
+                },
+                {
+                    "reference": "1477239",
+                    "machine_name": "lycopersicon_cultivars_zapotec_ribbed",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68163",
+                        "fgsid": null,
+                        "legacy_id": "18328",
+                        "catalog_source_id": "1165764"
+                    }
+                },
+                {
+                    "reference": "1504576",
+                    "machine_name": "citrullus_lanatus_jubilee",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68164",
+                        "fgsid": null,
+                        "legacy_id": "74418",
+                        "catalog_source_id": "1165765"
+                    }
+                },
+                {
+                    "reference": "1412919",
+                    "machine_name": "eschscholzia_californica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68166",
+                        "fgsid": "13754",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336246"
+                    }
+                },
+                {
+                    "reference": "1420008",
+                    "machine_name": "luffa_cylindrica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68173",
+                        "fgsid": "21538",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336247"
+                    }
+                },
+                {
+                    "reference": "1442789",
+                    "machine_name": "eragrostis_tef",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68174",
+                        "fgsid": "42433",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336248"
+                    }
+                },
+                {
+                    "reference": "1478214",
+                    "machine_name": "ipomoea_tricolor_heavenly_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68185",
+                        "fgsid": null,
+                        "legacy_id": "14767",
+                        "catalog_source_id": "1336249"
+                    }
+                },
+                {
+                    "reference": "1429906",
+                    "machine_name": "salvia_apiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68187",
+                        "fgsid": "31468",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336250"
+                    }
+                },
+                {
+                    "reference": "1419426",
+                    "machine_name": "hierochloe_odorata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68189",
+                        "fgsid": "18330",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336251"
+                    }
+                },
+                {
+                    "reference": "1417936",
+                    "machine_name": "nicotiana_tabacum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68191",
+                        "fgsid": "24196",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336252"
+                    }
+                },
+                {
+                    "reference": "1534364",
+                    "machine_name": "helianthus_annuus_indian_blanket",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "68192",
+                        "fgsid": null,
+                        "legacy_id": "107773",
+                        "catalog_source_id": "1165770"
+                    }
+                },
+                {
+                    "reference": "1405983",
+                    "machine_name": "chenopodium_berlandieri",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94790",
+                        "fgsid": "7344",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336224"
+                    }
+                },
+                {
+                    "reference": "1470326",
+                    "machine_name": "capsicum_s_cultivars_cubanelle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94791",
+                        "fgsid": null,
+                        "legacy_id": "3986",
+                        "catalog_source_id": "1336229"
+                    }
+                },
+                {
+                    "reference": "1642592",
+                    "machine_name": "capsicum_h_cultivars_costeno",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94793",
+                        "fgsid": null,
+                        "legacy_id": "261281",
+                        "catalog_source_id": "1336230"
+                    }
+                },
+                {
+                    "reference": "1577214",
+                    "machine_name": "capsicum_h_cultivars_big_sun",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94820",
+                        "fgsid": null,
+                        "legacy_id": "196543",
+                        "catalog_source_id": "1336233"
+                    }
+                },
+                {
+                    "reference": "1629263",
+                    "machine_name": "capsicum_h_cultivars_haitian",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94821",
+                        "fgsid": null,
+                        "legacy_id": "243428",
+                        "catalog_source_id": "1336234"
+                    }
+                },
+                {
+                    "reference": "1658369",
+                    "machine_name": "capsicum_h_cultivars_tobago",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94822",
+                        "fgsid": null,
+                        "legacy_id": "267477",
+                        "catalog_source_id": "1336235"
+                    }
+                },
+                {
+                    "reference": "1627486",
+                    "machine_name": "capsicum_h_cultivars_thai_bangkok_upright",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94823",
+                        "fgsid": null,
+                        "legacy_id": "252049",
+                        "catalog_source_id": "1336236"
+                    }
+                },
+                {
+                    "reference": "1486389",
+                    "machine_name": "raphanus_sativus_cherry_belle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94824",
+                        "fgsid": null,
+                        "legacy_id": "25569",
+                        "catalog_source_id": "1336237"
+                    }
+                },
+                {
+                    "reference": "1440052",
+                    "machine_name": "glycine_max",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94825",
+                        "fgsid": "43225",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336238"
+                    }
+                },
+                {
+                    "reference": "1639290",
+                    "machine_name": "cucurbita_s_cultivars_golden_summer_crookneck",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94826",
+                        "fgsid": null,
+                        "legacy_id": "327259",
+                        "catalog_source_id": "1336239"
+                    }
+                },
+                {
+                    "reference": "1497358",
+                    "machine_name": "brassica_oleracea_b_green_sprouting",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94839",
+                        "fgsid": null,
+                        "legacy_id": "72454",
+                        "catalog_source_id": "1336221"
+                    }
+                },
+                {
+                    "reference": "1528670",
+                    "machine_name": "zea_f_cultivars_hopi_yellow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94845",
+                        "fgsid": null,
+                        "legacy_id": "104905",
+                        "catalog_source_id": "1336223"
+                    }
+                },
+                {
+                    "reference": "1544208",
+                    "machine_name": "capsicum_h_cultivars_chilaca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "99947",
+                        "fgsid": null,
+                        "legacy_id": "116434",
+                        "catalog_source_id": "1165752"
+                    }
+                },
+                {
+                    "reference": "1464651",
+                    "machine_name": "beta_vulgaris_b_ruby_queen",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104120",
+                        "fgsid": null,
+                        "legacy_id": "2448",
+                        "catalog_source_id": "1165737"
+                    }
+                },
+                {
+                    "reference": "1468339",
+                    "machine_name": "cucumis_sativus_straight_eight",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104123",
+                        "fgsid": null,
+                        "legacy_id": "5982",
+                        "catalog_source_id": "1165738"
+                    }
+                },
+                {
+                    "reference": "1567267",
+                    "machine_name": "cucumis_melo_armenian",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104125",
+                        "fgsid": null,
+                        "legacy_id": "181342",
+                        "catalog_source_id": "1165739"
+                    }
+                },
+                {
+                    "reference": "1578534",
+                    "machine_name": "cucumis_melo_burrell_s_jumbo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104131",
+                        "fgsid": null,
+                        "legacy_id": "197139",
+                        "catalog_source_id": "1165740"
+                    }
+                },
+                {
+                    "reference": "1467750",
+                    "machine_name": "cucumis_melo_jaune_canari_yellow_canary",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104134",
+                        "fgsid": null,
+                        "legacy_id": "241400",
+                        "catalog_source_id": "1165741"
+                    }
+                },
+                {
+                    "reference": "1560542",
+                    "machine_name": "arachis_hypogaea_tennessee_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104145",
+                        "fgsid": null,
+                        "legacy_id": "166636",
+                        "catalog_source_id": "1165743"
+                    }
+                },
+                {
+                    "reference": "1469711",
+                    "machine_name": "capsicum_h_cultivars_ancho",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104149",
+                        "fgsid": null,
+                        "legacy_id": "3794",
+                        "catalog_source_id": "1165745"
+                    }
+                },
+                {
+                    "reference": "1627472",
+                    "machine_name": "capsicum_h_cultivars_habanero_gold_bullet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "104158",
+                        "fgsid": null,
+                        "legacy_id": "252035",
+                        "catalog_source_id": "1165747"
+                    }
+                },
+                {
+                    "reference": "1627719",
+                    "machine_name": "cucumis_melo_honeydew_gold_rind",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "134096",
+                        "fgsid": null,
+                        "legacy_id": "249465",
+                        "catalog_source_id": "730325"
+                    }
+                },
+                {
+                    "reference": "1578102",
+                    "machine_name": "capsicum_h_cultivars_barker",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "134098",
+                        "fgsid": null,
+                        "legacy_id": "202261",
+                        "catalog_source_id": "730328"
+                    }
+                },
+                {
+                    "reference": "1578175",
+                    "machine_name": "capsicum_h_cultivars_onza_roja",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "134105",
+                        "fgsid": null,
+                        "legacy_id": "196888",
+                        "catalog_source_id": "730339"
+                    }
+                },
+                {
+                    "reference": "1469274",
+                    "machine_name": "cucurbita_s_cultivars_zucchina_costa_romanesca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "134111",
+                        "fgsid": null,
+                        "legacy_id": "6228",
+                        "catalog_source_id": "730366"
+                    }
+                },
+                {
+                    "reference": "1614590",
+                    "machine_name": "lycopersicon_cultivars_grape",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "134114",
+                        "fgsid": null,
+                        "legacy_id": "238372",
+                        "catalog_source_id": "730383"
+                    }
+                },
+                {
+                    "reference": "1559624",
+                    "machine_name": "citrullus_lanatus_florida_giant",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "141507",
+                        "fgsid": null,
+                        "legacy_id": "150986",
+                        "catalog_source_id": "730312"
+                    }
+                },
+                {
+                    "reference": "1504602",
+                    "machine_name": "citrullus_lanatus_tendersweet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "141509",
+                        "fgsid": null,
+                        "legacy_id": "74444",
+                        "catalog_source_id": "730314"
+                    }
+                },
+                {
+                    "reference": "1528679",
+                    "machine_name": "zea_f_cultivars_maiz_morado",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150479",
+                        "fgsid": null,
+                        "legacy_id": "104914",
+                        "catalog_source_id": "561932"
+                    }
+                },
+                {
+                    "reference": "1528659",
+                    "machine_name": "zea_f_cultivars_hopi_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150481",
+                        "fgsid": null,
+                        "legacy_id": "104894",
+                        "catalog_source_id": "561935"
+                    }
+                },
+                {
+                    "reference": "1467768",
+                    "machine_name": "cucumis_melo_persian",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150487",
+                        "fgsid": null,
+                        "legacy_id": "5872",
+                        "catalog_source_id": "561948"
+                    }
+                },
+                {
+                    "reference": "1481053",
+                    "machine_name": "lactuca_cultivars_rouge_d_hiver",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150492",
+                        "fgsid": null,
+                        "legacy_id": "16768",
+                        "catalog_source_id": "561963"
+                    }
+                },
+                {
+                    "reference": "1486287",
+                    "machine_name": "pisum_sativum_sugar_snap",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150496",
+                        "fgsid": null,
+                        "legacy_id": "24276",
+                        "catalog_source_id": "561979"
+                    }
+                },
+                {
+                    "reference": "1469710",
+                    "machine_name": "capsicum_h_cultivars_anaheim",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150497",
+                        "fgsid": null,
+                        "legacy_id": "3793",
+                        "catalog_source_id": "561990"
+                    }
+                },
+                {
+                    "reference": "1496609",
+                    "machine_name": "capsicum_h_cultivars_cayenne_long_slim",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150498",
+                        "fgsid": null,
+                        "legacy_id": "73545",
+                        "catalog_source_id": "561992"
+                    }
+                },
+                {
+                    "reference": "1496614",
+                    "machine_name": "capsicum_h_cultivars_chimayo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150499",
+                        "fgsid": null,
+                        "legacy_id": "73550",
+                        "catalog_source_id": "561993"
+                    }
+                },
+                {
+                    "reference": "1577891",
+                    "machine_name": "capsicum_h_cultivars_de_arbol",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150500",
+                        "fgsid": null,
+                        "legacy_id": "196840",
+                        "catalog_source_id": "561994"
+                    }
+                },
+                {
+                    "reference": "1496627",
+                    "machine_name": "capsicum_h_cultivars_fresno_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150501",
+                        "fgsid": null,
+                        "legacy_id": "73566",
+                        "catalog_source_id": "561996"
+                    }
+                },
+                {
+                    "reference": "1557628",
+                    "machine_name": "capsicum_h_cultivars_guajillo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150502",
+                        "fgsid": null,
+                        "legacy_id": "154279",
+                        "catalog_source_id": "561997"
+                    }
+                },
+                {
+                    "reference": "1496856",
+                    "machine_name": "capsicum_h_cultivars_hungarian_yellow_wax_hot",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150866",
+                        "fgsid": null,
+                        "legacy_id": "73579",
+                        "catalog_source_id": "562074"
+                    }
+                },
+                {
+                    "reference": "1469765",
+                    "machine_name": "capsicum_h_cultivars_manzano",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150870",
+                        "fgsid": null,
+                        "legacy_id": "3853",
+                        "catalog_source_id": "562082"
+                    }
+                },
+                {
+                    "reference": "1496866",
+                    "machine_name": "capsicum_h_cultivars_manzano_rojo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150871",
+                        "fgsid": null,
+                        "legacy_id": "73589",
+                        "catalog_source_id": "562083"
+                    }
+                },
+                {
+                    "reference": "1470016",
+                    "machine_name": "capsicum_h_cultivars_puya",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150873",
+                        "fgsid": null,
+                        "legacy_id": "3885",
+                        "catalog_source_id": "562089"
+                    }
+                },
+                {
+                    "reference": "1470026",
+                    "machine_name": "capsicum_h_cultivars_sandia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150874",
+                        "fgsid": null,
+                        "legacy_id": "3895",
+                        "catalog_source_id": "562093"
+                    }
+                },
+                {
+                    "reference": "1470030",
+                    "machine_name": "capsicum_h_cultivars_serrano",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150875",
+                        "fgsid": null,
+                        "legacy_id": "3900",
+                        "catalog_source_id": "562094"
+                    }
+                },
+                {
+                    "reference": "1557625",
+                    "machine_name": "capsicum_h_cultivars_santa_fe_grande",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150876",
+                        "fgsid": null,
+                        "legacy_id": "154274",
+                        "catalog_source_id": "562095"
+                    }
+                },
+                {
+                    "reference": "1470040",
+                    "machine_name": "capsicum_h_cultivars_tabasco",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150877",
+                        "fgsid": null,
+                        "legacy_id": "3912",
+                        "catalog_source_id": "562097"
+                    }
+                },
+                {
+                    "reference": "1496905",
+                    "machine_name": "capsicum_h_cultivars_tepin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150878",
+                        "fgsid": null,
+                        "legacy_id": "73631",
+                        "catalog_source_id": "562098"
+                    }
+                },
+                {
+                    "reference": "1578214",
+                    "machine_name": "capsicum_h_cultivars_zimbabwe_bird",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150879",
+                        "fgsid": null,
+                        "legacy_id": "196938",
+                        "catalog_source_id": "562102"
+                    }
+                },
+                {
+                    "reference": "1494523",
+                    "machine_name": "spinacia_oleracea_bloomsdale_longstanding",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150881",
+                        "fgsid": null,
+                        "legacy_id": "32555",
+                        "catalog_source_id": "562113"
+                    }
+                },
+                {
+                    "reference": "1521819",
+                    "machine_name": "ocimum_basilicum_genovese",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150890",
+                        "fgsid": null,
+                        "legacy_id": "93812",
+                        "catalog_source_id": "562138"
+                    }
+                },
+                {
+                    "reference": "1579078",
+                    "machine_name": "zea_c_cultivars_chulpi_cancha",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "151919",
+                        "fgsid": null,
+                        "legacy_id": "202765",
+                        "catalog_source_id": "562679"
+                    }
+                },
+                {
+                    "reference": "1579336",
+                    "machine_name": "capsicum_h_cultivars_aji_yellow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "152307",
+                        "fgsid": null,
+                        "legacy_id": "202806",
+                        "catalog_source_id": "562723"
+                    }
+                },
+                {
+                    "reference": "1496862",
+                    "machine_name": "capsicum_h_cultivars_jalapeno_m",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "152312",
+                        "fgsid": null,
+                        "legacy_id": "73585",
+                        "catalog_source_id": "562787"
+                    }
+                },
+                {
+                    "reference": "1579384",
+                    "machine_name": "capsicum_h_cultivars_japones",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "152314",
+                        "fgsid": null,
+                        "legacy_id": "202937",
+                        "catalog_source_id": "562790"
+                    }
+                },
+                {
+                    "reference": "1579387",
+                    "machine_name": "capsicum_h_cultivars_manzano_yellow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "152315",
+                        "fgsid": null,
+                        "legacy_id": "202940",
+                        "catalog_source_id": "562792"
+                    }
+                },
+                {
+                    "reference": "1579074",
+                    "machine_name": "phaseolus_l_cultivars_incan_giant_white",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173697",
+                        "fgsid": null,
+                        "legacy_id": "202760",
+                        "catalog_source_id": "1336219"
+                    }
+                },
+                {
+                    "reference": "1423006",
+                    "machine_name": "phaseolus_coccineus",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173698",
+                        "fgsid": "26795",
+                        "legacy_id": null,
+                        "catalog_source_id": "1336220"
+                    }
+                },
+                {
+                    "reference": "1464661",
+                    "machine_name": "beta_vulgaris_c_rainbow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173701",
+                        "fgsid": null,
+                        "legacy_id": "2458",
+                        "catalog_source_id": "1336222"
+                    }
+                },
+                {
+                    "reference": "1621634",
+                    "machine_name": "lactuca_cultivars_marvel_of_four_seasons",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173702",
+                        "fgsid": null,
+                        "legacy_id": "353096",
+                        "catalog_source_id": "1336225"
+                    }
+                },
+                {
+                    "reference": "1465852",
+                    "machine_name": "abelmoschus_esculentus_burgundy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173704",
+                        "fgsid": null,
+                        "legacy_id": "18",
+                        "catalog_source_id": "1336226"
+                    }
+                },
+                {
+                    "reference": "1518373",
+                    "machine_name": "pisum_sativum_laxton_s_progress",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173705",
+                        "fgsid": null,
+                        "legacy_id": "96411",
+                        "catalog_source_id": "1336227"
+                    }
+                },
+                {
+                    "reference": "1578215",
+                    "machine_name": "capsicum_s_cultivars_banana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173707",
+                        "fgsid": null,
+                        "legacy_id": "196939",
+                        "catalog_source_id": "1336228"
+                    }
+                },
+                {
+                    "reference": "1642611",
+                    "machine_name": "capsicum_h_cultivars_peach_habanero",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173708",
+                        "fgsid": null,
+                        "legacy_id": "261300",
+                        "catalog_source_id": "1336231"
+                    }
+                },
+                {
+                    "reference": "1579383",
+                    "machine_name": "capsicum_h_cultivars_hawaiian_sweet_hot",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173709",
+                        "fgsid": null,
+                        "legacy_id": "202936",
+                        "catalog_source_id": "1336232"
+                    }
+                },
+                {
+                    "reference": "1497721",
+                    "machine_name": "capsicum_s_cultivars_california_wonder",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222680",
+                        "fgsid": null,
+                        "legacy_id": "73664",
+                        "catalog_source_id": "730511"
+                    }
+                },
+                {
+                    "reference": "1627457",
+                    "machine_name": "capsicum_s_cultivars_dulcetta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222681",
+                        "fgsid": null,
+                        "legacy_id": "252020",
+                        "catalog_source_id": "730513"
+                    }
+                },
+                {
+                    "reference": "1627466",
+                    "machine_name": "capsicum_h_cultivars_catarina",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222682",
+                        "fgsid": null,
+                        "legacy_id": "252029",
+                        "catalog_source_id": "730542"
+                    }
+                },
+                {
+                    "reference": "1627475",
+                    "machine_name": "capsicum_h_cultivars_jalapeno_grande_craig_s",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "222684",
+                        "fgsid": null,
+                        "legacy_id": "252038",
+                        "catalog_source_id": "730580"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672277",
+        "legacy_id": "740",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019\/20, 2018, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

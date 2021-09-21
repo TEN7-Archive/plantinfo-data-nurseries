@@ -1,0 +1,60 @@
+{
+    "name": "Matilija Nursery",
+    "machine_name": "matilija_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8225 Waters Road",
+        "address_2": null,
+        "city": "Moorpark",
+        "state": "CA",
+        "postal_code": "93012",
+        "geo_coordinate": "POINT (-118.9495384 34.3181894)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.matilijanursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "805-523-8604",
+        "fax": "805-523-2298",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "iris",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216172"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673921",
+        "legacy_id": "28232",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

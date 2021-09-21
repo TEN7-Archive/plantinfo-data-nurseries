@@ -1,0 +1,60 @@
+{
+    "name": "Ecolotree",
+    "machine_name": "ecolotree",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3017 Valley View Lane",
+        "address_2": "",
+        "city": "North Liberty",
+        "state": "IA",
+        "postal_code": "52317",
+        "geo_coordinate": "POINT (-91.6357798 41.7902607)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.ecolotree.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "anne-randell@ecolotree.com",
+        "phone": "319-665-3547",
+        "fax": "319-665-8035",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672869",
+        "legacy_id": "13828",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Brotzman's Nursery, Inc.",
+    "machine_name": "brotzman_s_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6899 Chapel Road",
+        "address_2": "",
+        "city": "Madison",
+        "state": "OH",
+        "postal_code": "44057",
+        "geo_coordinate": "POINT (-81.040517 41.823009)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.brotzmansnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "440-428-3361",
+        "fax": "440-428-8824",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2015   password BROTZMAN",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672318",
+        "legacy_id": "6888",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "W-OH31",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Moore, Bill & Company",
+    "machine_name": "moore_bill_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O Box 1587",
+        "address_2": null,
+        "city": "Brandon",
+        "state": "FL",
+        "postal_code": "33509",
+        "geo_coordinate": "POINT (-82.3025165 27.9340393)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.billmooreco.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "chris@billmooreco.com",
+        "phone": "800-237-7794",
+        "fax": "813-684-5856",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        },
+        {
+            "machine_name": "carnivorous",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216192"
+            }
+        },
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672734",
+        "legacy_id": "8517",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,716 @@
+{
+    "name": "Fancy Fronds",
+    "machine_name": "fancy_fronds",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "40830 172nd St. SE",
+        "address_2": "",
+        "city": "Gold Bar",
+        "state": "WA",
+        "postal_code": "98251",
+        "geo_coordinate": "POINT (-121.683842 47.841352)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.fancyfrondsnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "360-793-1472",
+        "fax": "360-793-4243",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Fancy Fronds 2019",
+            "machine_name": "fancy_fronds_2019",
+            "type": "nursery_catalog",
+            "date": "Feb 7 2019",
+            "nursery": "fancy_fronds",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1443306",
+                    "machine_name": "polystichum_neolobatum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "40807",
+                        "fgsid": "45396",
+                        "legacy_id": null,
+                        "catalog_source_id": "1250385"
+                    }
+                },
+                {
+                    "reference": "1440152",
+                    "machine_name": "polystichum_aculeatum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "48693",
+                        "fgsid": "44657",
+                        "legacy_id": null,
+                        "catalog_source_id": "726080"
+                    }
+                },
+                {
+                    "reference": "1440720",
+                    "machine_name": "athyrium_otophorum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": "p20",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63826",
+                        "fgsid": "43361",
+                        "legacy_id": null,
+                        "catalog_source_id": "236886"
+                    }
+                },
+                {
+                    "reference": "1549264",
+                    "machine_name": "dryopteris_filix_mas_barnesii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p27",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "64673",
+                        "fgsid": null,
+                        "legacy_id": "121385",
+                        "catalog_source_id": "237421"
+                    }
+                },
+                {
+                    "reference": "1444563",
+                    "machine_name": "dryopteris_carthusiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "139984",
+                        "fgsid": "42893",
+                        "legacy_id": null,
+                        "catalog_source_id": "529662"
+                    }
+                },
+                {
+                    "reference": "1539532",
+                    "machine_name": "dryopteris_filix_mas_linearis_congesta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150203",
+                        "fgsid": null,
+                        "legacy_id": "114099",
+                        "catalog_source_id": "962900"
+                    }
+                },
+                {
+                    "reference": "1444565",
+                    "machine_name": "polystichum_setiferum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "172441",
+                        "fgsid": "42895",
+                        "legacy_id": null,
+                        "catalog_source_id": "1117067"
+                    }
+                },
+                {
+                    "reference": "1593345",
+                    "machine_name": "dryopteris_filix_mas_fluctuosa_cristata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "172608",
+                        "fgsid": null,
+                        "legacy_id": "380341",
+                        "catalog_source_id": "1117170"
+                    }
+                },
+                {
+                    "reference": "1543419",
+                    "machine_name": "dryopteris_dilatata_recurvata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "182847",
+                        "fgsid": null,
+                        "legacy_id": "117426",
+                        "catalog_source_id": "1117051"
+                    }
+                },
+                {
+                    "reference": "1571444",
+                    "machine_name": "osmunda_regalis_regalis",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "182855",
+                        "fgsid": null,
+                        "legacy_id": "196327",
+                        "catalog_source_id": "1117059"
+                    }
+                },
+                {
+                    "reference": "1459686",
+                    "machine_name": "adiantum_tracyi",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "273111",
+                        "fgsid": "144519",
+                        "legacy_id": null,
+                        "catalog_source_id": "1250345"
+                    }
+                },
+                {
+                    "reference": "1440759",
+                    "machine_name": "adiantum_aleuticum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976421",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1440755",
+                    "machine_name": "adiantum_venustum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976426",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1435802",
+                    "machine_name": "asplenium_ebenoides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976431",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1438263",
+                    "machine_name": "asplenium_scolopendrium",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976436",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1634276",
+                    "machine_name": "athyrium_filix_femina_angustum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976441",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1531881",
+                    "machine_name": "athyrium_filix_femina_frizelliae",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976446",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1451504",
+                    "machine_name": "athyrium_japonicum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976451",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1529069",
+                    "machine_name": "athyrium_niponicum_pictum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976456",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1441419",
+                    "machine_name": "cyrtomium_fortunei",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976461",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1566035",
+                    "machine_name": "cyrtomium_fortunei_clivicola",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976466",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1549265",
+                    "machine_name": "dryopteris_affinis_crispa_gracilis",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976471",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1545612",
+                    "machine_name": "dryopteris_affinis_cristata_the_king",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976476",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1542337",
+                    "machine_name": "dryopteris_complexa_robust",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976481",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1442848",
+                    "machine_name": "dryopteris_nipponensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976486",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1442842",
+                    "machine_name": "dryopteris_dilatata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976491",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1444259",
+                    "machine_name": "dryopteris_erythrosora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976496",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1545610",
+                    "machine_name": "dryopteris_filix_mas_cristata_martindale",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976501",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1630415",
+                    "machine_name": "dryopteris_filix_mas_grandiceps_wills",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976506",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1549259",
+                    "machine_name": "dryopteris_filix_mas_linearis_polydactyla",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976511",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1440717",
+                    "machine_name": "dryopteris_marginalis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976516",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1442850",
+                    "machine_name": "dryopteris_remota",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976521",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1556655",
+                    "machine_name": "matteuccia_struthiopteris_jumbo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976526",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1620556",
+                    "machine_name": "polypodium_cultivars_sarah_lyman",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976531",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2452631",
+                    "machine_name": "polypodium_glycyrrhiza_grandiceps_diane",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976536",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1549034",
+                    "machine_name": "polystichum_setiferum_plumoso_multilobum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976611",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1451290",
+                    "machine_name": "polystichum_dycei",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976616",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1551821",
+                    "machine_name": "selaginella_kraussiana_brownii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976621",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1538558",
+                    "machine_name": "selaginella_kraussiana_gold_tips",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "976626",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2466521",
+                    "machine_name": "heterotheca_grandiflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "983106",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2466526",
+                    "machine_name": "heterotheca_inuloides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "983111",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2466531",
+                    "machine_name": "haloragis_masatierrana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "983116",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2466536",
+                    "machine_name": "selaginella_helvetica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "983121",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672896",
+        "legacy_id": "286",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

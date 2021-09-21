@@ -1,0 +1,74 @@
+{
+    "name": "Landmark Nurseries",
+    "machine_name": "landmark_nurseries",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "10900 Petal Street",
+        "address_2": "",
+        "city": "Dallas",
+        "state": "TX",
+        "postal_code": "75238",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/landmarknurseries.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2625561",
+        "legacy_id": null,
+        "ships": false,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1590154867"
+    }
+}

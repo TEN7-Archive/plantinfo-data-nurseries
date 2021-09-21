@@ -1,0 +1,67 @@
+{
+    "name": "Seven Arrows Farm",
+    "machine_name": "seven_arrows_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "346 Oakhill Avenue",
+        "address_2": "",
+        "city": "Seekonk",
+        "state": "MA",
+        "postal_code": "02771",
+        "geo_coordinate": "POINT (-71.3066999 41.9029345)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sevenarrowsfarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@sevenarrowsfarm.com",
+        "phone": "508-399-7860",
+        "fax": "508-399-8661",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bamboo",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216154"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672037",
+        "legacy_id": "16751",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

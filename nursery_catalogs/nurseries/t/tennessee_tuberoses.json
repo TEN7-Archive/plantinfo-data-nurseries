@@ -1,0 +1,101 @@
+{
+    "name": "Tennessee Tuberoses",
+    "machine_name": "tennessee_tuberoses",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "294 Brazier Lane",
+        "address_2": "",
+        "city": "Gallatin",
+        "state": "TN",
+        "postal_code": "37066",
+        "geo_coordinate": "POINT (-86.4802629 36.442501)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.tntuberoses.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "Tuberoses@bellsouth.net",
+        "phone": "615-230-7071",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Tennessee Tuberoses 2019",
+            "machine_name": "tennessee_tuberoses_2019",
+            "type": "nursery_catalog",
+            "date": "Mar 1 2019",
+            "nursery": "tennessee_tuberoses",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1486628",
+                    "machine_name": "polianthes_tuberosa_the_pearl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "9216",
+                        "fgsid": null,
+                        "legacy_id": "24397",
+                        "catalog_source_id": "1129123"
+                    }
+                },
+                {
+                    "reference": "1421955",
+                    "machine_name": "polianthes_tuberosa",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106819",
+                        "fgsid": "27908",
+                        "legacy_id": null,
+                        "catalog_source_id": "961823"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673553",
+        "legacy_id": "24368",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

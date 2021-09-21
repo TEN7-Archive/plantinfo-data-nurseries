@@ -1,0 +1,67 @@
+{
+    "name": "Greenbrier Nurseries",
+    "machine_name": "greenbrier_nurseries",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "HC 65 Box 31 Barger Springs Road",
+        "address_2": null,
+        "city": "Talcott",
+        "state": "WV",
+        "postal_code": "24981",
+        "geo_coordinate": "POINT (-80.7542478 37.6515095)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/greenbriernurseries.com\/wholesale",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "304-466-2660",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674271",
+        "legacy_id": "33348",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

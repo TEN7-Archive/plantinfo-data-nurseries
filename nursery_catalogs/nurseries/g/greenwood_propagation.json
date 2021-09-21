@@ -1,0 +1,830 @@
+{
+    "name": "Greenwood Propagation",
+    "machine_name": "greenwood_propagation",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 190",
+        "address_2": "",
+        "city": "Hebron",
+        "state": "IL",
+        "postal_code": "60034",
+        "geo_coordinate": "POINT (-88.432318 42.4716853)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.greenwoodpropagation.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "815-385-8722",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "greenwood_propagation",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1604792",
+                    "machine_name": "epimedium_cultivars_amber_queen",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "17517",
+                        "fgsid": null,
+                        "legacy_id": "286880",
+                        "catalog_source_id": "1195653"
+                    }
+                },
+                {
+                    "reference": "1542143",
+                    "machine_name": "epimedium_versicolor_cherry_tart",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "17534",
+                        "fgsid": null,
+                        "legacy_id": "120791",
+                        "catalog_source_id": "1195652"
+                    }
+                },
+                {
+                    "reference": "1400532",
+                    "machine_name": "aesculus_parviflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "17538",
+                        "fgsid": "1399",
+                        "legacy_id": null,
+                        "catalog_source_id": "1195654"
+                    }
+                },
+                {
+                    "reference": "1532752",
+                    "machine_name": "aesculus_parviflora_rogers",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "17539",
+                        "fgsid": null,
+                        "legacy_id": "111088",
+                        "catalog_source_id": "1195655"
+                    }
+                },
+                {
+                    "reference": "1614803",
+                    "machine_name": "cercis_canadensis_columbus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "17542",
+                        "fgsid": null,
+                        "legacy_id": "236016",
+                        "catalog_source_id": "1195656"
+                    }
+                },
+                {
+                    "reference": "1595158",
+                    "machine_name": "epimedium_cultivars_sasaki",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "39336",
+                        "fgsid": null,
+                        "legacy_id": "389620",
+                        "catalog_source_id": "1181974"
+                    }
+                },
+                {
+                    "reference": "1507419",
+                    "machine_name": "epimedium_grandiflorum_lilafee_lilac_fairy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71855",
+                        "fgsid": null,
+                        "legacy_id": "78652",
+                        "catalog_source_id": "1181965"
+                    }
+                },
+                {
+                    "reference": "1475152",
+                    "machine_name": "epimedium_versicolor_sulphureum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71856",
+                        "fgsid": null,
+                        "legacy_id": "8987",
+                        "catalog_source_id": "1181966"
+                    }
+                },
+                {
+                    "reference": "1475151",
+                    "machine_name": "epimedium_versicolor_rubrum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71858",
+                        "fgsid": null,
+                        "legacy_id": "8986",
+                        "catalog_source_id": "1181967"
+                    }
+                },
+                {
+                    "reference": "1652246",
+                    "machine_name": "epimedium_cultivars_brilliant_rubystarr",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71859",
+                        "fgsid": null,
+                        "legacy_id": "389619",
+                        "catalog_source_id": "1181968"
+                    }
+                },
+                {
+                    "reference": "1475154",
+                    "machine_name": "epimedium_youngianum_niveum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71860",
+                        "fgsid": null,
+                        "legacy_id": "8989",
+                        "catalog_source_id": "1181969"
+                    }
+                },
+                {
+                    "reference": "1636247",
+                    "machine_name": "epimedium_cultivars_pink_elf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71861",
+                        "fgsid": null,
+                        "legacy_id": "289398",
+                        "catalog_source_id": "1181970"
+                    }
+                },
+                {
+                    "reference": "1542132",
+                    "machine_name": "epimedium_grandiflorum_dark_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71862",
+                        "fgsid": null,
+                        "legacy_id": "120780",
+                        "catalog_source_id": "1181971"
+                    }
+                },
+                {
+                    "reference": "1595553",
+                    "machine_name": "epimedium_cultivars_pink_champagne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71863",
+                        "fgsid": null,
+                        "legacy_id": "362919",
+                        "catalog_source_id": "1181972"
+                    }
+                },
+                {
+                    "reference": "1540591",
+                    "machine_name": "epimedium_grandiflorum_purple_prince",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71864",
+                        "fgsid": null,
+                        "legacy_id": "113133",
+                        "catalog_source_id": "1181973"
+                    }
+                },
+                {
+                    "reference": "1597029",
+                    "machine_name": "nyssa_sylvatica_caroline",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "144764",
+                        "fgsid": null,
+                        "legacy_id": "390564",
+                        "catalog_source_id": "1195657"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Greenwood Propagation 2017",
+            "machine_name": "greenwood_propagation_2017",
+            "type": "nursery_catalog",
+            "date": "Dec 19 2016",
+            "nursery": "greenwood_propagation",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1652246",
+                    "machine_name": "epimedium_cultivars_brilliant_rubystarr",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371836",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1415041",
+                    "machine_name": "epimedium_grandiflorum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371841",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1542132",
+                    "machine_name": "epimedium_grandiflorum_dark_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371846",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1507419",
+                    "machine_name": "epimedium_grandiflorum_lilafee_lilac_fairy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371851",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1540591",
+                    "machine_name": "epimedium_grandiflorum_purple_prince",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371856",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1565482",
+                    "machine_name": "epimedium_grandiflorum_rose_queen",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371861",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1604792",
+                    "machine_name": "epimedium_cultivars_amber_queen",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371866",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1415045",
+                    "machine_name": "epimedium_rubrum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371871",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1475154",
+                    "machine_name": "epimedium_youngianum_niveum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371876",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1475155",
+                    "machine_name": "epimedium_youngianum_roseum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371881",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1595553",
+                    "machine_name": "epimedium_cultivars_pink_champagne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371886",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1475157",
+                    "machine_name": "epimedium_youngianum_yenomoto_form",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371891",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1542143",
+                    "machine_name": "epimedium_versicolor_cherry_tart",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371896",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1475152",
+                    "machine_name": "epimedium_versicolor_sulphureum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371901",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1400532",
+                    "machine_name": "aesculus_parviflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371906",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1532752",
+                    "machine_name": "aesculus_parviflora_rogers",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371911",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1425436",
+                    "machine_name": "nyssa_sylvatica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371916",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1438934",
+                    "machine_name": "carex_pensylvanica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371921",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1522378",
+                    "machine_name": "pachysandra_procumbens_alleghany",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371926",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1438299",
+                    "machine_name": "xanthorhiza_simplicissima",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371931",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1402943",
+                    "machine_name": "asarum_canadense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371936",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1543280",
+                    "machine_name": "trillium_erectum_beige",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371941",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433466",
+                    "machine_name": "trillium_erectum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371946",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433478",
+                    "machine_name": "trillium_luteum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371951",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433471",
+                    "machine_name": "trillium_grandiflorum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371956",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433490",
+                    "machine_name": "trillium_sessile",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371961",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433480",
+                    "machine_name": "trillium_nivale",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371966",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433459",
+                    "machine_name": "trillium_catesbaei",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371971",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433498",
+                    "machine_name": "trillium_vaseyi",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371976",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1433467",
+                    "machine_name": "trillium_flexipes",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371981",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1400532",
+                    "machine_name": "aesculus_parviflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371986",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1537092",
+                    "machine_name": "polygonatum_multiflorum_variegatum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371991",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1402943",
+                    "machine_name": "asarum_canadense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371996",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672074",
+        "legacy_id": "29028",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018\/19, 2017",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

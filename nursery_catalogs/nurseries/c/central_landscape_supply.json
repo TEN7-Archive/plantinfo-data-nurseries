@@ -1,0 +1,81 @@
+{
+    "name": "Central Landscape Supply",
+    "machine_name": "central_landscape_supply",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4026 County Road 74 South",
+        "address_2": "",
+        "city": "St. Cloud",
+        "state": "MN",
+        "postal_code": "56301",
+        "geo_coordinate": "POINT (-94.223741 45.4993726)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.centrallandscape.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-772-3888",
+        "fax": "888-257-5577",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672542",
+        "legacy_id": "12308",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2017",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

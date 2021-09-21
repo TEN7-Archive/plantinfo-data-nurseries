@@ -1,0 +1,60 @@
+{
+    "name": "Urban Harvest",
+    "machine_name": "urban_harvest",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "P.O. Box 176, Station 'C'",
+        "address_2": "",
+        "city": "Tronto",
+        "state": "ON",
+        "postal_code": "M6J 3M9",
+        "geo_coordinate": "POINT (-79.406247 43.652188)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.uharvest.ca\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "416-504-1653",
+        "fax": "416-504-7426",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673811",
+        "legacy_id": "27568",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

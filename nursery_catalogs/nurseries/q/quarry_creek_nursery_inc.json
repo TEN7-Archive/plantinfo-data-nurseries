@@ -1,0 +1,74 @@
+{
+    "name": "Quarry Creek Nursery, Inc",
+    "machine_name": "quarry_creek_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4040 33rd Street South",
+        "address_2": null,
+        "city": "St Cloud",
+        "state": "MN",
+        "postal_code": "56301",
+        "geo_coordinate": "POINT (-94.204935 45.5141843)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.quarrycreeknursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@quarrycreeknursery.com",
+        "phone": "320-229-2155",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671890",
+        "legacy_id": "28908",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

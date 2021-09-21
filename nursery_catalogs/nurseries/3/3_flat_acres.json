@@ -1,0 +1,60 @@
+{
+    "name": "3 Flat Acres",
+    "machine_name": "3_flat_acres",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8249 Buckwheat Ridge Road",
+        "address_2": null,
+        "city": "Lancaster",
+        "state": "WI",
+        "postal_code": "53813",
+        "geo_coordinate": "POINT (-90.6144795 42.804686)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.3flatacres.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "608-630-4013",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674143",
+        "legacy_id": "32270",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

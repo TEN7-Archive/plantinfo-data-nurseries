@@ -1,0 +1,60 @@
+{
+    "name": "Peoria Gardens, Inc.",
+    "machine_name": "peoria_gardens_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "32355 Peoria Road",
+        "address_2": null,
+        "city": "Albany",
+        "state": "OR",
+        "postal_code": "97321",
+        "geo_coordinate": "POINT (-123.2108528 44.4995213)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.peoriagardens.com\/perennials.html",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673624",
+        "legacy_id": "24828",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Silver Creek Nursery (Canadian shipping only)",
+    "machine_name": "silver_creek_nursery_canadian_shipping_only",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "1827 Perth Line 43",
+        "address_2": "",
+        "city": "New Hamburg",
+        "state": "ON",
+        "postal_code": "N3A 3Z5",
+        "geo_coordinate": "POINT (-80.795434 43.4682124)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.silvercreeknursery.ca\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "519-274-0573",
+        "fax": "519-656-2908",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673011",
+        "legacy_id": "27572",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Prides Corner Farms",
+    "machine_name": "prides_corner_farms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "122 Waterman Road",
+        "address_2": "",
+        "city": "Lebanon",
+        "state": "CT",
+        "postal_code": "06249",
+        "geo_coordinate": "POINT (-72.2051733 41.6208243)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.pridescorner.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "wholesale@pridescorner.com",
+        "phone": "800-437-5168",
+        "fax": "860-642-4155",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672658",
+        "legacy_id": "13008",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

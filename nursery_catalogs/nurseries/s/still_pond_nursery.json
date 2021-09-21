@@ -1,0 +1,60 @@
+{
+    "name": "Still Pond Nursery",
+    "machine_name": "still_pond_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "38 Hess Lane",
+        "address_2": null,
+        "city": "Douglasville",
+        "state": "PA",
+        "postal_code": "19518",
+        "geo_coordinate": "POINT (-75.7238995 40.3149058)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.stillpondnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "610-689-4473",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673990",
+        "legacy_id": "29573",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

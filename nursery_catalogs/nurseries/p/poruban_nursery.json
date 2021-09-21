@@ -1,0 +1,67 @@
+{
+    "name": "Poruban Nursery",
+    "machine_name": "poruban_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "38029 Detroit Road",
+        "address_2": null,
+        "city": "Avon",
+        "state": "OH",
+        "postal_code": "44011",
+        "geo_coordinate": "POINT (-82.042571 41.442472)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/porubannursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "440-934-6221",
+        "fax": "440-934-3012",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672244",
+        "legacy_id": "16411",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

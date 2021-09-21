@@ -1,0 +1,60 @@
+{
+    "name": "Novavine",
+    "machine_name": "novavine",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6735 Sonoma Highway",
+        "address_2": null,
+        "city": "Santa Rosa",
+        "state": "CA",
+        "postal_code": "95409",
+        "geo_coordinate": "POINT (-122.6015389 38.4452855)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.novavine.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@novavine.com",
+        "phone": "707-539-5678",
+        "fax": "707-539-2819",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673498",
+        "legacy_id": "26193",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

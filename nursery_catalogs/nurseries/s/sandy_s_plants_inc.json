@@ -1,0 +1,60 @@
+{
+    "name": "Sandy's Plants, Inc.",
+    "machine_name": "sandy_s_plants_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8011 Bell Creek Road",
+        "address_2": null,
+        "city": "Mechanicsville",
+        "state": "VA",
+        "postal_code": "23111",
+        "geo_coordinate": "POINT (-77.3573279 37.6175121)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sandysplants.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "spi@sandysplants.com",
+        "phone": "804-746-7092",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672087",
+        "legacy_id": "30349",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

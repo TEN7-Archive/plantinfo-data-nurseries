@@ -1,0 +1,74 @@
+{
+    "name": "Hortico Inc.",
+    "machine_name": "hortico_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "422 Concession 5 East",
+        "address_2": "",
+        "city": "Waterdown",
+        "state": "ON",
+        "postal_code": "L0R 2H1",
+        "geo_coordinate": "POINT (-79.9077811 43.3580867)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hortico.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "orders@hortico.com",
+        "phone": "905-689-6984",
+        "fax": "905-689-6566",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671650",
+        "legacy_id": "432",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

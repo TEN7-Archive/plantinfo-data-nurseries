@@ -1,0 +1,67 @@
+{
+    "name": "Edens Blooms",
+    "machine_name": "edens_blooms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 508",
+        "address_2": null,
+        "city": "Thatcher",
+        "state": "AZ",
+        "postal_code": "85552",
+        "geo_coordinate": "POINT (-109.7592479 32.8492323)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.edensblooms.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "help@edensblooms.com",
+        "phone": "928-485-4032",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671916",
+        "legacy_id": "27156",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

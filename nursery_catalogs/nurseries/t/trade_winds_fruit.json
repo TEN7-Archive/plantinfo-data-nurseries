@@ -1,0 +1,67 @@
+{
+    "name": "Trade Winds Fruit",
+    "machine_name": "trade_winds_fruit",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 9396",
+        "address_2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "postal_code": "95405",
+        "geo_coordinate": "POINT (-122.6673018 38.43923)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.tradewindsfruit.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "service@tradewindsfruit.com",
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672363",
+        "legacy_id": "17131",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

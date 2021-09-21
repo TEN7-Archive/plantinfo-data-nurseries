@@ -1,0 +1,67 @@
+{
+    "name": "Strand Nursery",
+    "machine_name": "strand_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2245 290th Ave",
+        "address_2": null,
+        "city": "Cushing",
+        "state": "WI",
+        "postal_code": "54006",
+        "geo_coordinate": "POINT (-92.6304491 45.6285345)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.strandnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@strandnursery.com",
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673417",
+        "legacy_id": "30899",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

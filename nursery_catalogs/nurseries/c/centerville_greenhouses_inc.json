@@ -1,0 +1,81 @@
+{
+    "name": "Centerville Greenhouses, Inc.",
+    "machine_name": "centerville_greenhouses_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5th & Van Buren",
+        "address_2": "",
+        "city": "Centerville",
+        "state": "IA",
+        "postal_code": "52544",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/centervillegreenhouses.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        },
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2619926",
+        "legacy_id": null,
+        "ships": false,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1586526515"
+    }
+}

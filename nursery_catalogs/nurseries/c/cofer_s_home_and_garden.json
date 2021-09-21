@@ -1,0 +1,67 @@
+{
+    "name": "Cofer's Home and Garden",
+    "machine_name": "cofer_s_home_and_garden",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1145 Mitchell Bridge Road",
+        "address_2": null,
+        "city": "Athens",
+        "state": "GA",
+        "postal_code": "30606",
+        "geo_coordinate": "POINT (-83.4499113 33.9432506)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cofers.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "706-353-1519",
+        "fax": "706-548-9891",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672125",
+        "legacy_id": "28189",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

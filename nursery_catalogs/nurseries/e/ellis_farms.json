@@ -1,0 +1,67 @@
+{
+    "name": "Ellis Farms",
+    "machine_name": "ellis_farms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1325 Borrego Valley Road",
+        "address_2": null,
+        "city": "Borrego Springs",
+        "state": "CA",
+        "postal_code": "92004",
+        "geo_coordinate": "POINT (-116.3482711 33.2640291)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.ellisfarms.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "760-767-5234",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": false,
+        "web_only": false
+    },
+    "update": "Web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673761",
+        "legacy_id": "18668",
+        "ships": false,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": false,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

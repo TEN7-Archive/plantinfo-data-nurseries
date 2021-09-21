@@ -1,0 +1,67 @@
+{
+    "name": "Tiedemann Nurseries",
+    "machine_name": "tiedemann_nurseries",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4707 Cherryvale",
+        "address_2": null,
+        "city": "Soquel",
+        "state": "CA",
+        "postal_code": "95073",
+        "geo_coordinate": "POINT (-121.951207 37.00841)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.tiedemannllc.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674213",
+        "legacy_id": "32875",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

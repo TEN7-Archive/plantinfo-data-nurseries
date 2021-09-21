@@ -1,0 +1,81 @@
+{
+    "name": "Monrovia Growers",
+    "machine_name": "monrovia_growers",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "817 E Monrovia Place",
+        "address_2": null,
+        "city": "Azusa",
+        "state": "CA",
+        "postal_code": "91702",
+        "geo_coordinate": "POINT (-117.8935327 34.1394922)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.monrovia.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "customercare@monrovia.com",
+        "phone": "800-999-9321",
+        "fax": "626-334-3126",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2014 not print friendly 3\/16",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671960",
+        "legacy_id": "596",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

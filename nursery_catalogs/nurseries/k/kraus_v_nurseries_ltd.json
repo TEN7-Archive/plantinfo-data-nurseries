@@ -1,0 +1,81 @@
+{
+    "name": "Kraus, V., Nurseries, Ltd.",
+    "machine_name": "kraus_v_nurseries_ltd",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "1380 Centre Rd, P.O.Box 180",
+        "address_2": "",
+        "city": "Carlisle",
+        "state": "ON",
+        "postal_code": "L0R 1H0",
+        "geo_coordinate": "POINT (-79.9727369 43.3886895)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.krausnurseries.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@krausnurseries.com",
+        "phone": "905-689-4022",
+        "fax": "905-689-8080",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2015",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671761",
+        "legacy_id": "501",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

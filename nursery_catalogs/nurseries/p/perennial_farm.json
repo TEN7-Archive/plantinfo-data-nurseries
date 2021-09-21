@@ -1,0 +1,88 @@
+{
+    "name": "Perennial Farm",
+    "machine_name": "perennial_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "12017 Glen Arm Road",
+        "address_2": null,
+        "city": "Glen Arm",
+        "state": "MD",
+        "postal_code": "21057",
+        "geo_coordinate": "POINT (-76.4988803 39.4522538)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.perennialfarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "410-592-6106",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        },
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672228",
+        "legacy_id": "29528",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,768 @@
+{
+    "name": "Colson's Nursery, Inc.",
+    "machine_name": "colson_s_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7631 Deep Creek Loop",
+        "address_2": "",
+        "city": "Bonners Ferry",
+        "state": "ID",
+        "postal_code": "83805",
+        "geo_coordinate": "POINT (-116.3812276 48.6474235)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.colsonsnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "208-267-7792",
+        "fax": "208-267-7886",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Colson's Nursery, Inc. 2019",
+            "machine_name": "colson_s_nursery_inc_2019",
+            "type": "nursery_catalog",
+            "date": "Aug 1 2019",
+            "nursery": "colson_s_nursery_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1537527",
+                    "machine_name": "picea_pungens_colson_s_select_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "46617",
+                        "fgsid": null,
+                        "legacy_id": "115891",
+                        "catalog_source_id": "212863"
+                    }
+                },
+                {
+                    "reference": "1537528",
+                    "machine_name": "pinus_cembra_glauca_compacta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "46618",
+                        "fgsid": null,
+                        "legacy_id": "115892",
+                        "catalog_source_id": "212864"
+                    }
+                },
+                {
+                    "reference": "1490706",
+                    "machine_name": "pinus_flexilis_vanderwolf_s_pyramid",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "46619",
+                        "fgsid": null,
+                        "legacy_id": "24188",
+                        "catalog_source_id": "212865"
+                    }
+                },
+                {
+                    "reference": "1497509",
+                    "machine_name": "abies_lasiocarpa_arizonica_glauca_compacta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52189",
+                        "fgsid": null,
+                        "legacy_id": "70178",
+                        "catalog_source_id": "211825"
+                    }
+                },
+                {
+                    "reference": "1479872",
+                    "machine_name": "juniperus_scopulorum_wichita_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52196",
+                        "fgsid": null,
+                        "legacy_id": "16487",
+                        "catalog_source_id": "211838"
+                    }
+                },
+                {
+                    "reference": "1477213",
+                    "machine_name": "larix_decidua_pendula",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52198",
+                        "fgsid": null,
+                        "legacy_id": "17031",
+                        "catalog_source_id": "211840"
+                    }
+                },
+                {
+                    "reference": "1490136",
+                    "machine_name": "picea_abies_pendula",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52199",
+                        "fgsid": null,
+                        "legacy_id": "24067",
+                        "catalog_source_id": "211841"
+                    }
+                },
+                {
+                    "reference": "1490117",
+                    "machine_name": "picea_abies_cupressina",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52200",
+                        "fgsid": null,
+                        "legacy_id": "24048",
+                        "catalog_source_id": "211842"
+                    }
+                },
+                {
+                    "reference": "1490421",
+                    "machine_name": "picea_pungens_montgomery",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52202",
+                        "fgsid": null,
+                        "legacy_id": "24129",
+                        "catalog_source_id": "211844"
+                    }
+                },
+                {
+                    "reference": "1490424",
+                    "machine_name": "picea_pungens_saint_mary_s_broom",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52203",
+                        "fgsid": null,
+                        "legacy_id": "24132",
+                        "catalog_source_id": "211845"
+                    }
+                },
+                {
+                    "reference": "1521676",
+                    "machine_name": "picea_pungens_iseli_fastigiate",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52204",
+                        "fgsid": null,
+                        "legacy_id": "96042",
+                        "catalog_source_id": "211846"
+                    }
+                },
+                {
+                    "reference": "1521662",
+                    "machine_name": "picea_pungens_fat_albert",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52205",
+                        "fgsid": null,
+                        "legacy_id": "96028",
+                        "catalog_source_id": "211847"
+                    }
+                },
+                {
+                    "reference": "1521683",
+                    "machine_name": "picea_pungens_kosteri_pendula",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52206",
+                        "fgsid": null,
+                        "legacy_id": "96049",
+                        "catalog_source_id": "211848"
+                    }
+                },
+                {
+                    "reference": "1521650",
+                    "machine_name": "picea_pungens_baby_blueyes",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52207",
+                        "fgsid": null,
+                        "legacy_id": "96016",
+                        "catalog_source_id": "211849"
+                    }
+                },
+                {
+                    "reference": "1521667",
+                    "machine_name": "picea_pungens_glauca_procumbens",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52208",
+                        "fgsid": null,
+                        "legacy_id": "96033",
+                        "catalog_source_id": "211850"
+                    }
+                },
+                {
+                    "reference": "1521969",
+                    "machine_name": "pinus_cembra_chalet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52209",
+                        "fgsid": null,
+                        "legacy_id": "96124",
+                        "catalog_source_id": "211851"
+                    }
+                },
+                {
+                    "reference": "1521993",
+                    "machine_name": "pinus_densiflora_jane_kluis",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52607",
+                        "fgsid": null,
+                        "legacy_id": "96148",
+                        "catalog_source_id": "212118"
+                    }
+                },
+                {
+                    "reference": "1522217",
+                    "machine_name": "pinus_densiflora_tanyosho_compacta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52608",
+                        "fgsid": null,
+                        "legacy_id": "96156",
+                        "catalog_source_id": "212119"
+                    }
+                },
+                {
+                    "reference": "1522228",
+                    "machine_name": "pinus_flexilis_glauca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52609",
+                        "fgsid": null,
+                        "legacy_id": "96167",
+                        "catalog_source_id": "212120"
+                    }
+                },
+                {
+                    "reference": "1522224",
+                    "machine_name": "pinus_flexilis_cesarini_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52610",
+                        "fgsid": null,
+                        "legacy_id": "96163",
+                        "catalog_source_id": "212121"
+                    }
+                },
+                {
+                    "reference": "1522240",
+                    "machine_name": "pinus_koraiensis_silveray",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52611",
+                        "fgsid": null,
+                        "legacy_id": "96179",
+                        "catalog_source_id": "212122"
+                    }
+                },
+                {
+                    "reference": "1490721",
+                    "machine_name": "pinus_parviflora_glauca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52612",
+                        "fgsid": null,
+                        "legacy_id": "24204",
+                        "catalog_source_id": "212124"
+                    }
+                },
+                {
+                    "reference": "1548242",
+                    "machine_name": "pinus_strobus_contorta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52613",
+                        "fgsid": null,
+                        "legacy_id": "123551",
+                        "catalog_source_id": "212127"
+                    }
+                },
+                {
+                    "reference": "1490731",
+                    "machine_name": "pinus_strobus_fastigiata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52614",
+                        "fgsid": null,
+                        "legacy_id": "24214",
+                        "catalog_source_id": "212128"
+                    }
+                },
+                {
+                    "reference": "1490734",
+                    "machine_name": "pinus_strobus_pendula",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52615",
+                        "fgsid": null,
+                        "legacy_id": "24217",
+                        "catalog_source_id": "212131"
+                    }
+                },
+                {
+                    "reference": "1490744",
+                    "machine_name": "pinus_sylvestris_hillside_creeper",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52616",
+                        "fgsid": null,
+                        "legacy_id": "24227",
+                        "catalog_source_id": "212136"
+                    }
+                },
+                {
+                    "reference": "1608093",
+                    "machine_name": "cupressus_nootkatensis_pendula",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "61335",
+                        "fgsid": null,
+                        "legacy_id": "363668",
+                        "catalog_source_id": "1132624"
+                    }
+                },
+                {
+                    "reference": "1503434",
+                    "machine_name": "cupressus_nootkatensis_green_arrow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "61336",
+                        "fgsid": null,
+                        "legacy_id": "74140",
+                        "catalog_source_id": "1132625"
+                    }
+                },
+                {
+                    "reference": "1522277",
+                    "machine_name": "pinus_nigra_globosa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "75351",
+                        "fgsid": null,
+                        "legacy_id": "96216",
+                        "catalog_source_id": "1132631"
+                    }
+                },
+                {
+                    "reference": "1490733",
+                    "machine_name": "pinus_strobus_nana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "75352",
+                        "fgsid": null,
+                        "legacy_id": "24216",
+                        "catalog_source_id": "1132632"
+                    }
+                },
+                {
+                    "reference": "1521671",
+                    "machine_name": "picea_pungens_globosa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "89748",
+                        "fgsid": null,
+                        "legacy_id": "96037",
+                        "catalog_source_id": "709044"
+                    }
+                },
+                {
+                    "reference": "1521968",
+                    "machine_name": "pinus_cembra_blue_mound",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "89749",
+                        "fgsid": null,
+                        "legacy_id": "96123",
+                        "catalog_source_id": "709045"
+                    }
+                },
+                {
+                    "reference": "1552559",
+                    "machine_name": "pinus_strobus_horsford_s_dwarf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "89750",
+                        "fgsid": null,
+                        "legacy_id": "133164",
+                        "catalog_source_id": "709046"
+                    }
+                },
+                {
+                    "reference": "1465889",
+                    "machine_name": "abies_concolor_candicans",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114718",
+                        "fgsid": null,
+                        "legacy_id": "57",
+                        "catalog_source_id": "987543"
+                    }
+                },
+                {
+                    "reference": "1598790",
+                    "machine_name": "picea_pungens_sester_dwarf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114721",
+                        "fgsid": null,
+                        "legacy_id": "224737",
+                        "catalog_source_id": "987546"
+                    }
+                },
+                {
+                    "reference": "1548881",
+                    "machine_name": "picea_pungens_bacheri",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114723",
+                        "fgsid": null,
+                        "legacy_id": "123748",
+                        "catalog_source_id": "987547"
+                    }
+                },
+                {
+                    "reference": "1522261",
+                    "machine_name": "pinus_mugo_mops",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "114724",
+                        "fgsid": null,
+                        "legacy_id": "96200",
+                        "catalog_source_id": "987548"
+                    }
+                },
+                {
+                    "reference": "1490109",
+                    "machine_name": "picea_abies_acrocona",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140097",
+                        "fgsid": null,
+                        "legacy_id": "24040",
+                        "catalog_source_id": "532895"
+                    }
+                },
+                {
+                    "reference": "1490392",
+                    "machine_name": "picea_glauca_pendula",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140098",
+                        "fgsid": null,
+                        "legacy_id": "24099",
+                        "catalog_source_id": "532896"
+                    }
+                },
+                {
+                    "reference": "1490417",
+                    "machine_name": "picea_pungens_hoopsii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140099",
+                        "fgsid": null,
+                        "legacy_id": "24125",
+                        "catalog_source_id": "532897"
+                    }
+                },
+                {
+                    "reference": "1490712",
+                    "machine_name": "pinus_nigra_arnold_sentinel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140101",
+                        "fgsid": null,
+                        "legacy_id": "24195",
+                        "catalog_source_id": "532899"
+                    }
+                },
+                {
+                    "reference": "1522822",
+                    "machine_name": "pinus_sylvestris_glauca_nana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140102",
+                        "fgsid": null,
+                        "legacy_id": "96339",
+                        "catalog_source_id": "532900"
+                    }
+                },
+                {
+                    "reference": "1490728",
+                    "machine_name": "pinus_strobus_blue_shag",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "169286",
+                        "fgsid": null,
+                        "legacy_id": "24211",
+                        "catalog_source_id": "1285059"
+                    }
+                },
+                {
+                    "reference": "1490744",
+                    "machine_name": "pinus_sylvestris_hillside_creeper",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "172391",
+                        "fgsid": null,
+                        "legacy_id": "24227",
+                        "catalog_source_id": "1285061"
+                    }
+                },
+                {
+                    "reference": "1467944",
+                    "machine_name": "cupressus_nootkatensis_glauca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173299",
+                        "fgsid": null,
+                        "legacy_id": "4618",
+                        "catalog_source_id": "1133720"
+                    }
+                },
+                {
+                    "reference": "1559630",
+                    "machine_name": "pinus_mugo_tannenbaum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1075781",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673025",
+        "legacy_id": "1163",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

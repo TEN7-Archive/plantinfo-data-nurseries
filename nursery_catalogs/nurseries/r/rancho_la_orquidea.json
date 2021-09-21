@@ -1,0 +1,102 @@
+{
+    "name": "Rancho La Orquidea",
+    "machine_name": "rancho_la_orquidea",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1124 Pearson Road",
+        "address_2": null,
+        "city": "Milton",
+        "state": "FL",
+        "postal_code": "32583",
+        "geo_coordinate": "POINT (-87.090905 30.4767)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.rancholaorquidea.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "850-983-8948",
+        "fax": "850-981-0144",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        },
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673725",
+        "legacy_id": "25594",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

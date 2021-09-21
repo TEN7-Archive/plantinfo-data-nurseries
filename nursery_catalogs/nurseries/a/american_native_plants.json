@@ -1,0 +1,74 @@
+{
+    "name": "American Native Plants",
+    "machine_name": "american_native_plants",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4812 East Joppa Road",
+        "address_2": "",
+        "city": "Perry Hall",
+        "state": "MD",
+        "postal_code": "21128",
+        "geo_coordinate": "POINT (-76.453301 39.402939)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.americannativeplants.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673126",
+        "legacy_id": "30656",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

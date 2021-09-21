@@ -1,0 +1,74 @@
+{
+    "name": "Triangle Nursery Inc.",
+    "machine_name": "triangle_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8526 Beersheba Hwy",
+        "address_2": "",
+        "city": "McMinnville",
+        "state": "TN",
+        "postal_code": "37110",
+        "geo_coordinate": "POINT (-85.714135 35.585092)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.trianglenursery.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "triangle@blomand.net",
+        "phone": "800-808-4769",
+        "fax": "931-668-3297",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017 ",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672601",
+        "legacy_id": "914",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

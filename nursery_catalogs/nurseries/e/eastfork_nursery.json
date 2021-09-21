@@ -1,0 +1,67 @@
+{
+    "name": "Eastfork Nursery",
+    "machine_name": "eastfork_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 435",
+        "address_2": null,
+        "city": "La Center",
+        "state": "WA",
+        "postal_code": "98629",
+        "geo_coordinate": "POINT (-122.6703785 45.8623367)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.eastforknursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "360-263-2662",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens_dwarf",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216163"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673966",
+        "legacy_id": "20788",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

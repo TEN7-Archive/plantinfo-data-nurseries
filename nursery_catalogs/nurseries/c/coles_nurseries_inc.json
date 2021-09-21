@@ -1,0 +1,74 @@
+{
+    "name": "Coles Nurseries, Inc",
+    "machine_name": "coles_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 743",
+        "address_2": "",
+        "city": "Lahaska",
+        "state": "PA",
+        "postal_code": "18931",
+        "geo_coordinate": "POINT (-75.03145 40.3477703)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/colesnurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "215-794-8863",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671946",
+        "legacy_id": "29649",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2021",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

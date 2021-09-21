@@ -1,0 +1,74 @@
+{
+    "name": "Cicconi Farms Inc.",
+    "machine_name": "cicconi_farms_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1005 Farmingdale Road",
+        "address_2": "",
+        "city": "Jackson",
+        "state": "NJ",
+        "postal_code": "08527",
+        "geo_coordinate": "POINT (-74.2699065 40.1592332)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cicconifarms.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "mail@cicconifarms.com",
+        "phone": "732-363-1420",
+        "fax": "732-905-9242",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672263",
+        "legacy_id": "16537",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

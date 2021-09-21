@@ -1,0 +1,67 @@
+{
+    "name": "Beeman's Nursery",
+    "machine_name": "beeman_s_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3637 State Road 44",
+        "address_2": null,
+        "city": "New Smyrna Beach",
+        "state": "FL",
+        "postal_code": "32168",
+        "geo_coordinate": "POINT (-81.044954 29.013612)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.beemansnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "beemansnursery@att.net",
+        "phone": "386-428-8889",
+        "fax": "386-428-8879",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "water_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216188"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672006",
+        "legacy_id": "10650",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

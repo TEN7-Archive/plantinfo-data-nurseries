@@ -1,0 +1,60 @@
+{
+    "name": "Steve's Leaves Inc",
+    "machine_name": "steve_s_leaves_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1062 Kingston Dr",
+        "address_2": null,
+        "city": "Lewisville",
+        "state": "TX",
+        "postal_code": "75067",
+        "geo_coordinate": "POINT (-97.0237662 33.031106)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/stevesleaves.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "Info@StevesLeaves.com",
+        "phone": "972-221-8776",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672334",
+        "legacy_id": "30890",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

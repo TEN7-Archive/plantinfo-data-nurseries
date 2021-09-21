@@ -1,0 +1,60 @@
+{
+    "name": "Cactus Limon",
+    "machine_name": "cactus_limon",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3476 Hill St",
+        "address_2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "postal_code": "92106",
+        "geo_coordinate": "POINT (-117.2403652 32.7229157)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cactuslimon.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@cactuslimon.net",
+        "phone": "858-382-7448",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673765",
+        "legacy_id": "18728",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

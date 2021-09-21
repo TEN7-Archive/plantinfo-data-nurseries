@@ -1,0 +1,60 @@
+{
+    "name": "Ampac Seed Company",
+    "machine_name": "ampac_seed_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "32727 Hwy 99E, PO Box 318",
+        "address_2": null,
+        "city": "Tangent",
+        "state": "OR",
+        "postal_code": "97389",
+        "geo_coordinate": "POINT (-123.109176 44.534027)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.ampacseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "541-928-1651",
+        "fax": "541-928-2430",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_lawn",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216197"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673785",
+        "legacy_id": "26469",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

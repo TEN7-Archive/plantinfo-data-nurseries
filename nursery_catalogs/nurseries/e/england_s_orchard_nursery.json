@@ -1,0 +1,708 @@
+{
+    "name": "England's Orchard & Nursery",
+    "machine_name": "england_s_orchard_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2338 Highway 2004",
+        "address_2": "",
+        "city": "McKee",
+        "state": "KY",
+        "postal_code": "40447",
+        "geo_coordinate": "POINT (-84.104303 37.521375)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.nuttrees.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "606-493 -8239",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "nut_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216174"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2018 ",
+    "nursery_catalog_items": [
+        {
+            "name": "England's Orchard & Nursery 2018",
+            "machine_name": "england_s_orchard_nursery_2018",
+            "type": "nursery_catalog",
+            "date": "Mar 28 2018",
+            "nursery": "england_s_orchard_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1529526",
+                    "machine_name": "ziziphus_jujuba_li",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "53027",
+                        "fgsid": null,
+                        "legacy_id": "105122",
+                        "catalog_source_id": "1207747"
+                    }
+                },
+                {
+                    "reference": "1616260",
+                    "machine_name": "ziziphus_jujuba_ga_866",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "53028",
+                        "fgsid": null,
+                        "legacy_id": "234116",
+                        "catalog_source_id": "1207752"
+                    }
+                },
+                {
+                    "reference": "1634083",
+                    "machine_name": "ziziphus_jujuba_coco",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "54794",
+                        "fgsid": null,
+                        "legacy_id": "308337",
+                        "catalog_source_id": "1207751"
+                    }
+                },
+                {
+                    "reference": "1529525",
+                    "machine_name": "ziziphus_jujuba_lang",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "123220",
+                        "fgsid": null,
+                        "legacy_id": "105121",
+                        "catalog_source_id": "1207748"
+                    }
+                },
+                {
+                    "reference": "1529527",
+                    "machine_name": "ziziphus_jujuba_sherwood",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "123225",
+                        "fgsid": null,
+                        "legacy_id": "105123",
+                        "catalog_source_id": "1207749"
+                    }
+                },
+                {
+                    "reference": "1624648",
+                    "machine_name": "ziziphus_jujuba_sugar_cane",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "123227",
+                        "fgsid": null,
+                        "legacy_id": "361587",
+                        "catalog_source_id": "1207750"
+                    }
+                },
+                {
+                    "reference": "1660483",
+                    "machine_name": "diospyros_virginiana_deer_magnet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175043",
+                        "fgsid": null,
+                        "legacy_id": "391393",
+                        "catalog_source_id": "1207743"
+                    }
+                },
+                {
+                    "reference": "1660752",
+                    "machine_name": "asimina_triloba_summer_delight",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175044",
+                        "fgsid": null,
+                        "legacy_id": "391398",
+                        "catalog_source_id": "1207756"
+                    }
+                },
+                {
+                    "reference": "1660753",
+                    "machine_name": "asimina_triloba_kentucky_champion",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175045",
+                        "fgsid": null,
+                        "legacy_id": "391399",
+                        "catalog_source_id": "1207757"
+                    }
+                },
+                {
+                    "reference": "1409202",
+                    "machine_name": "diospyros_virginiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948911",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1624648",
+                    "machine_name": "ziziphus_jujuba_sugar_cane",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948916",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1529526",
+                    "machine_name": "ziziphus_jujuba_li",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948921",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1529525",
+                    "machine_name": "ziziphus_jujuba_lang",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948926",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1634084",
+                    "machine_name": "ziziphus_jujuba_so",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948931",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2101416",
+                    "machine_name": "ziziphus_jujuba_shanxi_li",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948936",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2101411",
+                    "machine_name": "ziziphus_jujuba_honey_jar",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948941",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1625226",
+                    "machine_name": "asimina_triloba_ksu_atwood",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948946",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1592199",
+                    "machine_name": "asimina_triloba_potomac",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948951",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1592201",
+                    "machine_name": "asimina_triloba_wabash",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948956",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1592195",
+                    "machine_name": "asimina_triloba_shenandoah",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948961",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1592197",
+                    "machine_name": "asimina_triloba_rappahannock",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948966",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1592196",
+                    "machine_name": "asimina_triloba_susquehanna",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948971",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1598343",
+                    "machine_name": "crataegus_pinnatifida_red_sun",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948976",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1402247",
+                    "machine_name": "aronia_melanocarpa",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948981",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1628546",
+                    "machine_name": "sorbopyrus_auricularis_shipova",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948986",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2374976",
+                    "machine_name": "maclura_triuspidata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948991",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478475",
+                    "machine_name": "malus_a_cultivars_grimes_golden",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "948996",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1483813",
+                    "machine_name": "malus_a_cultivars_liberty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949001",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478768",
+                    "machine_name": "malus_a_cultivars_blue_pearmain",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949006",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484151",
+                    "machine_name": "malus_a_cultivars_priscilla",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949011",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1418745",
+                    "machine_name": "juglans_ailanthifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949016",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397856",
+                    "machine_name": "diospyros_virginiana_deer_candy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949021",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397876",
+                    "machine_name": "diospyros_virginiana_early_jewel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949026",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397866",
+                    "machine_name": "diospyros_virginiana_barbara_s_blush",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949031",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397881",
+                    "machine_name": "diospyros_cultivars_kasandra",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949036",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397861",
+                    "machine_name": "diospyros_virginiana_wonderful",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949041",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397886",
+                    "machine_name": "diospyros_cultivars_zima_khurma",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949046",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397891",
+                    "machine_name": "diospyros_cultivars_david_s_kandy_korn",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949051",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397896",
+                    "machine_name": "ziziphus_jujuba_shi_hong",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949056",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397901",
+                    "machine_name": "asimina_triloba_tropical_treat",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949061",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2397906",
+                    "machine_name": "asimina_triloba_maria_s_joy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949066",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1592198",
+                    "machine_name": "asimina_triloba_allegheny",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "949071",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673803",
+        "legacy_id": "26573",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2016, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

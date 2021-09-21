@@ -1,0 +1,60 @@
+{
+    "name": "Studley's",
+    "machine_name": "studley_s",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "82 Wakefield St",
+        "address_2": "",
+        "city": "Rochester",
+        "state": "NH",
+        "postal_code": "03867",
+        "geo_coordinate": "POINT (-70.9775042 43.3083252)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/studleys.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2331681",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1528471346"
+    }
+}

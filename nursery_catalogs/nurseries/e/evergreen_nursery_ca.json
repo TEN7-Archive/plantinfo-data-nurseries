@@ -1,0 +1,88 @@
+{
+    "name": "Evergreen Nursery (CA)",
+    "machine_name": "evergreen_nursery_ca",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "9708 Flinn Springs Road",
+        "address_2": "",
+        "city": "El Cajon",
+        "state": "CA",
+        "postal_code": "92021",
+        "geo_coordinate": "POINT (-116.8610749 32.8557539)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.evergreennursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "619-443-0873",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674281",
+        "legacy_id": "33608",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

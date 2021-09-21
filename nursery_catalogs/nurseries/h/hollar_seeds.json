@@ -1,0 +1,60 @@
+{
+    "name": "Hollar Seeds",
+    "machine_name": "hollar_seeds",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "18875 US-50",
+        "address_2": null,
+        "city": "Rocky Ford",
+        "state": "CO",
+        "postal_code": "81067",
+        "geo_coordinate": "POINT (-103.7326749 38.0599616)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hollarseeds.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "Larry@hollarseeds.com",
+        "phone": "719-254-7411",
+        "fax": "719-254-3539",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672763",
+        "legacy_id": "13369",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

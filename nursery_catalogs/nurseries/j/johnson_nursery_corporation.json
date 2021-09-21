@@ -1,0 +1,67 @@
+{
+    "name": "Johnson Nursery Corporation",
+    "machine_name": "johnson_nursery_corporation",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "985 Johnson Nursery Road",
+        "address_2": "",
+        "city": "Willard",
+        "state": "NC",
+        "postal_code": "28478",
+        "geo_coordinate": "POINT (-77.961924 34.681887)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/johnson-nursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-624-8174",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "pssword: guest, jnc1",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673279",
+        "legacy_id": "28928",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

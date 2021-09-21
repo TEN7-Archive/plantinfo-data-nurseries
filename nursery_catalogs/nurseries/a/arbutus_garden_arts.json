@@ -1,0 +1,67 @@
+{
+    "name": "Arbutus Garden Arts",
+    "machine_name": "arbutus_garden_arts",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 82529",
+        "address_2": null,
+        "city": "Portland",
+        "state": "OR",
+        "postal_code": "97282",
+        "geo_coordinate": "POINT (-122.6511908 45.500243)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.arbutusgarden.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "503-662-3704",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671716",
+        "legacy_id": "15614",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

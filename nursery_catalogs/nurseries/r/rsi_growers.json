@@ -1,0 +1,67 @@
+{
+    "name": "RSI Growers",
+    "machine_name": "rsi_growers",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6011 West Greenbriar Dr",
+        "address_2": "",
+        "city": "Glendale,",
+        "state": "AZ",
+        "postal_code": "85308",
+        "geo_coordinate": "POINT (-112.189028 33.643003)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/rsigrowers.com\/index.html",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "602-504-9787",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672365",
+        "legacy_id": "27194",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,566 @@
+{
+    "name": "Evans Plant Company",
+    "machine_name": "evans_plant_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 1649",
+        "address_2": "",
+        "city": "Tifton",
+        "state": "GA",
+        "postal_code": "31793",
+        "geo_coordinate": "POINT (-83.5084973 31.4504629)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.evansvegetableplants.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "evansplants@ymail.com",
+        "phone": "229-382-1337",
+        "fax": "229-382-1420",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Evans Plant Company 2019",
+            "machine_name": "evans_plant_company_2019",
+            "type": "nursery_catalog",
+            "date": "Apr 17 2019",
+            "nursery": "evans_plant_company",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1497758",
+                    "machine_name": "capsicum_s_cultivars_keystone_resistant_giant",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221774",
+                        "fgsid": null,
+                        "legacy_id": "73705",
+                        "catalog_source_id": "1309782"
+                    }
+                },
+                {
+                    "reference": "1548277",
+                    "machine_name": "capsicum_s_cultivars_yolo_wonder",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221777",
+                        "fgsid": null,
+                        "legacy_id": "123587",
+                        "catalog_source_id": "1309803"
+                    }
+                },
+                {
+                    "reference": "1470358",
+                    "machine_name": "capsicum_s_cultivars_jupiter",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221778",
+                        "fgsid": null,
+                        "legacy_id": "4020",
+                        "catalog_source_id": "1309804"
+                    }
+                },
+                {
+                    "reference": "1470635",
+                    "machine_name": "capsicum_s_cultivars_sweet_banana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221780",
+                        "fgsid": null,
+                        "legacy_id": "4076",
+                        "catalog_source_id": "1309805"
+                    }
+                },
+                {
+                    "reference": "1495849",
+                    "machine_name": "allium_cepa_yellow_sweet_spanish",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221785",
+                        "fgsid": null,
+                        "legacy_id": "70907",
+                        "catalog_source_id": "1309808"
+                    }
+                },
+                {
+                    "reference": "1500120",
+                    "machine_name": "allium_cepa_white_sweet_spanish",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221786",
+                        "fgsid": null,
+                        "legacy_id": "70899",
+                        "catalog_source_id": "1309809"
+                    }
+                },
+                {
+                    "reference": "1635229",
+                    "machine_name": "allium_karataviense_red_globe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221787",
+                        "fgsid": null,
+                        "legacy_id": "303056",
+                        "catalog_source_id": "1309810"
+                    }
+                },
+                {
+                    "reference": "1463562",
+                    "machine_name": "allium_cepa_vidalia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221788",
+                        "fgsid": null,
+                        "legacy_id": "1046",
+                        "catalog_source_id": "1309811"
+                    }
+                },
+                {
+                    "reference": "1464999",
+                    "machine_name": "brassica_oleracea_b_green_comet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221790",
+                        "fgsid": null,
+                        "legacy_id": "2660",
+                        "catalog_source_id": "1309813"
+                    }
+                },
+                {
+                    "reference": "1465014",
+                    "machine_name": "brassica_oleracea_b_packman",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221791",
+                        "fgsid": null,
+                        "legacy_id": "2675",
+                        "catalog_source_id": "1309814"
+                    }
+                },
+                {
+                    "reference": "1599683",
+                    "machine_name": "brassica_oleracea_f_snowball_improved",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "251811",
+                        "fgsid": null,
+                        "legacy_id": "233217",
+                        "catalog_source_id": "1309786"
+                    }
+                },
+                {
+                    "reference": "1512859",
+                    "machine_name": "ipomoea_batatas_beauregard",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "251813",
+                        "fgsid": null,
+                        "legacy_id": "85665",
+                        "catalog_source_id": "1309788"
+                    }
+                },
+                {
+                    "reference": "1602864",
+                    "machine_name": "ipomoea_batatas_hernandez",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "251814",
+                        "fgsid": null,
+                        "legacy_id": "278423",
+                        "catalog_source_id": "1309789"
+                    }
+                },
+                {
+                    "reference": "1624417",
+                    "machine_name": "ipomoea_batatas_covington",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "251815",
+                        "fgsid": null,
+                        "legacy_id": "356516",
+                        "catalog_source_id": "1309790"
+                    }
+                },
+                {
+                    "reference": "1476653",
+                    "machine_name": "lycopersicon_cultivars_pik_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285976",
+                        "fgsid": null,
+                        "legacy_id": "18178",
+                        "catalog_source_id": "1309674"
+                    }
+                },
+                {
+                    "reference": "1481125",
+                    "machine_name": "lycopersicon_cultivars_celebrity",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285977",
+                        "fgsid": null,
+                        "legacy_id": "18012",
+                        "catalog_source_id": "1309675"
+                    }
+                },
+                {
+                    "reference": "1481483",
+                    "machine_name": "lycopersicon_cultivars_mountain_spring",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285978",
+                        "fgsid": null,
+                        "legacy_id": "18146",
+                        "catalog_source_id": "1309676"
+                    }
+                },
+                {
+                    "reference": "1497415",
+                    "machine_name": "brassica_oleracea_c_market_prize",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285981",
+                        "fgsid": null,
+                        "legacy_id": "72512",
+                        "catalog_source_id": "1309679"
+                    }
+                },
+                {
+                    "reference": "1497400",
+                    "machine_name": "brassica_oleracea_c_gourmet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285982",
+                        "fgsid": null,
+                        "legacy_id": "72497",
+                        "catalog_source_id": "1309680"
+                    }
+                },
+                {
+                    "reference": "1497378",
+                    "machine_name": "brassica_oleracea_c_bravo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285983",
+                        "fgsid": null,
+                        "legacy_id": "72475",
+                        "catalog_source_id": "1309681"
+                    }
+                },
+                {
+                    "reference": "1530414",
+                    "machine_name": "brassica_oleracea_c_blue_vantage",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285985",
+                        "fgsid": null,
+                        "legacy_id": "105374",
+                        "catalog_source_id": "1309783"
+                    }
+                },
+                {
+                    "reference": "1465275",
+                    "machine_name": "brassica_oleracea_c_rio_verde",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "285986",
+                        "fgsid": null,
+                        "legacy_id": "2790",
+                        "catalog_source_id": "1309784"
+                    }
+                },
+                {
+                    "reference": "1466881",
+                    "machine_name": "allium_cepa_candy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038056",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1465122",
+                    "machine_name": "brassica_oleracea_c_cheers",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038061",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1648879",
+                    "machine_name": "brassica_oleracea_c_thunderhead",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038066",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1470360",
+                    "machine_name": "capsicum_s_cultivars_king_arthur",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038071",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1470314",
+                    "machine_name": "capsicum_s_cultivars_camelot",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038076",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1470326",
+                    "machine_name": "capsicum_s_cultivars_cubanelle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038081",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1517126",
+                    "machine_name": "lycopersicon_cultivars_roma",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038086",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1516331",
+                    "machine_name": "lycopersicon_cultivars_campbell_1327",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038091",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1564811",
+                    "machine_name": "lycopersicon_cultivars_homestead_24",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038096",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1516600",
+                    "machine_name": "lycopersicon_cultivars_heinz_1350",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1038101",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2515056",
+                    "machine_name": "ipomoea_batatas_red_jewel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1039186",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1671779",
+        "legacy_id": "2028",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

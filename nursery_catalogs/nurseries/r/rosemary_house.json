@@ -1,0 +1,60 @@
+{
+    "name": "Rosemary House",
+    "machine_name": "rosemary_house",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "120 South Market Street",
+        "address_2": "",
+        "city": "Mechanicsburg",
+        "state": "PA",
+        "postal_code": "17055",
+        "geo_coordinate": "POINT (-77.0073885 40.2117316)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.TheRosemaryHouse.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "717-697-5111",
+        "fax": "717-697-3222",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2015",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672287",
+        "legacy_id": "767",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

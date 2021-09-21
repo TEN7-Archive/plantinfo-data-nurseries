@@ -1,0 +1,95 @@
+{
+    "name": "Go Garden Now",
+    "machine_name": "go_garden_now",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "23511 U.S. Hwy 80 East",
+        "address_2": null,
+        "city": "Statesboro",
+        "state": "GA",
+        "postal_code": "30461",
+        "geo_coordinate": "POINT (-81.7453915 32.4292073)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.gogardennow.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "912-601-2338",
+        "fax": "912-764-2075",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        },
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "vines",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216187"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673912",
+        "legacy_id": "28048",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Pacific Plug and Liner",
+    "machine_name": "pacific_plug_and_liner",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "750 Casserly Road",
+        "address_2": null,
+        "city": "Watsonville",
+        "state": "CA",
+        "postal_code": "95076",
+        "geo_coordinate": "POINT (-121.753415 36.97616)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.ppandl.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "831-722-5396",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673879",
+        "legacy_id": "27997",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

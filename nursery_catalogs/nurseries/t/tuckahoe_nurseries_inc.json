@@ -1,0 +1,74 @@
+{
+    "name": "Tuckahoe Nurseries, Inc",
+    "machine_name": "tuckahoe_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 576",
+        "address_2": "",
+        "city": "Tuckahoe",
+        "state": "NJ",
+        "postal_code": "08250",
+        "geo_coordinate": "POINT (-74.7541496 39.2907611)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.tuckahoenurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "609-861-0533",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671815",
+        "legacy_id": "27932",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

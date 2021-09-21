@@ -1,0 +1,566 @@
+{
+    "name": "Strawberry Tyme Farms Inc.",
+    "machine_name": "strawberry_tyme_farms_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "#1250 St Johns Rd West, R.R. #2",
+        "address_2": "",
+        "city": "Simcoe",
+        "state": "ON",
+        "postal_code": "N3Y 4K1",
+        "geo_coordinate": "POINT (-80.3649233 42.7738396)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.strawberrytyme.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@strawberrytyme.com",
+        "phone": "519-426-3099",
+        "fax": "519-426-2573",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Strawberry Tyme Farms Inc. 2019",
+            "machine_name": "strawberry_tyme_farms_inc_2019",
+            "type": "nursery_catalog",
+            "date": "Jul 26 2019",
+            "nursery": "strawberry_tyme_farms_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1473728",
+                    "machine_name": "fragaria_ananassa_annapolis",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106501",
+                        "fgsid": null,
+                        "legacy_id": "9885",
+                        "catalog_source_id": "952844"
+                    }
+                },
+                {
+                    "reference": "1657876",
+                    "machine_name": "fragaria_ananassa_wendy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106503",
+                        "fgsid": null,
+                        "legacy_id": "274816",
+                        "catalog_source_id": "952846"
+                    }
+                },
+                {
+                    "reference": "1473736",
+                    "machine_name": "fragaria_ananassa_cavendish",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106504",
+                        "fgsid": null,
+                        "legacy_id": "9893",
+                        "catalog_source_id": "952847"
+                    }
+                },
+                {
+                    "reference": "1473756",
+                    "machine_name": "fragaria_ananassa_jewel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106506",
+                        "fgsid": null,
+                        "legacy_id": "9913",
+                        "catalog_source_id": "952848"
+                    }
+                },
+                {
+                    "reference": "1644842",
+                    "machine_name": "fragaria_ananassa_albion",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106515",
+                        "fgsid": null,
+                        "legacy_id": "258016",
+                        "catalog_source_id": "952855"
+                    }
+                },
+                {
+                    "reference": "1493815",
+                    "machine_name": "rubus_r_cultivars_boyne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106516",
+                        "fgsid": null,
+                        "legacy_id": "31107",
+                        "catalog_source_id": "952859"
+                    }
+                },
+                {
+                    "reference": "1523737",
+                    "machine_name": "rubus_r_cultivars_killarney",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106519",
+                        "fgsid": null,
+                        "legacy_id": "101340",
+                        "catalog_source_id": "952862"
+                    }
+                },
+                {
+                    "reference": "1523745",
+                    "machine_name": "rubus_r_cultivars_nova",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106520",
+                        "fgsid": null,
+                        "legacy_id": "101348",
+                        "catalog_source_id": "952863"
+                    }
+                },
+                {
+                    "reference": "1534646",
+                    "machine_name": "rubus_r_cultivars_encore",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106522",
+                        "fgsid": null,
+                        "legacy_id": "107836",
+                        "catalog_source_id": "952865"
+                    }
+                },
+                {
+                    "reference": "1543207",
+                    "machine_name": "rubus_r_cultivars_caroline",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106526",
+                        "fgsid": null,
+                        "legacy_id": "118581",
+                        "catalog_source_id": "952870"
+                    }
+                },
+                {
+                    "reference": "1493825",
+                    "machine_name": "rubus_r_cultivars_heritage",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106527",
+                        "fgsid": null,
+                        "legacy_id": "31117",
+                        "catalog_source_id": "952871"
+                    }
+                },
+                {
+                    "reference": "1523751",
+                    "machine_name": "rubus_r_cultivars_royalty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106531",
+                        "fgsid": null,
+                        "legacy_id": "101354",
+                        "catalog_source_id": "952873"
+                    }
+                },
+                {
+                    "reference": "1493799",
+                    "machine_name": "rubus_b_cultivars_chester",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "106536",
+                        "fgsid": null,
+                        "legacy_id": "31091",
+                        "catalog_source_id": "952877"
+                    }
+                },
+                {
+                    "reference": "1464043",
+                    "machine_name": "asparagus_officinalis_jersey_giant",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "120679",
+                        "fgsid": null,
+                        "legacy_id": "1800",
+                        "catalog_source_id": "952887"
+                    }
+                },
+                {
+                    "reference": "1566865",
+                    "machine_name": "asparagus_officinalis_millenium",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "120681",
+                        "fgsid": null,
+                        "legacy_id": "177301",
+                        "catalog_source_id": "952888"
+                    }
+                },
+                {
+                    "reference": "1560847",
+                    "machine_name": "rubus_r_cultivars_joan_j",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "188369",
+                        "fgsid": null,
+                        "legacy_id": "166736",
+                        "catalog_source_id": "1126678"
+                    }
+                },
+                {
+                    "reference": "1581416",
+                    "machine_name": "rubus_r_cultivars_polka",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "188370",
+                        "fgsid": null,
+                        "legacy_id": "216404",
+                        "catalog_source_id": "1126679"
+                    }
+                },
+                {
+                    "reference": "1564205",
+                    "machine_name": "rubus_r_cultivars_anne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "188371",
+                        "fgsid": null,
+                        "legacy_id": "168902",
+                        "catalog_source_id": "1126680"
+                    }
+                },
+                {
+                    "reference": "1473727",
+                    "machine_name": "fragaria_ananassa_allstar",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073846",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1473741",
+                    "machine_name": "fragaria_ananassa_earliglow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073851",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1473752",
+                    "machine_name": "fragaria_ananassa_honeoye",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073856",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1473758",
+                    "machine_name": "fragaria_ananassa_kent",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073861",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1664068",
+                    "machine_name": "fragaria_ananassa_flavorfest",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073866",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1546474",
+                    "machine_name": "fragaria_ananassa_cabot",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073871",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1632236",
+                    "machine_name": "fragaria_ananassa_ac_wendy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073876",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1647714",
+                    "machine_name": "fragaria_ananassa_malwina",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073881",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1649093",
+                    "machine_name": "fragaria_ananassa_ac_valley_sunset",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073886",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1584341",
+                    "machine_name": "fragaria_ananassa_l_amour",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073891",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1596663",
+                    "machine_name": "fragaria_ananassa_portola",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073896",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1534647",
+                    "machine_name": "rubus_r_cultivars_prelude",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073901",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2556216",
+                    "machine_name": "rubus_r_cultivars_imara",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073906",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2556221",
+                    "machine_name": "rubus_r_cultivars_kwanze",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073911",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1523799",
+                    "machine_name": "rheum_hybridum_german_wine",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1073916",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672008",
+        "legacy_id": "10688",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

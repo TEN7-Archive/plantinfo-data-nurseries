@@ -1,0 +1,60 @@
+{
+    "name": "Hanover Farms",
+    "machine_name": "hanover_farms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "13262 Spring Road",
+        "address_2": null,
+        "city": "Rockville",
+        "state": "VA",
+        "postal_code": "23146",
+        "geo_coordinate": "POINT (-77.741707 37.772793)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/hanoverfarms.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "804-749-4304",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674104",
+        "legacy_id": "31568",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

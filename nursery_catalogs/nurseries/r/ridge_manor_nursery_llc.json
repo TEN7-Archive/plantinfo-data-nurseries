@@ -1,0 +1,95 @@
+{
+    "name": "Ridge Manor Nursery, LLC",
+    "machine_name": "ridge_manor_nursery_llc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7925 North Ridge East",
+        "address_2": "",
+        "city": "Madison",
+        "state": "OH",
+        "postal_code": "44057",
+        "geo_coordinate": "POINT (-81.0028905 41.799683)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.ridgemanor.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "440-466-5781",
+        "fax": "440-466-5854",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        },
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2015",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672282",
+        "legacy_id": "749",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

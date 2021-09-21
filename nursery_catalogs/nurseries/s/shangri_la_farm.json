@@ -1,0 +1,67 @@
+{
+    "name": "Shangri La Farm",
+    "machine_name": "shangri_la_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2322 Shangri La Lane",
+        "address_2": "",
+        "city": "McMinnville",
+        "state": "TN",
+        "postal_code": "37110",
+        "geo_coordinate": "POINT (-85.806117 35.662069)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.shangriladaylilies.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "888-660-1320",
+        "fax": "931-668-8244",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673757",
+        "legacy_id": "18529",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

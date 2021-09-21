@@ -1,0 +1,74 @@
+{
+    "name": "Meyer's Nurseries, Inc.",
+    "machine_name": "meyer_s_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "9491 Rockhill Road",
+        "address_2": "",
+        "city": "Thonotosassa",
+        "state": "FL",
+        "postal_code": "33592",
+        "geo_coordinate": "POINT (-82.3291675 28.0595196)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/meyernurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@meyersnurseries.com",
+        "phone": "813-986-5896",
+        "fax": "813-986-7785",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672750",
+        "legacy_id": "13071",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

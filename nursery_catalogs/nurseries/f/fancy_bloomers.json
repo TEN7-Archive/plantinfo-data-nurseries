@@ -1,0 +1,60 @@
+{
+    "name": "Fancy Bloomers",
+    "machine_name": "fancy_bloomers",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3644 Reading Avenue",
+        "address_2": "",
+        "city": "Hammonton",
+        "state": "NJ",
+        "postal_code": "08037",
+        "geo_coordinate": "POINT (-74.746686 39.592955)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.fancy-bloomers.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "609-431-6982",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673935",
+        "legacy_id": "28608",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Greenstreet Growers",
+    "machine_name": "greenstreet_growers",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "391 West Bay Front Road",
+        "address_2": null,
+        "city": "Lothian",
+        "state": "MD",
+        "postal_code": "20711",
+        "geo_coordinate": "POINT (-76.6280317 38.7804313)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.growgreenstreet.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "410-867-9500",
+        "fax": "410-867-6130",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673473",
+        "legacy_id": "23748",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

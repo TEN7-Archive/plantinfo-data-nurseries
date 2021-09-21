@@ -1,0 +1,129 @@
+{
+    "name": "Stropkey Nurseries, Inc.",
+    "machine_name": "stropkey_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "485 Bowhall Road",
+        "address_2": "",
+        "city": "Painesville",
+        "state": "OH",
+        "postal_code": "44077",
+        "geo_coordinate": "POINT (-81.2075878 41.7403323)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.stropkeynurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "440-352-2813",
+        "fax": "440-352-7217",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2021 in process",
+    "nursery_catalog_items": [
+        {
+            "name": "Stropkey Nurseries, Inc. 2021",
+            "machine_name": "stropkey_nurseries_inc_2021",
+            "type": "nursery_catalog",
+            "date": "Jan 7 2021",
+            "nursery": "stropkey_nurseries_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1463932",
+                    "machine_name": "aronia_arbutifolia_brilliantissima",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "968671",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1398276",
+                    "machine_name": "amelanchier_canadensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "968676",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672497",
+        "legacy_id": "865",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2021, 2019, 2018, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

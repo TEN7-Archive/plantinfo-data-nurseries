@@ -1,0 +1,74 @@
+{
+    "name": "Cold Stream Farm",
+    "machine_name": "cold_stream_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8585 N. Stephens Rd.",
+        "address_2": "",
+        "city": "Free Soil",
+        "state": "MI",
+        "postal_code": "49411",
+        "geo_coordinate": null
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.coldstreamfarm.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@coldstreamfarm.net",
+        "phone": "(231) 464-5809",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2622586",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "kallen",
+        "created": "1588690472"
+    }
+}

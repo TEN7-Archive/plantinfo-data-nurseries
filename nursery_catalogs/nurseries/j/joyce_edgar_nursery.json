@@ -1,0 +1,74 @@
+{
+    "name": "Joyce, Edgar Nursery",
+    "machine_name": "joyce_edgar_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "111 Coleman Road",
+        "address_2": "",
+        "city": "Elmer",
+        "state": "NJ",
+        "postal_code": "08318",
+        "geo_coordinate": "POINT (-75.2542449 39.5566918)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.edgarjoycenursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "greg@edgarjoycenursery.com",
+        "phone": "856-358-3324",
+        "fax": "856-358-1344",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672650",
+        "legacy_id": "12829",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,505 @@
+{
+    "name": "Primrose Path",
+    "machine_name": "primrose_path",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "921 Scottdale-Dawson Rd.",
+        "address_2": "",
+        "city": "Scottdale",
+        "state": "PA",
+        "postal_code": "15683",
+        "geo_coordinate": "POINT (-79.614111 40.085437)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.theprimrosepath.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "724-887-6756",
+        "fax": "724-887-3077",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "primrose_path",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1612394",
+                    "machine_name": "heuchera_cultivars_midnight_burgundy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "5545",
+                        "fgsid": null,
+                        "legacy_id": "234851",
+                        "catalog_source_id": "1309590"
+                    }
+                },
+                {
+                    "reference": "1612395",
+                    "machine_name": "heuchera_cultivars_purple_mountain_majesty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "5546",
+                        "fgsid": null,
+                        "legacy_id": "234852",
+                        "catalog_source_id": "1309591"
+                    }
+                },
+                {
+                    "reference": "1535163",
+                    "machine_name": "heuchera_cultivars_quilter_s_joy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "5547",
+                        "fgsid": null,
+                        "legacy_id": "106734",
+                        "catalog_source_id": "1309592"
+                    }
+                },
+                {
+                    "reference": "1625242",
+                    "machine_name": "heuchera_cultivars_raspberry_chiffon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "5548",
+                        "fgsid": null,
+                        "legacy_id": "359869",
+                        "catalog_source_id": "1309593"
+                    }
+                },
+                {
+                    "reference": "1569542",
+                    "machine_name": "heucherella_cultivars_heart_of_darkness",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "115770",
+                        "fgsid": null,
+                        "legacy_id": "176145",
+                        "catalog_source_id": "1309595"
+                    }
+                },
+                {
+                    "reference": "1535168",
+                    "machine_name": "heucherella_cultivars_quicksilver",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "115771",
+                        "fgsid": null,
+                        "legacy_id": "106739",
+                        "catalog_source_id": "1309596"
+                    }
+                },
+                {
+                    "reference": "1569544",
+                    "machine_name": "tiarella_cultivars_butterfly_wings",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "115772",
+                        "fgsid": null,
+                        "legacy_id": "176147",
+                        "catalog_source_id": "1309597"
+                    }
+                },
+                {
+                    "reference": "1535151",
+                    "machine_name": "tiarella_cultivars_elizabeth_oliver",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "115773",
+                        "fgsid": null,
+                        "legacy_id": "106722",
+                        "catalog_source_id": "1309598"
+                    }
+                },
+                {
+                    "reference": "1569545",
+                    "machine_name": "tiarella_cultivars_pink_brushes",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "115774",
+                        "fgsid": null,
+                        "legacy_id": "176148",
+                        "catalog_source_id": "1309599"
+                    }
+                },
+                {
+                    "reference": "1569546",
+                    "machine_name": "tiarella_cultivars_pink_pearls",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "115775",
+                        "fgsid": null,
+                        "legacy_id": "176149",
+                        "catalog_source_id": "1309600"
+                    }
+                },
+                {
+                    "reference": "1623921",
+                    "machine_name": "tiarella_cultivars_running_tiger",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "115776",
+                        "fgsid": null,
+                        "legacy_id": "359868",
+                        "catalog_source_id": "1309601"
+                    }
+                },
+                {
+                    "reference": "1535159",
+                    "machine_name": "heuchera_cultivars_coral_bouquet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "279900",
+                        "fgsid": null,
+                        "legacy_id": "106730",
+                        "catalog_source_id": "1309606"
+                    }
+                },
+                {
+                    "reference": "1623110",
+                    "machine_name": "heuchera_cultivars_dark_chocolate",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "279901",
+                        "fgsid": null,
+                        "legacy_id": "375516",
+                        "catalog_source_id": "1309607"
+                    }
+                },
+                {
+                    "reference": "1569533",
+                    "machine_name": "heuchera_cultivars_frosted_violet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "279902",
+                        "fgsid": null,
+                        "legacy_id": "176136",
+                        "catalog_source_id": "1309608"
+                    }
+                },
+                {
+                    "reference": "1535160",
+                    "machine_name": "heuchera_cultivars_harmonic_convergence",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "279903",
+                        "fgsid": null,
+                        "legacy_id": "106731",
+                        "catalog_source_id": "1309609"
+                    }
+                },
+                {
+                    "reference": "1585985",
+                    "machine_name": "heuchera_cultivars_hearts_on_fire",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "279904",
+                        "fgsid": null,
+                        "legacy_id": "222505",
+                        "catalog_source_id": "1309610"
+                    }
+                },
+                {
+                    "reference": "1569534",
+                    "machine_name": "heuchera_cultivars_jade_gloss",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "279905",
+                        "fgsid": null,
+                        "legacy_id": "176137",
+                        "catalog_source_id": "1309611"
+                    }
+                },
+                {
+                    "reference": "1535162",
+                    "machine_name": "heuchera_cultivars_petite_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "279906",
+                        "fgsid": null,
+                        "legacy_id": "106733",
+                        "catalog_source_id": "1309612"
+                    }
+                },
+                {
+                    "reference": "1569538",
+                    "machine_name": "heuchera_cultivars_rose_mirrors",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286320",
+                        "fgsid": null,
+                        "legacy_id": "176141",
+                        "catalog_source_id": "1309614"
+                    }
+                },
+                {
+                    "reference": "1569537",
+                    "machine_name": "heuchera_cultivars_raspberry_ice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286329",
+                        "fgsid": null,
+                        "legacy_id": "176140",
+                        "catalog_source_id": "1309613"
+                    }
+                },
+                {
+                    "reference": "1598245",
+                    "machine_name": "heuchera_cultivars_royal_velvet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286330",
+                        "fgsid": null,
+                        "legacy_id": "224518",
+                        "catalog_source_id": "1309615"
+                    }
+                },
+                {
+                    "reference": "1599558",
+                    "machine_name": "heuchera_cultivars_shenandoah_mountain",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286331",
+                        "fgsid": null,
+                        "legacy_id": "230380",
+                        "catalog_source_id": "1309616"
+                    }
+                },
+                {
+                    "reference": "1569539",
+                    "machine_name": "heuchera_cultivars_silver_light",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286332",
+                        "fgsid": null,
+                        "legacy_id": "176142",
+                        "catalog_source_id": "1309617"
+                    }
+                },
+                {
+                    "reference": "1569540",
+                    "machine_name": "heuchera_cultivars_silver_lode",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286333",
+                        "fgsid": null,
+                        "legacy_id": "176143",
+                        "catalog_source_id": "1309618"
+                    }
+                },
+                {
+                    "reference": "1537194",
+                    "machine_name": "heuchera_cultivars_silver_scrolls",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286334",
+                        "fgsid": null,
+                        "legacy_id": "114611",
+                        "catalog_source_id": "1309619"
+                    }
+                },
+                {
+                    "reference": "1653723",
+                    "machine_name": "heuchera_cultivars_stainless_steel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286335",
+                        "fgsid": null,
+                        "legacy_id": "367797",
+                        "catalog_source_id": "1309620"
+                    }
+                },
+                {
+                    "reference": "1648135",
+                    "machine_name": "heuchera_cultivars_steel_city",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286336",
+                        "fgsid": null,
+                        "legacy_id": "384567",
+                        "catalog_source_id": "1309621"
+                    }
+                },
+                {
+                    "reference": "1569541",
+                    "machine_name": "heuchera_villosa_bronze_wave",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286337",
+                        "fgsid": null,
+                        "legacy_id": "176144",
+                        "catalog_source_id": "1309622"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672272",
+        "legacy_id": "725",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

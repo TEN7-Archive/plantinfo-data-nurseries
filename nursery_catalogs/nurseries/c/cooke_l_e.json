@@ -1,0 +1,81 @@
+{
+    "name": "Cooke, L.E.",
+    "machine_name": "cooke_l_e",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "26333 RD 140",
+        "address_2": null,
+        "city": "Visalia",
+        "state": "CA",
+        "postal_code": "93292-9452",
+        "geo_coordinate": "POINT (-119.2619154 36.2705338)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.lecooke.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-845-5193",
+        "fax": "559-732-3702",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673320",
+        "legacy_id": "22532",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

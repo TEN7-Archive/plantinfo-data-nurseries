@@ -1,0 +1,60 @@
+{
+    "name": "Twin City Seed Company",
+    "machine_name": "twin_city_seed_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7265 Washington Avenue South",
+        "address_2": "",
+        "city": "Edina",
+        "state": "MN",
+        "postal_code": "55439",
+        "geo_coordinate": "POINT (-93.3978929 44.8712108)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.twincityseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "twincityseed@twincityseed.com",
+        "phone": "800-545-8873",
+        "fax": "952-944-7239",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_lawn",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216197"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672038",
+        "legacy_id": "16769",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2018",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

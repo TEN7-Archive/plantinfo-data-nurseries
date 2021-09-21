@@ -1,0 +1,60 @@
+{
+    "name": "Mahonia Nursery",
+    "machine_name": "mahonia_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2655 Landau Street SE",
+        "address_2": null,
+        "city": "Salem",
+        "state": "OR",
+        "postal_code": "97306",
+        "geo_coordinate": "POINT (-123.0074952 44.8724314)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mahonianursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "503-585-8789",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673930",
+        "legacy_id": "28528",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

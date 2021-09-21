@@ -1,0 +1,60 @@
+{
+    "name": "Modena Seed Company, Inc",
+    "machine_name": "modena_seed_company_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5727 Mission Street",
+        "address_2": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "postal_code": "94112",
+        "geo_coordinate": "POINT (-122.448832 37.709854)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.modenaseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "seedal@modenaseed.com",
+        "phone": "415-585-2324",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672207",
+        "legacy_id": "30009",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

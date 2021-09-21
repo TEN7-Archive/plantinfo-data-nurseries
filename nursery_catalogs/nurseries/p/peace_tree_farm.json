@@ -1,0 +1,74 @@
+{
+    "name": "Peace Tree Farm",
+    "machine_name": "peace_tree_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "295 Park Drive West",
+        "address_2": null,
+        "city": "Kintnersville",
+        "state": "PA",
+        "postal_code": "18930",
+        "geo_coordinate": "POINT (-75.1942007 40.5031883)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.peacetreefarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "lloyd@peacetreefarm.com",
+        "phone": "610-847-8152",
+        "fax": "610-847-5287",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673554",
+        "legacy_id": "24408",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Paradise Nursery",
+    "machine_name": "paradise_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 1539",
+        "address_2": null,
+        "city": "Bonners Ferry",
+        "state": "ID",
+        "postal_code": "83805",
+        "geo_coordinate": "POINT (-116.3163092 48.6913257)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.graftedstock.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "webcontact@graftedstock.com",
+        "phone": "208-267-7467",
+        "fax": "208-875-8900",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "evergreens_dwarf",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216163"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674032",
+        "legacy_id": "21148",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

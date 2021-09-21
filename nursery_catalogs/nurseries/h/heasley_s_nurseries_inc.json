@@ -1,0 +1,74 @@
+{
+    "name": "Heasley's Nurseries Inc.",
+    "machine_name": "heasley_s_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "247 Freeport Rd.",
+        "address_2": "",
+        "city": "Butler",
+        "state": "PA",
+        "postal_code": "16002",
+        "geo_coordinate": "POINT (-79.864256 40.831797)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.heasleysnurseries.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "724-287-1963",
+        "fax": "724 285-6987",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "rhododendron",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216179"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "consider for SL",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673017",
+        "legacy_id": "1154",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

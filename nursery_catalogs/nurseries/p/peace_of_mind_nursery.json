@@ -1,0 +1,74 @@
+{
+    "name": "Peace of Mind Nursery",
+    "machine_name": "peace_of_mind_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "10772 Selah Springs Road NE",
+        "address_2": null,
+        "city": "Silverton",
+        "state": "OR",
+        "postal_code": "97381",
+        "geo_coordinate": "POINT (-122.838544 44.982325)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.peaceofmindnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "dave@peaceofmindnursery.com",
+        "phone": "503-873-9803",
+        "fax": "503-873-9803",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "evergreens_dwarf",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216163"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673887",
+        "legacy_id": "19908",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Clearwater Native Plant Nursery",
+    "machine_name": "clearwater_native_plant_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1980 SW 55th Street",
+        "address_2": null,
+        "city": "Redmond",
+        "state": "OR",
+        "postal_code": "97756",
+        "geo_coordinate": "POINT (-121.232413 44.257557)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.clearwaternatives.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "541-350-5261",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672453",
+        "legacy_id": "28532",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

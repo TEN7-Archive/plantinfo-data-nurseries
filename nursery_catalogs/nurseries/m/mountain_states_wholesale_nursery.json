@@ -1,0 +1,74 @@
+{
+    "name": "Mountain States Wholesale Nursery",
+    "machine_name": "mountain_states_wholesale_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 2500",
+        "address_2": "",
+        "city": "Litchfield Park",
+        "state": "AZ",
+        "postal_code": "85340-2500",
+        "geo_coordinate": "POINT (-112.3579364 33.4933743)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mswn.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-840-8509",
+        "fax": "623-247-6354",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2015\/16",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671966",
+        "legacy_id": "608",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

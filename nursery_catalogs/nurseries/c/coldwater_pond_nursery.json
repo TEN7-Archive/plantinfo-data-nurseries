@@ -1,0 +1,60 @@
+{
+    "name": "Coldwater Pond Nursery",
+    "machine_name": "coldwater_pond_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "600 S. Marbletown Road",
+        "address_2": null,
+        "city": "Phelps",
+        "state": "NY",
+        "postal_code": "14532",
+        "geo_coordinate": "POINT (-77.064162 43.006296)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/coldwaterpond.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "315-331-8068",
+        "fax": "315-331-8068",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672967",
+        "legacy_id": "14288",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

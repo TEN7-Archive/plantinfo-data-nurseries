@@ -1,0 +1,60 @@
+{
+    "name": "Heinz Seed",
+    "machine_name": "heinz_seed",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "One PPG Place",
+        "address_2": null,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postal_code": "15222",
+        "geo_coordinate": "POINT (-80.0037948 40.4399982)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.heinzseed.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "tim.suitor@hjheinz.com",
+        "phone": "519-322-4041",
+        "fax": "519-322-4110",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672866",
+        "legacy_id": "13748",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

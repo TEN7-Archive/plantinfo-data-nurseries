@@ -1,0 +1,67 @@
+{
+    "name": "Santa Cruz Olive Tree Nursery",
+    "machine_name": "santa_cruz_olive_tree_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 311",
+        "address_2": null,
+        "city": "Watsonville",
+        "state": "CA",
+        "postal_code": "95077",
+        "geo_coordinate": "POINT (-121.76 36.9099999)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.santacruzolive.com\/index.asp",
+            "title": null,
+            "attributes": []
+        },
+        "email": "mail@santacruzolive.com",
+        "phone": "831-728-4269",
+        "fax": "831-786-0563",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672157",
+        "legacy_id": "17368",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

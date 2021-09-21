@@ -1,0 +1,60 @@
+{
+    "name": "Clemons Nursery",
+    "machine_name": "clemons_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2186 Shellsford Road",
+        "address_2": null,
+        "city": "McMinnville",
+        "state": "TN",
+        "postal_code": "37110",
+        "geo_coordinate": "POINT (-85.758346 35.655634)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.southeasternnursery.com\/Clemons\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "lclemons@blomand.net",
+        "phone": "931-473-4186",
+        "fax": "931-473-7220",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671800",
+        "legacy_id": "10168",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

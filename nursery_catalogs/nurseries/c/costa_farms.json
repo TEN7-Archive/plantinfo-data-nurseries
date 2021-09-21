@@ -1,0 +1,60 @@
+{
+    "name": "Costa Farms",
+    "machine_name": "costa_farms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "22290 SW 162nd Avenue",
+        "address_2": null,
+        "city": "Goulds",
+        "state": "FL",
+        "postal_code": "33170",
+        "geo_coordinate": "POINT (-80.455782 25.55941)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.costafarms.com\/Default.aspx",
+            "title": null,
+            "attributes": []
+        },
+        "email": "information@costafarms.com",
+        "phone": "800-327-7074",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672214",
+        "legacy_id": "27809",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

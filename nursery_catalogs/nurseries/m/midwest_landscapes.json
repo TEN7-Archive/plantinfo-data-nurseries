@@ -1,0 +1,67 @@
+{
+    "name": "Midwest Landscapes",
+    "machine_name": "midwest_landscapes",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6221 Oakwood Ave NE",
+        "address_2": null,
+        "city": "Otsego",
+        "state": "MN",
+        "postal_code": "55330",
+        "geo_coordinate": "POINT (-93.6032625 45.2422272)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.midwestlandscapes.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@midwestlandscapes.com",
+        "phone": "763-241-1320",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673894",
+        "legacy_id": "20068",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

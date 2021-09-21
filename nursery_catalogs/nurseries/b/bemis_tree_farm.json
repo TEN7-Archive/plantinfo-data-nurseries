@@ -1,0 +1,60 @@
+{
+    "name": "Bemis Tree Farm",
+    "machine_name": "bemis_tree_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "13206 Asher Road",
+        "address_2": null,
+        "city": "Little Rock",
+        "state": "AR",
+        "postal_code": "72206",
+        "geo_coordinate": "POINT (-92.221143 34.633185)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bemistreefarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@bemistreefarm.com",
+        "phone": "501-897-4931",
+        "fax": "501-897-4435",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673742",
+        "legacy_id": "26050",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

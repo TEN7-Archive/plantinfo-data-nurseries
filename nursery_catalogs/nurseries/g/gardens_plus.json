@@ -1,0 +1,74 @@
+{
+    "name": "Gardens Plus",
+    "machine_name": "gardens_plus",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "136 County Road #4",
+        "address_2": "",
+        "city": "Peterborough",
+        "state": "ON",
+        "postal_code": "K9L 1V6",
+        "geo_coordinate": "POINT (-78.2810753 44.3305029)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.gardensplus.ca\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "705-742-5918",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673924",
+        "legacy_id": "28288",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

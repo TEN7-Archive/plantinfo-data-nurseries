@@ -1,0 +1,60 @@
+{
+    "name": "Grace Gardens",
+    "machine_name": "grace_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1064 Angus Rd",
+        "address_2": "",
+        "city": "Penn Yan",
+        "state": "NY",
+        "postal_code": "14527-9606",
+        "geo_coordinate": "POINT (-76.978115 42.737782)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.gracegardens.com\/ggprlst.htm",
+            "title": null,
+            "attributes": []
+        },
+        "email": "tom@gracegardens.com",
+        "phone": "315-536-2556",
+        "fax": "315-536-2556",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673192",
+        "legacy_id": "21388",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

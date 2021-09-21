@@ -1,0 +1,86 @@
+{
+    "name": "Purity Seeds USA",
+    "machine_name": "purity_seeds_usa",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "41247 178th Street",
+        "address_2": "",
+        "city": "Raymond",
+        "state": "SD",
+        "postal_code": "57258",
+        "geo_coordinate": "POINT (-97.9389782 44.9124602)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.purityseedsusa.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "605-532-7333",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Purity Seeds USA 2019",
+            "machine_name": "purity_seeds_usa_2019",
+            "type": "nursery_catalog",
+            "date": "May 17 2019",
+            "nursery": "purity_seeds_usa",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1577335",
+                    "machine_name": "linum_usitatissimum_golden",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "171777",
+                        "fgsid": null,
+                        "legacy_id": "198617",
+                        "catalog_source_id": "1199886"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673507",
+        "legacy_id": "29313",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

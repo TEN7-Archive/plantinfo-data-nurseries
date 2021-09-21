@@ -1,0 +1,88 @@
+{
+    "name": "Spring Hill Nurseries",
+    "machine_name": "spring_hill_nurseries",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 330",
+        "address_2": "",
+        "city": "Harrison",
+        "state": "OH",
+        "postal_code": "45030",
+        "geo_coordinate": "POINT (-84.7915999 39.2536967)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/springhillnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "513-354-1509",
+        "fax": "513-354-1504",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "vines",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216187"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672488",
+        "legacy_id": "845",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2020, 2019, 2018",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

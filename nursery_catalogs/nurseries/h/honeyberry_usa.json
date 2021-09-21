@@ -1,0 +1,60 @@
+{
+    "name": "Honeyberry USA",
+    "machine_name": "honeyberry_usa",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 512",
+        "address_2": null,
+        "city": "Bagley",
+        "state": "MN",
+        "postal_code": "56621",
+        "geo_coordinate": "POINT (-95.3983491 47.5216231)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.honeyberryusa.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "218-331-8070",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673575",
+        "legacy_id": "27468",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "High Country Gardens",
+    "machine_name": "high_country_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2438 Shelburne Roud, Suite 1",
+        "address_2": "",
+        "city": "Shelburne",
+        "state": "VT",
+        "postal_code": "05482",
+        "geo_coordinate": "POINT (-105.994236 35.656238)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.highcountrygardens.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-925-9387",
+        "fax": "800-925-0097",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "rock_garden_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216180"
+            }
+        },
+        {
+            "machine_name": "xeriscaping_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216194"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": " address VT, grows in NM",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672825",
+        "legacy_id": "1052",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2017, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

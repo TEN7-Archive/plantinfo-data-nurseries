@@ -1,0 +1,67 @@
+{
+    "name": "Happy Land Tree Farm Nursery",
+    "machine_name": "happy_land_tree_farm_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "16706 Groningen Road",
+        "address_2": "",
+        "city": "Sandstone",
+        "state": "MN",
+        "postal_code": "55072",
+        "geo_coordinate": "POINT (-92.9733 46.150851)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.happylandtreefarms.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "hapland@ecenet.com",
+        "phone": "320-245-5135",
+        "fax": "320-245-5189",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673968",
+        "legacy_id": "20828",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

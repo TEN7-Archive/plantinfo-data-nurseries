@@ -1,0 +1,60 @@
+{
+    "name": "Otto and Sons Nursery",
+    "machine_name": "otto_and_sons_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1835 E. Guiberson Road",
+        "address_2": null,
+        "city": "Fillmore",
+        "state": "CA",
+        "postal_code": "93015",
+        "geo_coordinate": "POINT (-118.8569186 34.3840944)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.ottoandsons-nursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "805-524-2123",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673406",
+        "legacy_id": "28451",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

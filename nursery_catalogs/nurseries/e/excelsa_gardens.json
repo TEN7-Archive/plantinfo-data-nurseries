@@ -1,0 +1,67 @@
+{
+    "name": "Excelsa Gardens",
+    "machine_name": "excelsa_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "12839 25th Street North",
+        "address_2": "",
+        "city": "Loxahatchee",
+        "state": "FL",
+        "postal_code": "33470",
+        "geo_coordinate": "POINT (-80.2470691 26.7143056)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.excelsagardens.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "ExcelsaInc@aol.com",
+        "phone": "800-649-5348",
+        "fax": "561-790--3197",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673532",
+        "legacy_id": "23888",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

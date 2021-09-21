@@ -1,0 +1,95 @@
+{
+    "name": "Burgess Seed & Plant Company",
+    "machine_name": "burgess_seed_plant_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1804 East Hamilton Road",
+        "address_2": "",
+        "city": "Bloomington",
+        "state": "IL",
+        "postal_code": "61704",
+        "geo_coordinate": "POINT (-88.9684807 40.4543968)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.eburgess.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "309-662-7761",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "very bad reviews",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672668",
+        "legacy_id": "134",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2020, 2019, 2018, 2017",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

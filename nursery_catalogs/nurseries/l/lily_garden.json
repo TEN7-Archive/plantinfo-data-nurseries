@@ -1,0 +1,3711 @@
+{
+    "name": "Lily Garden",
+    "machine_name": "lily_garden",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4902 NE 147th Ave.",
+        "address_2": "",
+        "city": "Vancouver",
+        "state": "WA",
+        "postal_code": "98682",
+        "geo_coordinate": "POINT (-122.5213474 45.6575723)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.thelilygarden.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "360-253-6273",
+        "fax": "360-253-2512",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "lilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216173"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2018 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "lily_garden",
+            "active": false,
+            "plants": [
+                {
+                    "reference": "1640668",
+                    "machine_name": "lilium_cultivars_bonbini",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "76602",
+                        "fgsid": null,
+                        "legacy_id": "337939",
+                        "catalog_source_id": "1222672"
+                    }
+                },
+                {
+                    "reference": "1601289",
+                    "machine_name": "lilium_cultivars_alchemy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "79122",
+                        "fgsid": null,
+                        "legacy_id": "225824",
+                        "catalog_source_id": "1221517"
+                    }
+                },
+                {
+                    "reference": "1640864",
+                    "machine_name": "lilium_cultivars_bravura",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84752",
+                        "fgsid": null,
+                        "legacy_id": "330876",
+                        "catalog_source_id": "1222673"
+                    }
+                },
+                {
+                    "reference": "1516823",
+                    "machine_name": "lilium_cultivars_brushstroke",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84755",
+                        "fgsid": null,
+                        "legacy_id": "90176",
+                        "catalog_source_id": "1222674"
+                    }
+                },
+                {
+                    "reference": "1602098",
+                    "machine_name": "lilium_cultivars_caravan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84756",
+                        "fgsid": null,
+                        "legacy_id": "224217",
+                        "catalog_source_id": "1222675"
+                    }
+                },
+                {
+                    "reference": "1640854",
+                    "machine_name": "lilium_cultivars_carte_blanche",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84758",
+                        "fgsid": null,
+                        "legacy_id": "330866",
+                        "catalog_source_id": "1222676"
+                    }
+                },
+                {
+                    "reference": "1657143",
+                    "machine_name": "lilium_cultivars_forever_susan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84761",
+                        "fgsid": null,
+                        "legacy_id": "266597",
+                        "catalog_source_id": "1222686"
+                    }
+                },
+                {
+                    "reference": "1601373",
+                    "machine_name": "lilium_cultivars_giraffe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84763",
+                        "fgsid": null,
+                        "legacy_id": "231307",
+                        "catalog_source_id": "1222687"
+                    }
+                },
+                {
+                    "reference": "1517394",
+                    "machine_name": "lilium_cultivars_golden_scepter_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84765",
+                        "fgsid": null,
+                        "legacy_id": "90327",
+                        "catalog_source_id": "1222689"
+                    }
+                },
+                {
+                    "reference": "1478441",
+                    "machine_name": "lilium_cultivars_goldsmith",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84766",
+                        "fgsid": null,
+                        "legacy_id": "17357",
+                        "catalog_source_id": "1222690"
+                    }
+                },
+                {
+                    "reference": "1646301",
+                    "machine_name": "lilium_cultivars_golden_stone",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84767",
+                        "fgsid": null,
+                        "legacy_id": "382150",
+                        "catalog_source_id": "1222691"
+                    }
+                },
+                {
+                    "reference": "1654117",
+                    "machine_name": "lilium_cultivars_hotspot",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84769",
+                        "fgsid": null,
+                        "legacy_id": "378683",
+                        "catalog_source_id": "1222694"
+                    }
+                },
+                {
+                    "reference": "1570295",
+                    "machine_name": "lilium_cultivars_seafarer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84770",
+                        "fgsid": null,
+                        "legacy_id": "187424",
+                        "catalog_source_id": "1222723"
+                    }
+                },
+                {
+                    "reference": "1626840",
+                    "machine_name": "lilium_cultivars_serrano",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84771",
+                        "fgsid": null,
+                        "legacy_id": "251597",
+                        "catalog_source_id": "1222724"
+                    }
+                },
+                {
+                    "reference": "1654668",
+                    "machine_name": "lilium_cultivars_sheila",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84772",
+                        "fgsid": null,
+                        "legacy_id": "373865",
+                        "catalog_source_id": "1222725"
+                    }
+                },
+                {
+                    "reference": "1541512",
+                    "machine_name": "lilium_cultivars_silk_road",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85151",
+                        "fgsid": null,
+                        "legacy_id": "119362",
+                        "catalog_source_id": "1222726"
+                    }
+                },
+                {
+                    "reference": "1514324",
+                    "machine_name": "lilium_cultivars_sorbonne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85152",
+                        "fgsid": null,
+                        "legacy_id": "90654",
+                        "catalog_source_id": "1222729"
+                    }
+                },
+                {
+                    "reference": "1562357",
+                    "machine_name": "lilium_cultivars_yellow_whoppers",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85156",
+                        "fgsid": null,
+                        "legacy_id": "167378",
+                        "catalog_source_id": "1222739"
+                    }
+                },
+                {
+                    "reference": "1654111",
+                    "machine_name": "crocosmia_cultivars_alborado",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85157",
+                        "fgsid": null,
+                        "legacy_id": "378676",
+                        "catalog_source_id": "1222741"
+                    }
+                },
+                {
+                    "reference": "1654110",
+                    "machine_name": "crocosmia_cultivars_brilliant_sunset",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85158",
+                        "fgsid": null,
+                        "legacy_id": "378675",
+                        "catalog_source_id": "1222742"
+                    }
+                },
+                {
+                    "reference": "1661498",
+                    "machine_name": "lilium_cultivars_hearts_of_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "109289",
+                        "fgsid": null,
+                        "legacy_id": "392680",
+                        "catalog_source_id": "1223587"
+                    }
+                },
+                {
+                    "reference": "1535074",
+                    "machine_name": "lilium_cultivars_anastasia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "181587",
+                        "fgsid": null,
+                        "legacy_id": "110365",
+                        "catalog_source_id": "1221518"
+                    }
+                },
+                {
+                    "reference": "1478132",
+                    "machine_name": "lilium_cultivars_arabesque",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185065",
+                        "fgsid": null,
+                        "legacy_id": "17275",
+                        "catalog_source_id": "1221519"
+                    }
+                },
+                {
+                    "reference": "1536200",
+                    "machine_name": "lilium_cultivars_ariadne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185066",
+                        "fgsid": null,
+                        "legacy_id": "109491",
+                        "catalog_source_id": "1221520"
+                    }
+                },
+                {
+                    "reference": "1640846",
+                    "machine_name": "lilium_cultivars_big_bang",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185067",
+                        "fgsid": null,
+                        "legacy_id": "330858",
+                        "catalog_source_id": "1221521"
+                    }
+                },
+                {
+                    "reference": "1640844",
+                    "machine_name": "lilium_cultivars_beguiling",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185071",
+                        "fgsid": null,
+                        "legacy_id": "330856",
+                        "catalog_source_id": "1221522"
+                    }
+                },
+                {
+                    "reference": "1478372",
+                    "machine_name": "lilium_cultivars_black_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185072",
+                        "fgsid": null,
+                        "legacy_id": "17287",
+                        "catalog_source_id": "1221523"
+                    }
+                },
+                {
+                    "reference": "1637255",
+                    "machine_name": "lilium_cultivars_blackout",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185073",
+                        "fgsid": null,
+                        "legacy_id": "328698",
+                        "catalog_source_id": "1221524"
+                    }
+                },
+                {
+                    "reference": "1417393",
+                    "machine_name": "lilium_henryi",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "201065",
+                        "fgsid": "20915",
+                        "legacy_id": null,
+                        "catalog_source_id": "1223577"
+                    }
+                },
+                {
+                    "reference": "1478698",
+                    "machine_name": "lilium_cultivars_karen_north",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207165",
+                        "fgsid": null,
+                        "legacy_id": "17390",
+                        "catalog_source_id": "1222699"
+                    }
+                },
+                {
+                    "reference": "1607398",
+                    "machine_name": "lilium_cultivars_tango_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207166",
+                        "fgsid": null,
+                        "legacy_id": "284404",
+                        "catalog_source_id": "1222700"
+                    }
+                },
+                {
+                    "reference": "1570319",
+                    "machine_name": "lilium_cultivars_lavender_lady",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207167",
+                        "fgsid": null,
+                        "legacy_id": "187448",
+                        "catalog_source_id": "1222701"
+                    }
+                },
+                {
+                    "reference": "1654940",
+                    "machine_name": "lilium_cultivars_legend",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207168",
+                        "fgsid": null,
+                        "legacy_id": "373931",
+                        "catalog_source_id": "1222702"
+                    }
+                },
+                {
+                    "reference": "1540356",
+                    "machine_name": "lilium_cultivars_leslie_woodriff",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207169",
+                        "fgsid": null,
+                        "legacy_id": "114259",
+                        "catalog_source_id": "1222703"
+                    }
+                },
+                {
+                    "reference": "1570299",
+                    "machine_name": "lilium_cultivars_liberty_hyde_bailey",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207170",
+                        "fgsid": null,
+                        "legacy_id": "187428",
+                        "catalog_source_id": "1222704"
+                    }
+                },
+                {
+                    "reference": "1517899",
+                    "machine_name": "lilium_cultivars_louis_xiv_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207175",
+                        "fgsid": null,
+                        "legacy_id": "90402",
+                        "catalog_source_id": "1222705"
+                    }
+                },
+                {
+                    "reference": "1601290",
+                    "machine_name": "lilium_cultivars_luminaries",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207180",
+                        "fgsid": null,
+                        "legacy_id": "225825",
+                        "catalog_source_id": "1222706"
+                    }
+                },
+                {
+                    "reference": "1615821",
+                    "machine_name": "lilium_cultivars_madame_butterfly",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207181",
+                        "fgsid": null,
+                        "legacy_id": "239111",
+                        "catalog_source_id": "1222707"
+                    }
+                },
+                {
+                    "reference": "1640856",
+                    "machine_name": "lilium_cultivars_miss_libby",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207182",
+                        "fgsid": null,
+                        "legacy_id": "330868",
+                        "catalog_source_id": "1222709"
+                    }
+                },
+                {
+                    "reference": "1566117",
+                    "machine_name": "lilium_cultivars_miss_lucy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207184",
+                        "fgsid": null,
+                        "legacy_id": "184177",
+                        "catalog_source_id": "1222710"
+                    }
+                },
+                {
+                    "reference": "1610043",
+                    "machine_name": "lilium_cultivars_night_flyer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207185",
+                        "fgsid": null,
+                        "legacy_id": "380494",
+                        "catalog_source_id": "1222712"
+                    }
+                },
+                {
+                    "reference": "1601288",
+                    "machine_name": "lilium_cultivars_pizzazz",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207186",
+                        "fgsid": null,
+                        "legacy_id": "225823",
+                        "catalog_source_id": "1222713"
+                    }
+                },
+                {
+                    "reference": "1640865",
+                    "machine_name": "lilium_cultivars_quintessence",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207187",
+                        "fgsid": null,
+                        "legacy_id": "330877",
+                        "catalog_source_id": "1222714"
+                    }
+                },
+                {
+                    "reference": "1467089",
+                    "machine_name": "crocosmia_cultivars_lucifer_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207198",
+                        "fgsid": null,
+                        "legacy_id": "5647",
+                        "catalog_source_id": "1222765"
+                    }
+                },
+                {
+                    "reference": "1502634",
+                    "machine_name": "crocosmia_crocosmiiflora_queen_alexandra",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207199",
+                        "fgsid": null,
+                        "legacy_id": "75061",
+                        "catalog_source_id": "1222766"
+                    }
+                },
+                {
+                    "reference": "1467091",
+                    "machine_name": "crocosmia_cultivars_star_of_the_east",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207200",
+                        "fgsid": null,
+                        "legacy_id": "5649",
+                        "catalog_source_id": "1222767"
+                    }
+                },
+                {
+                    "reference": "1649632",
+                    "machine_name": "crocosmia_cultivars_vera_cruz",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207201",
+                        "fgsid": null,
+                        "legacy_id": "378671",
+                        "catalog_source_id": "1222768"
+                    }
+                },
+                {
+                    "reference": "1417363",
+                    "machine_name": "lilium_amabile",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207202",
+                        "fgsid": "20884",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222769"
+                    }
+                },
+                {
+                    "reference": "1417376",
+                    "machine_name": "lilium_cernuum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207203",
+                        "fgsid": "20898",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222770"
+                    }
+                },
+                {
+                    "reference": "1417380",
+                    "machine_name": "lilium_concolor",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207204",
+                        "fgsid": "20902",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222771"
+                    }
+                },
+                {
+                    "reference": "1417384",
+                    "machine_name": "lilium_dauricum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207205",
+                        "fgsid": "20906",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222772"
+                    }
+                },
+                {
+                    "reference": "1417385",
+                    "machine_name": "lilium_davidii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207206",
+                        "fgsid": "20907",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222773"
+                    }
+                },
+                {
+                    "reference": "1417389",
+                    "machine_name": "lilium_formosanum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207207",
+                        "fgsid": "20911",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222774"
+                    }
+                },
+                {
+                    "reference": "1417692",
+                    "machine_name": "lilium_longiflorum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207222",
+                        "fgsid": "20929",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222775"
+                    }
+                },
+                {
+                    "reference": "1417722",
+                    "machine_name": "lilium_pumilum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207223",
+                        "fgsid": "20959",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222776"
+                    }
+                },
+                {
+                    "reference": "1417737",
+                    "machine_name": "lilium_taliense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207224",
+                        "fgsid": "20974",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222777"
+                    }
+                },
+                {
+                    "reference": "1417747",
+                    "machine_name": "lilium_wilsonii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207225",
+                        "fgsid": "20984",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222778"
+                    }
+                },
+                {
+                    "reference": "1417364",
+                    "machine_name": "lilium_auratum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207226",
+                        "fgsid": "20885",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222779"
+                    }
+                },
+                {
+                    "reference": "1417372",
+                    "machine_name": "lilium_canadense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207227",
+                        "fgsid": "20894",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222780"
+                    }
+                },
+                {
+                    "reference": "1417378",
+                    "machine_name": "lilium_ciliatum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207228",
+                        "fgsid": "20900",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222781"
+                    }
+                },
+                {
+                    "reference": "1417400",
+                    "machine_name": "lilium_kelloggii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207229",
+                        "fgsid": "20922",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222782"
+                    }
+                },
+                {
+                    "reference": "1417696",
+                    "machine_name": "lilium_martagon",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207230",
+                        "fgsid": "20933",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222783"
+                    }
+                },
+                {
+                    "reference": "1417725",
+                    "machine_name": "lilium_rubellum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207231",
+                        "fgsid": "20962",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222784"
+                    }
+                },
+                {
+                    "reference": "1417740",
+                    "machine_name": "lilium_tsingtauense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "207232",
+                        "fgsid": "20977",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222785"
+                    }
+                },
+                {
+                    "reference": "1478387",
+                    "machine_name": "lilium_cultivars_casa_blanca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211638",
+                        "fgsid": null,
+                        "legacy_id": "17302",
+                        "catalog_source_id": "1222677"
+                    }
+                },
+                {
+                    "reference": "1573079",
+                    "machine_name": "lilium_cultivars_conca_d_or",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211639",
+                        "fgsid": null,
+                        "legacy_id": "191896",
+                        "catalog_source_id": "1222678"
+                    }
+                },
+                {
+                    "reference": "1517076",
+                    "machine_name": "lilium_cultivars_copper_crown_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211640",
+                        "fgsid": null,
+                        "legacy_id": "90219",
+                        "catalog_source_id": "1222679"
+                    }
+                },
+                {
+                    "reference": "1595991",
+                    "machine_name": "lilium_cultivars_curie",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211641",
+                        "fgsid": null,
+                        "legacy_id": "367364",
+                        "catalog_source_id": "1222680"
+                    }
+                },
+                {
+                    "reference": "1573087",
+                    "machine_name": "lilium_cultivars_dimension",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211642",
+                        "fgsid": null,
+                        "legacy_id": "191904",
+                        "catalog_source_id": "1222681"
+                    }
+                },
+                {
+                    "reference": "1640862",
+                    "machine_name": "lilium_cultivars_dunyazade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211643",
+                        "fgsid": null,
+                        "legacy_id": "330874",
+                        "catalog_source_id": "1222682"
+                    }
+                },
+                {
+                    "reference": "1478418",
+                    "machine_name": "lilium_cultivars_eros",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211644",
+                        "fgsid": null,
+                        "legacy_id": "17334",
+                        "catalog_source_id": "1222683"
+                    }
+                },
+                {
+                    "reference": "1517350",
+                    "machine_name": "lilium_cultivars_eurydice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211645",
+                        "fgsid": null,
+                        "legacy_id": "90282",
+                        "catalog_source_id": "1222684"
+                    }
+                },
+                {
+                    "reference": "1649637",
+                    "machine_name": "lilium_cultivars_flying_circus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211646",
+                        "fgsid": null,
+                        "legacy_id": "378684",
+                        "catalog_source_id": "1222685"
+                    }
+                },
+                {
+                    "reference": "1640855",
+                    "machine_name": "lilium_cultivars_gloriana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "211647",
+                        "fgsid": null,
+                        "legacy_id": "330867",
+                        "catalog_source_id": "1222688"
+                    }
+                },
+                {
+                    "reference": "1662068",
+                    "machine_name": "crocosmia_cultivars_paul_bunyan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217908",
+                        "fgsid": null,
+                        "legacy_id": "392687",
+                        "catalog_source_id": "1223578"
+                    }
+                },
+                {
+                    "reference": "1662066",
+                    "machine_name": "crocosmia_cultivars_happy_anniversary",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217909",
+                        "fgsid": null,
+                        "legacy_id": "392685",
+                        "catalog_source_id": "1223579"
+                    }
+                },
+                {
+                    "reference": "1662067",
+                    "machine_name": "crocosmia_cultivars_jochem",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217911",
+                        "fgsid": null,
+                        "legacy_id": "392686",
+                        "catalog_source_id": "1223580"
+                    }
+                },
+                {
+                    "reference": "1661223",
+                    "machine_name": "crocosmia_cultivars_carmelita",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217912",
+                        "fgsid": null,
+                        "legacy_id": "392682",
+                        "catalog_source_id": "1223581"
+                    }
+                },
+                {
+                    "reference": "1661495",
+                    "machine_name": "lilium_cultivars_molten_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217913",
+                        "fgsid": null,
+                        "legacy_id": "392677",
+                        "catalog_source_id": "1223582"
+                    }
+                },
+                {
+                    "reference": "1661219",
+                    "machine_name": "lilium_cultivars_aranal",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217918",
+                        "fgsid": null,
+                        "legacy_id": "392667",
+                        "catalog_source_id": "1223583"
+                    }
+                },
+                {
+                    "reference": "1661218",
+                    "machine_name": "lilium_cultivars_captain_kidd",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217920",
+                        "fgsid": null,
+                        "legacy_id": "392668",
+                        "catalog_source_id": "1223584"
+                    }
+                },
+                {
+                    "reference": "1661490",
+                    "machine_name": "lilium_cultivars_contagem",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217921",
+                        "fgsid": null,
+                        "legacy_id": "392670",
+                        "catalog_source_id": "1223585"
+                    }
+                },
+                {
+                    "reference": "1661499",
+                    "machine_name": "lilium_cultivars_eleanor_roosevelt",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217922",
+                        "fgsid": null,
+                        "legacy_id": "392681",
+                        "catalog_source_id": "1223586"
+                    }
+                },
+                {
+                    "reference": "1661497",
+                    "machine_name": "lilium_cultivars_ice_follies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217923",
+                        "fgsid": null,
+                        "legacy_id": "392679",
+                        "catalog_source_id": "1223588"
+                    }
+                },
+                {
+                    "reference": "1417393",
+                    "machine_name": "lilium_henryi",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245121",
+                        "fgsid": "20915",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222692"
+                    }
+                },
+                {
+                    "reference": "1608465",
+                    "machine_name": "lilium_cultivars_hotline",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245122",
+                        "fgsid": null,
+                        "legacy_id": "375520",
+                        "catalog_source_id": "1222693"
+                    }
+                },
+                {
+                    "reference": "1601523",
+                    "machine_name": "lilium_cultivars_ice_caves",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245124",
+                        "fgsid": null,
+                        "legacy_id": "225829",
+                        "catalog_source_id": "1222695"
+                    }
+                },
+                {
+                    "reference": "1573092",
+                    "machine_name": "lilium_cultivars_indian_summer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245126",
+                        "fgsid": null,
+                        "legacy_id": "191909",
+                        "catalog_source_id": "1222696"
+                    }
+                },
+                {
+                    "reference": "1478687",
+                    "machine_name": "lilium_cultivars_iona",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245127",
+                        "fgsid": null,
+                        "legacy_id": "17379",
+                        "catalog_source_id": "1222697"
+                    }
+                },
+                {
+                    "reference": "1517644",
+                    "machine_name": "lilium_cultivars_iowa_rose",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245128",
+                        "fgsid": null,
+                        "legacy_id": "90361",
+                        "catalog_source_id": "1222698"
+                    }
+                },
+                {
+                    "reference": "1654116",
+                    "machine_name": "lilium_cultivars_midsummer_s_eve",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245129",
+                        "fgsid": null,
+                        "legacy_id": "378681",
+                        "catalog_source_id": "1222708"
+                    }
+                },
+                {
+                    "reference": "1658736",
+                    "machine_name": "lilium_cultivars_montezuma",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245130",
+                        "fgsid": null,
+                        "legacy_id": "271937",
+                        "catalog_source_id": "1222711"
+                    }
+                },
+                {
+                    "reference": "1640863",
+                    "machine_name": "lilium_cultivars_radiance",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245131",
+                        "fgsid": null,
+                        "legacy_id": "330875",
+                        "catalog_source_id": "1222715"
+                    }
+                },
+                {
+                    "reference": "1651711",
+                    "machine_name": "lilium_cultivars_red_twin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245134",
+                        "fgsid": null,
+                        "legacy_id": "387628",
+                        "catalog_source_id": "1222716"
+                    }
+                },
+                {
+                    "reference": "1479010",
+                    "machine_name": "lilium_cultivars_red_velvet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245136",
+                        "fgsid": null,
+                        "legacy_id": "17474",
+                        "catalog_source_id": "1222717"
+                    }
+                },
+                {
+                    "reference": "1417724",
+                    "machine_name": "lilium_regale",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245149",
+                        "fgsid": "20961",
+                        "legacy_id": null,
+                        "catalog_source_id": "1222718"
+                    }
+                },
+                {
+                    "reference": "1640710",
+                    "machine_name": "lilium_cultivars_saltarello",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245150",
+                        "fgsid": null,
+                        "legacy_id": "338136",
+                        "catalog_source_id": "1222719"
+                    }
+                },
+                {
+                    "reference": "1640868",
+                    "machine_name": "lilium_cultivars_sapporo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245156",
+                        "fgsid": null,
+                        "legacy_id": "330880",
+                        "catalog_source_id": "1222720"
+                    }
+                },
+                {
+                    "reference": "1570304",
+                    "machine_name": "lilium_cultivars_sarabande",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245158",
+                        "fgsid": null,
+                        "legacy_id": "187433",
+                        "catalog_source_id": "1222721"
+                    }
+                },
+                {
+                    "reference": "1479023",
+                    "machine_name": "lilium_cultivars_scheherazade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245163",
+                        "fgsid": null,
+                        "legacy_id": "17487",
+                        "catalog_source_id": "1222722"
+                    }
+                },
+                {
+                    "reference": "1612032",
+                    "machine_name": "lilium_cultivars_silver_scheherazade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245170",
+                        "fgsid": null,
+                        "legacy_id": "370098",
+                        "catalog_source_id": "1222727"
+                    }
+                },
+                {
+                    "reference": "1654114",
+                    "machine_name": "lilium_cultivars_sizzle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245171",
+                        "fgsid": null,
+                        "legacy_id": "378679",
+                        "catalog_source_id": "1222728"
+                    }
+                },
+                {
+                    "reference": "1601527",
+                    "machine_name": "lilium_cultivars_spice_island",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245173",
+                        "fgsid": null,
+                        "legacy_id": "225833",
+                        "catalog_source_id": "1222730"
+                    }
+                },
+                {
+                    "reference": "1529790",
+                    "machine_name": "lilium_cultivars_stargazer_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245174",
+                        "fgsid": null,
+                        "legacy_id": "105176",
+                        "catalog_source_id": "1222731"
+                    }
+                },
+                {
+                    "reference": "1479044",
+                    "machine_name": "lilium_cultivars_summer_palace",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245175",
+                        "fgsid": null,
+                        "legacy_id": "17509",
+                        "catalog_source_id": "1222732"
+                    }
+                },
+                {
+                    "reference": "1514581",
+                    "machine_name": "lilium_cultivars_tibetian_snow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245181",
+                        "fgsid": null,
+                        "legacy_id": "90699",
+                        "catalog_source_id": "1222733"
+                    }
+                },
+                {
+                    "reference": "1479052",
+                    "machine_name": "lilium_cultivars_tiger_babies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245184",
+                        "fgsid": null,
+                        "legacy_id": "17517",
+                        "catalog_source_id": "1222734"
+                    }
+                },
+                {
+                    "reference": "1610919",
+                    "machine_name": "lilium_cultivars_tiger_edition",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245186",
+                        "fgsid": null,
+                        "legacy_id": "361481",
+                        "catalog_source_id": "1222735"
+                    }
+                },
+                {
+                    "reference": "1637545",
+                    "machine_name": "lilium_cultivars_tiger_woods",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245187",
+                        "fgsid": null,
+                        "legacy_id": "328862",
+                        "catalog_source_id": "1222736"
+                    }
+                },
+                {
+                    "reference": "1647957",
+                    "machine_name": "lilium_cultivars_time_zone",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245189",
+                        "fgsid": null,
+                        "legacy_id": "364102",
+                        "catalog_source_id": "1222737"
+                    }
+                },
+                {
+                    "reference": "1479288",
+                    "machine_name": "lilium_cultivars_white_butterflies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245190",
+                        "fgsid": null,
+                        "legacy_id": "17528",
+                        "catalog_source_id": "1222738"
+                    }
+                },
+                {
+                    "reference": "1654112",
+                    "machine_name": "crocosmia_cultivars_adriana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "245194",
+                        "fgsid": null,
+                        "legacy_id": "378677",
+                        "catalog_source_id": "1222740"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Lily Garden",
+            "machine_name": "lily_garden",
+            "type": "nursery_catalog",
+            "date": "Mar 23 2018",
+            "nursery": "lily_garden",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1535074",
+                    "machine_name": "lilium_cultivars_anastasia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894446",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478132",
+                    "machine_name": "lilium_cultivars_arabesque",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894451",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417364",
+                    "machine_name": "lilium_auratum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894456",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640846",
+                    "machine_name": "lilium_cultivars_big_bang",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894461",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478372",
+                    "machine_name": "lilium_cultivars_black_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894466",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1516823",
+                    "machine_name": "lilium_cultivars_brushstroke",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894471",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1595761",
+                    "machine_name": "lilium_cultivars_buzzer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894476",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1661218",
+                    "machine_name": "lilium_cultivars_captain_kidd",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894481",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1602098",
+                    "machine_name": "lilium_cultivars_caravan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894486",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640854",
+                    "machine_name": "lilium_cultivars_carte_blanche",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894491",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478387",
+                    "machine_name": "lilium_cultivars_casa_blanca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894496",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478390",
+                    "machine_name": "lilium_cultivars_catherine_the_great",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894501",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1597388",
+                    "machine_name": "lilium_cultivars_chill_out",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894506",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1573079",
+                    "machine_name": "lilium_cultivars_conca_d_or",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894511",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1517076",
+                    "machine_name": "lilium_cultivars_copper_crown_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894516",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1573087",
+                    "machine_name": "lilium_cultivars_dimension",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894521",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1621945",
+                    "machine_name": "lilium_cultivars_double_sensation",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894526",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640862",
+                    "machine_name": "lilium_cultivars_dunyazade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894531",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478418",
+                    "machine_name": "lilium_cultivars_eros",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894536",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1517350",
+                    "machine_name": "lilium_cultivars_eurydice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894541",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1657143",
+                    "machine_name": "lilium_cultivars_forever_susan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894546",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1601373",
+                    "machine_name": "lilium_cultivars_giraffe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894551",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640855",
+                    "machine_name": "lilium_cultivars_gloriana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894556",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1651525",
+                    "machine_name": "lilium_cultivars_golden_matrix",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894561",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1517394",
+                    "machine_name": "lilium_cultivars_golden_scepter_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894566",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478441",
+                    "machine_name": "lilium_cultivars_goldsmith",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894571",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1608465",
+                    "machine_name": "lilium_cultivars_hotline",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894576",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1601523",
+                    "machine_name": "lilium_cultivars_ice_caves",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894581",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1661497",
+                    "machine_name": "lilium_cultivars_ice_follies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894586",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2127616",
+                    "machine_name": "lilium_cultivars_indiana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894591",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478687",
+                    "machine_name": "lilium_cultivars_iona",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894596",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1517644",
+                    "machine_name": "lilium_cultivars_iowa_rose",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894601",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1540356",
+                    "machine_name": "lilium_cultivars_leslie_woodriff",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894606",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1570299",
+                    "machine_name": "lilium_cultivars_liberty_hyde_bailey",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894611",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1609098",
+                    "machine_name": "lilium_cultivars_lily_allen",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894616",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1615821",
+                    "machine_name": "lilium_cultivars_madame_butterfly",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894621",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1600434",
+                    "machine_name": "lilium_cultivars_matrix_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894626",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1654116",
+                    "machine_name": "lilium_cultivars_midsummer_s_eve",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894631",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640856",
+                    "machine_name": "lilium_cultivars_miss_libby",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894636",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1566117",
+                    "machine_name": "lilium_cultivars_miss_lucy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894641",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1610043",
+                    "machine_name": "lilium_cultivars_night_flyer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894646",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1562387",
+                    "machine_name": "lilium_cultivars_orania",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894651",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1518227",
+                    "machine_name": "lilium_cultivars_peach_butterflies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894656",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1661222",
+                    "machine_name": "lilium_cultivars_pirouette",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894661",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1601288",
+                    "machine_name": "lilium_cultivars_pizzazz",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894666",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640865",
+                    "machine_name": "lilium_cultivars_quintessence",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894671",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1479010",
+                    "machine_name": "lilium_cultivars_red_velvet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894676",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417724",
+                    "machine_name": "lilium_regale",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894681",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1661492",
+                    "machine_name": "lilium_cultivars_richmond",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894686",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640869",
+                    "machine_name": "lilium_cultivars_rio_negro",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894691",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640710",
+                    "machine_name": "lilium_cultivars_saltarello",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894696",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640868",
+                    "machine_name": "lilium_cultivars_sapporo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894701",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1570304",
+                    "machine_name": "lilium_cultivars_sarabande",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894706",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1479023",
+                    "machine_name": "lilium_cultivars_scheherazade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894711",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1626840",
+                    "machine_name": "lilium_cultivars_serrano",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894716",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1541512",
+                    "machine_name": "lilium_cultivars_silk_road",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894721",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1612032",
+                    "machine_name": "lilium_cultivars_silver_scheherazade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894726",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1626840",
+                    "machine_name": "lilium_cultivars_serrano",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894731",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1541512",
+                    "machine_name": "lilium_cultivars_silk_road",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894736",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1562356",
+                    "machine_name": "lilium_cultivars_sinfonia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894741",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1654114",
+                    "machine_name": "lilium_cultivars_sizzle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894746",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1514324",
+                    "machine_name": "lilium_cultivars_sorbonne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894751",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1601527",
+                    "machine_name": "lilium_cultivars_spice_island",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894756",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1529790",
+                    "machine_name": "lilium_cultivars_stargazer_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894761",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1479044",
+                    "machine_name": "lilium_cultivars_summer_palace",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894766",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2267991",
+                    "machine_name": "lilium_cultivars_sundew",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894771",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1479052",
+                    "machine_name": "lilium_cultivars_tiger_babies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894776",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1647957",
+                    "machine_name": "lilium_cultivars_time_zone",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894781",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2268626",
+                    "machine_name": "lilium_cultivars_valverde",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894786",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1514610",
+                    "machine_name": "lilium_cultivars_white_henryi",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894791",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1562357",
+                    "machine_name": "lilium_cultivars_yellow_whoppers",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894796",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1654112",
+                    "machine_name": "crocosmia_cultivars_adriana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894801",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1654111",
+                    "machine_name": "crocosmia_cultivars_alborado",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894806",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1661223",
+                    "machine_name": "crocosmia_cultivars_carmelita",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894811",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1662064",
+                    "machine_name": "crocosmia_cultivars_erika",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894816",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1502626",
+                    "machine_name": "crocosmia_crocosmiiflora_george_davison",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894821",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1662065",
+                    "machine_name": "crocosmia_cultivars_gold_rush",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894826",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1662066",
+                    "machine_name": "crocosmia_cultivars_happy_anniversary",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894831",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1662067",
+                    "machine_name": "crocosmia_cultivars_jochem",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894836",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1467089",
+                    "machine_name": "crocosmia_cultivars_lucifer_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894841",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1662068",
+                    "machine_name": "crocosmia_cultivars_paul_bunyan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894846",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1502634",
+                    "machine_name": "crocosmia_crocosmiiflora_queen_alexandra",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894851",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1467091",
+                    "machine_name": "crocosmia_cultivars_star_of_the_east",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894856",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1649632",
+                    "machine_name": "crocosmia_cultivars_vera_cruz",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894861",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1483984",
+                    "machine_name": "paeonia_t_cultivars_bartzella",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894866",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484558",
+                    "machine_name": "paeonia_cultivars_big_ben",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894871",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1518482",
+                    "machine_name": "paeonia_cultivars_border_charm",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894876",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484601",
+                    "machine_name": "paeonia_cultivars_duchesse_de_nemours",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894881",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484614",
+                    "machine_name": "paeonia_cultivars_festiva_maxima",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894886",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485164",
+                    "machine_name": "paeonia_cultivars_paula_fay",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894891",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485184",
+                    "machine_name": "paeonia_cultivars_raspberry_sundae",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894896",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1566952",
+                    "machine_name": "paeonia_cultivars_red_magic",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894901",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485210",
+                    "machine_name": "paeonia_cultivars_shirley_temple",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894906",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1640860",
+                    "machine_name": "lilium_cultivars_flugelhorn",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894911",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417363",
+                    "machine_name": "lilium_amabile",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894916",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1479303",
+                    "machine_name": "lilium_amabile_luteum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894921",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417380",
+                    "machine_name": "lilium_concolor",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894926",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417385",
+                    "machine_name": "lilium_davidii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894931",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417389",
+                    "machine_name": "lilium_formosanum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894936",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417692",
+                    "machine_name": "lilium_longiflorum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894941",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417722",
+                    "machine_name": "lilium_pumilum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894946",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417724",
+                    "machine_name": "lilium_regale",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894951",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417737",
+                    "machine_name": "lilium_taliense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894956",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417747",
+                    "machine_name": "lilium_wilsonii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894961",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1479044",
+                    "machine_name": "lilium_cultivars_summer_palace",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894966",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417364",
+                    "machine_name": "lilium_auratum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894971",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417372",
+                    "machine_name": "lilium_canadense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894976",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417400",
+                    "machine_name": "lilium_kelloggii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894981",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417696",
+                    "machine_name": "lilium_martagon",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894986",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1417740",
+                    "machine_name": "lilium_tsingtauense",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894991",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478709",
+                    "machine_name": "lilium_cultivars_little_rascal_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "894996",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1601283",
+                    "machine_name": "lilium_cultivars_summer_s_end",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "895001",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284701",
+                    "machine_name": "lilium_cultivars_bell_tower",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896276",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284706",
+                    "machine_name": "lilium_cultivars_christopher",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896281",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1661493",
+                    "machine_name": "lilium_cultivars_peach_lace",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896286",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284711",
+                    "machine_name": "lilium_cultivars_dragon_fruit",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896291",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284716",
+                    "machine_name": "lilium_cultivars_dynamite",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896296",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284726",
+                    "machine_name": "lilium_cultivars_heart_strings",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896301",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284721",
+                    "machine_name": "lilium_cultivars_flavia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896306",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1557855",
+                    "machine_name": "iris_cultivars_istanbul",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896311",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284736",
+                    "machine_name": "lilium_cultivars_pink_news",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896316",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284741",
+                    "machine_name": "lilium_cultivars_playtime",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896321",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284746",
+                    "machine_name": "lilium_cultivars_polar_star",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896326",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284751",
+                    "machine_name": "lilium_cultivars_profundo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896331",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284756",
+                    "machine_name": "lilium_cultivars_red_magic",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896336",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284761",
+                    "machine_name": "lilium_cultivars_special_news",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896341",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284766",
+                    "machine_name": "lilium_cultivars_virunga",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896346",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284781",
+                    "machine_name": "crocosmia_cultivars_diablito",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896351",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284776",
+                    "machine_name": "crocosmia_cultivars_clivie",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896356",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2284771",
+                    "machine_name": "crocosmia_cultivars_sharona",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "896361",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673111",
+        "legacy_id": "1177",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

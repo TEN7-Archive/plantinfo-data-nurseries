@@ -1,0 +1,77 @@
+{
+    "name": "Greenbrier Farms Nursery",
+    "machine_name": "greenbrier_farms_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "225 Sign Pine Road",
+        "address_2": "",
+        "city": "Chesapeake",
+        "state": "VA",
+        "postal_code": "23322",
+        "geo_coordinate": "POINT (-76.2247919 36.6484725)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.historicgreenbrierfarms.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "757-421-2141",
+        "fax": "757-421-2159",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "greenbrier_farms_nursery",
+            "active": true,
+            "plants": []
+        }
+    ],
+    "archival_data": {
+        "id": "1673090",
+        "legacy_id": "356",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

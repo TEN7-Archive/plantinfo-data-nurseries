@@ -1,0 +1,67 @@
+{
+    "name": "Althouse Nursery",
+    "machine_name": "althouse_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5410 Dick George Road",
+        "address_2": "",
+        "city": "Cave Junction",
+        "state": "OR",
+        "postal_code": "97523",
+        "geo_coordinate": "POINT (-123.610253 42.115523)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/althousenursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "541-592-2395",
+        "fax": "541-592-2330",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673625",
+        "legacy_id": "24848",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

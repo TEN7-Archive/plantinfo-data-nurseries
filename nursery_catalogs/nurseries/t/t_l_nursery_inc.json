@@ -1,0 +1,60 @@
+{
+    "name": "T & L Nursery Inc",
+    "machine_name": "t_l_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "13245 Woodinville Redmond Rd NE",
+        "address_2": null,
+        "city": "Redmond",
+        "state": "WA",
+        "postal_code": "98052",
+        "geo_coordinate": "POINT (-122.1351177 47.7193737)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/tandlnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@tandlnursery.com",
+        "phone": "425-885-5050",
+        "fax": "425-861-5412",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web Only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672720",
+        "legacy_id": "8437",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

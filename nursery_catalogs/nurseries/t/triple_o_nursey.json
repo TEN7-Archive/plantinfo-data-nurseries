@@ -1,0 +1,60 @@
+{
+    "name": "Triple O Nursey",
+    "machine_name": "triple_o_nursey",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "14750 S.W. 248th St.",
+        "address_2": "",
+        "city": "Homestead",
+        "state": "FL",
+        "postal_code": "33032",
+        "geo_coordinate": "POINT (-80.431269 25.534737)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.we-r-plants.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@we-r-plants.com",
+        "phone": "800-273-0656",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672178",
+        "legacy_id": "30041",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

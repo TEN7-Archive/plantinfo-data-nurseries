@@ -1,0 +1,74 @@
+{
+    "name": "Sun-Fire Nurseries",
+    "machine_name": "sun_fire_nurseries",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7091 Myakka Valley Trail",
+        "address_2": null,
+        "city": "Sarasota",
+        "state": "FL",
+        "postal_code": "34241",
+        "geo_coordinate": "POINT (-82.3412834 27.2476648)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sunfirenurseries.com\/Home.aspx",
+            "title": null,
+            "attributes": []
+        },
+        "email": "tjay@sunfirenurseries.com",
+        "phone": "941-924-8676",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672206",
+        "legacy_id": "27808",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Patterson Nursery Sales Inc.",
+    "machine_name": "patterson_nursery_sales_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "14990 Southeast Orient Drive",
+        "address_2": null,
+        "city": "Boring",
+        "state": "OR",
+        "postal_code": "97009",
+        "geo_coordinate": "POINT (-122.305456 45.4146914)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.pattersonnurserysales.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@PattersonNurserySales.com",
+        "phone": "503-668-6000",
+        "fax": "503-668-9000",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672655",
+        "legacy_id": "12968",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

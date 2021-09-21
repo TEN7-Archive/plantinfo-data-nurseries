@@ -1,0 +1,356 @@
+{
+    "name": "Bamboo Texas",
+    "machine_name": "bamboo_texas",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": null,
+        "address_2": null,
+        "city": "Houston",
+        "state": "TX",
+        "postal_code": null,
+        "geo_coordinate": "POINT (-95.3698028 29.7604267)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bambootexas.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "john@bambootexas.com",
+        "phone": "281-772-1875",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bamboo",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216154"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2015",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "bamboo_texas",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1640027",
+                    "machine_name": "bambusa_emeiensis_flavidorivens",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "31780",
+                        "fgsid": null,
+                        "legacy_id": "333756",
+                        "catalog_source_id": "1227509"
+                    }
+                },
+                {
+                    "reference": "1643573",
+                    "machine_name": "dendrocalamus_minor_amoenus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "31790",
+                        "fgsid": null,
+                        "legacy_id": "255755",
+                        "catalog_source_id": "1227514"
+                    }
+                },
+                {
+                    "reference": "1499601",
+                    "machine_name": "bambusa_multiplex_tiny_fern",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36017",
+                        "fgsid": null,
+                        "legacy_id": "71901",
+                        "catalog_source_id": "1227486"
+                    }
+                },
+                {
+                    "reference": "1660678",
+                    "machine_name": "bambusa_multiplex_chinese_goddess",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36019",
+                        "fgsid": null,
+                        "legacy_id": "393133",
+                        "catalog_source_id": "1227487"
+                    }
+                },
+                {
+                    "reference": "1433932",
+                    "machine_name": "bambusa_textilis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36031",
+                        "fgsid": "41572",
+                        "legacy_id": null,
+                        "catalog_source_id": "1227489"
+                    }
+                },
+                {
+                    "reference": "1579402",
+                    "machine_name": "bambusa_textilis_glabra",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36035",
+                        "fgsid": null,
+                        "legacy_id": "202957",
+                        "catalog_source_id": "1227491"
+                    }
+                },
+                {
+                    "reference": "1640035",
+                    "machine_name": "bambusa_textilis_maculata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36048",
+                        "fgsid": null,
+                        "legacy_id": "333764",
+                        "catalog_source_id": "1227493"
+                    }
+                },
+                {
+                    "reference": "1447732",
+                    "machine_name": "bambusa_mutabilis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36049",
+                        "fgsid": "86647",
+                        "legacy_id": null,
+                        "catalog_source_id": "1227495"
+                    }
+                },
+                {
+                    "reference": "1640034",
+                    "machine_name": "bambusa_textilis_kanapaha",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36052",
+                        "fgsid": null,
+                        "legacy_id": "333763",
+                        "catalog_source_id": "1227496"
+                    }
+                },
+                {
+                    "reference": "1457113",
+                    "machine_name": "bambusa_subtruncata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36054",
+                        "fgsid": "142653",
+                        "legacy_id": null,
+                        "catalog_source_id": "1227498"
+                    }
+                },
+                {
+                    "reference": "1447723",
+                    "machine_name": "bambusa_chungii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "36057",
+                        "fgsid": "86638",
+                        "legacy_id": null,
+                        "catalog_source_id": "1227502"
+                    }
+                },
+                {
+                    "reference": "1643574",
+                    "machine_name": "bambusa_textilis_gracilis",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "218213",
+                        "fgsid": null,
+                        "legacy_id": "255756",
+                        "catalog_source_id": "1227494"
+                    }
+                },
+                {
+                    "reference": "1640028",
+                    "machine_name": "bambusa_emeiensis_viridiflavus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "218216",
+                        "fgsid": null,
+                        "legacy_id": "333757",
+                        "catalog_source_id": "1227507"
+                    }
+                },
+                {
+                    "reference": "1433933",
+                    "machine_name": "bambusa_malingensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "235418",
+                        "fgsid": "41573",
+                        "legacy_id": null,
+                        "catalog_source_id": "769961"
+                    }
+                },
+                {
+                    "reference": "1399519",
+                    "machine_name": "bambusa_multiplex",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "235419",
+                        "fgsid": "4019",
+                        "legacy_id": null,
+                        "catalog_source_id": "769962"
+                    }
+                },
+                {
+                    "reference": "1464248",
+                    "machine_name": "bambusa_multiplex_alphonse_karr",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "235420",
+                        "fgsid": null,
+                        "legacy_id": "2016",
+                        "catalog_source_id": "769963"
+                    }
+                },
+                {
+                    "reference": "1464250",
+                    "machine_name": "bambusa_multiplex_golden_goddess",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "235421",
+                        "fgsid": null,
+                        "legacy_id": "2018",
+                        "catalog_source_id": "769964"
+                    }
+                },
+                {
+                    "reference": "1499599",
+                    "machine_name": "bambusa_multiplex_silverstripe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "235422",
+                        "fgsid": null,
+                        "legacy_id": "71899",
+                        "catalog_source_id": "769967"
+                    }
+                },
+                {
+                    "reference": "1557180",
+                    "machine_name": "bambusa_ventricosa_kimmei",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "235423",
+                        "fgsid": null,
+                        "legacy_id": "149902",
+                        "catalog_source_id": "769971"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672663",
+        "legacy_id": "13068",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "N",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

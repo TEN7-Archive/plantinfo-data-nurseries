@@ -1,0 +1,67 @@
+{
+    "name": "Chestnut Hill Tree Farm",
+    "machine_name": "chestnut_hill_tree_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "15105 NW 94th Avenue",
+        "address_2": null,
+        "city": "Alachua",
+        "state": "FL",
+        "postal_code": "32615",
+        "geo_coordinate": "POINT (-82.5028454 29.741535)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.chestnuthilltreefarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "chestnuthillnursery@gmail.com",
+        "phone": "800-669-2067",
+        "fax": "386-462-4330",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673324",
+        "legacy_id": "22570",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

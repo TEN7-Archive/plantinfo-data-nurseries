@@ -1,0 +1,95 @@
+{
+    "name": "Eagle Lake Nurseries Ltd.",
+    "machine_name": "eagle_lake_nurseries_ltd",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "P.O. Box 2340",
+        "address_2": "",
+        "city": "Strathmore",
+        "state": "AB",
+        "postal_code": "T1P 1K3",
+        "geo_coordinate": "POINT (-113.3967949 51.0430967)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.eaglelakenurseries.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "office@eaglelakenurseries.com",
+        "phone": "403-934-3622",
+        "fax": "403-934-3626",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2012 web  emailed 4\/15",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672883",
+        "legacy_id": "257",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

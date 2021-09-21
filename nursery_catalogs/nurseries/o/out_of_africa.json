@@ -1,0 +1,67 @@
+{
+    "name": "Out of Africa",
+    "machine_name": "out_of_africa",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "461 Jung Blvd E.",
+        "address_2": "",
+        "city": "Naples",
+        "state": "FL",
+        "postal_code": "34120",
+        "geo_coordinate": "POINT (-81.597816 26.2615244)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/out-of-africa-plants.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "239-348-0355",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672949",
+        "legacy_id": "9392",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

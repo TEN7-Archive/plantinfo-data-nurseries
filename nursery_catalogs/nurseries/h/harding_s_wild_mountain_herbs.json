@@ -1,0 +1,86 @@
+{
+    "name": "Harding's Wild Mountain Herbs",
+    "machine_name": "harding_s_wild_mountain_herbs",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6259 Friendsville Road, P.O. Box 53",
+        "address_2": "",
+        "city": "Friendsville",
+        "state": "MD",
+        "postal_code": "21531",
+        "geo_coordinate": "POINT (-79.3963688 39.6436037)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hardingsginsengfarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "301-746-4516",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2018",
+    "nursery_catalog_items": [
+        {
+            "name": " Harding's Wild Mountain Herbs 2018",
+            "machine_name": "harding_s_wild_mountain_herbs_2018",
+            "type": "nursery_catalog",
+            "date": "Jul 31 2018",
+            "nursery": "harding_s_wild_mountain_herbs",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1424081",
+                    "machine_name": "panax_quinquefolius",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "233669",
+                        "fgsid": "25606",
+                        "legacy_id": null,
+                        "catalog_source_id": "765723"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672042",
+        "legacy_id": "16889",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

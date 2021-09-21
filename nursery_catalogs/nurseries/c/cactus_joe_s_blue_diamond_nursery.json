@@ -1,0 +1,116 @@
+{
+    "name": "Cactus Joe's Blue Diamond Nursery",
+    "machine_name": "cactus_joe_s_blue_diamond_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "12740 Blue Diamond Road",
+        "address_2": "",
+        "city": "Las Vegas",
+        "state": "NV",
+        "postal_code": "89161",
+        "geo_coordinate": "POINT (-115.3673358 36.0393646)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cactusjoeslasvegas.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "cactusjoe@cactuscactus.com",
+        "phone": "702-875-1968",
+        "fax": "702-875-1913",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Cactus Joe's Blue Diamond Nursery 2019",
+            "machine_name": "cactus_joe_s_blue_diamond_nursery_2019",
+            "type": "nursery_catalog",
+            "date": "Jan 23 2019",
+            "nursery": "cactus_joe_s_blue_diamond_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1466627",
+                    "machine_name": "agave_parryi_truncata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "133603",
+                        "fgsid": null,
+                        "legacy_id": "835",
+                        "catalog_source_id": "1087639"
+                    }
+                },
+                {
+                    "reference": "1438657",
+                    "machine_name": "yucca_brevifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "258914",
+                        "fgsid": "36814",
+                        "legacy_id": null,
+                        "catalog_source_id": "868299"
+                    }
+                },
+                {
+                    "reference": "1412620",
+                    "machine_name": "ferocactus_acanthodes",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "971286",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672639",
+        "legacy_id": "8380",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

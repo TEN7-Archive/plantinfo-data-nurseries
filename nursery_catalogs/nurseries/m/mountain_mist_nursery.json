@@ -1,0 +1,74 @@
+{
+    "name": "Mountain Mist Nursery",
+    "machine_name": "mountain_mist_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "10 Log Gap Road",
+        "address_2": "",
+        "city": "Fairview",
+        "state": "NC",
+        "postal_code": "28730",
+        "geo_coordinate": "POINT (-82.38394 35.545985)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mountainmist-nursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "lmucci@mountainmist-nursery.com",
+        "phone": "828-222-2189",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        },
+        {
+            "machine_name": "rhododendron",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216179"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672874",
+        "legacy_id": "13873",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

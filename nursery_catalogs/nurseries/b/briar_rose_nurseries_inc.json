@@ -1,0 +1,60 @@
+{
+    "name": "Briar Rose Nurseries, Inc",
+    "machine_name": "briar_rose_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3525 Blackmore Road",
+        "address_2": null,
+        "city": "Perry",
+        "state": "OH",
+        "postal_code": "44081",
+        "geo_coordinate": "POINT (-81.1767604 41.7787921)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.briarrosenurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "440-259-4444",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674168",
+        "legacy_id": "32248",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

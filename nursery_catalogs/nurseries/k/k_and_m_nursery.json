@@ -1,0 +1,67 @@
+{
+    "name": "K and M Nursery",
+    "machine_name": "k_and_m_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8300 93rd Lane South",
+        "address_2": null,
+        "city": "Boynton Beach",
+        "state": "FL",
+        "postal_code": "33437",
+        "geo_coordinate": "POINT (-80.1768996 26.5363399)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.kandmnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "kandmnursery@bellsouth.net",
+        "phone": "561-742-2792",
+        "fax": "561-742-0539",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673544",
+        "legacy_id": "24151",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

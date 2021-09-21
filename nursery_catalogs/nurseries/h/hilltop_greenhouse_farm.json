@@ -1,0 +1,60 @@
+{
+    "name": "Hilltop Greenhouse & Farm",
+    "machine_name": "hilltop_greenhouse_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "83204 300th Street",
+        "address_2": null,
+        "city": "Ellendale",
+        "state": "MN",
+        "postal_code": "56026",
+        "geo_coordinate": "POINT (-93.2092083 43.7898063)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hilltopgreenhouse.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@hilltopgreenhouse.com",
+        "phone": "507-889-3271",
+        "fax": "507-889-3272",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673472",
+        "legacy_id": "23728",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

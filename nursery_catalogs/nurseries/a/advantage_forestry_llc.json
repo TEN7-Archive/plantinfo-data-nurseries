@@ -1,0 +1,115 @@
+{
+    "name": "Advantage Forestry, LLC",
+    "machine_name": "advantage_forestry_llc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "408 N. Commissioners Ave.",
+        "address_2": "",
+        "city": "Demopolis",
+        "state": "AL",
+        "postal_code": "36732",
+        "geo_coordinate": "POINT (-87.8397766 32.5203623)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.containerpines.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "334-341-2059",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2020",
+    "nursery_catalog_items": [
+        {
+            "name": "Advantage Forestry, LLC 2020",
+            "machine_name": "advantage_forestry_llc_2020",
+            "type": "nursery_catalog",
+            "date": "Dec 26 2019",
+            "nursery": "advantage_forestry_llc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1425317",
+                    "machine_name": "pinus_palustris",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1126781",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1425622",
+                    "machine_name": "pinus_taeda",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1126786",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673046",
+        "legacy_id": "27148",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2020, 2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

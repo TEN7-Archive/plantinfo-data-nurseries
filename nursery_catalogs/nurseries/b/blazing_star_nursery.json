@@ -1,0 +1,67 @@
+{
+    "name": "Blazing Star Nursery",
+    "machine_name": "blazing_star_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2107 Edgewood Dr.",
+        "address_2": "",
+        "city": "Woodstock",
+        "state": "IL",
+        "postal_code": "60098",
+        "geo_coordinate": "POINT (-88.436758 42.297633)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/blazing-star.com\/m\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "815-338-4716",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672851",
+        "legacy_id": "8928",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

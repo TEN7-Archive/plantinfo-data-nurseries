@@ -1,0 +1,60 @@
+{
+    "name": "Robert's Flower Supply",
+    "machine_name": "robert_s_flower_supply",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "12390 Root Road",
+        "address_2": "",
+        "city": "Columbia Station",
+        "state": "OH",
+        "postal_code": "44028",
+        "geo_coordinate": "POINT (-81.9552665 41.327398)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.orchidmix.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "440-236-5571",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2133486",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1507057560"
+    }
+}

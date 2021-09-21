@@ -1,0 +1,74 @@
+{
+    "name": "Daylily Nursery",
+    "machine_name": "daylily_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "471 Mud Creek Road",
+        "address_2": null,
+        "city": "Rock Island",
+        "state": "TN",
+        "postal_code": "38581",
+        "geo_coordinate": "POINT (-85.661246 35.726641)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.daylilynursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "daylilynsy@blomand.net",
+        "phone": "800-454-5437",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        },
+        {
+            "machine_name": "peonies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216176"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672258",
+        "legacy_id": "16530",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

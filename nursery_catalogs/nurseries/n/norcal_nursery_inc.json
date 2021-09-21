@@ -1,0 +1,60 @@
+{
+    "name": "Norcal Nursery, Inc",
+    "machine_name": "norcal_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "11810 Highway 99 E.",
+        "address_2": null,
+        "city": "Red Bluff",
+        "state": "CA",
+        "postal_code": "96080",
+        "geo_coordinate": "POINT (-122.1279316 40.1370619)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/norcalnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "530-527-6200",
+        "fax": "530-527-2921",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673783",
+        "legacy_id": "26269",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

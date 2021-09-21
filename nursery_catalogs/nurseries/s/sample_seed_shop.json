@@ -1,0 +1,60 @@
+{
+    "name": "Sample Seed Shop",
+    "machine_name": "sample_seed_shop",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "978 Riverview Blvd",
+        "address_2": null,
+        "city": "Tonawanda",
+        "state": "NY",
+        "postal_code": "14150",
+        "geo_coordinate": "POINT (-78.899695 42.979466)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sampleseeds.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "716-871-1137",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674201",
+        "legacy_id": "32348",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

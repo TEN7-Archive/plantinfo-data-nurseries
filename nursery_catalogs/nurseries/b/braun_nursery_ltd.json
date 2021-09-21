@@ -1,0 +1,228 @@
+{
+    "name": "Braun Nursery Ltd",
+    "machine_name": "braun_nursery_ltd",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "2004 Glancaster Road",
+        "address_2": "",
+        "city": "Mount Hope",
+        "state": "ON",
+        "postal_code": "L0R 1W0",
+        "geo_coordinate": "POINT (-79.9530654 43.1525866)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.braungroup.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-246-6984",
+        "fax": "905-648-8441",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Braun Nursery Ltd 2019",
+            "machine_name": "braun_nursery_ltd_2019",
+            "type": "nursery_catalog",
+            "date": "Mar 29 2019",
+            "nursery": "braun_nursery_ltd",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1466816",
+                    "machine_name": "acer_platanoides_crimson_king",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "120705",
+                        "fgsid": null,
+                        "legacy_id": "380",
+                        "catalog_source_id": "1237153"
+                    }
+                },
+                {
+                    "reference": "1466815",
+                    "machine_name": "acer_platanoides_columnare",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "120707",
+                        "fgsid": null,
+                        "legacy_id": "379",
+                        "catalog_source_id": "1237155"
+                    }
+                },
+                {
+                    "reference": "1466824",
+                    "machine_name": "acer_platanoides_emerald_queen",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "120710",
+                        "fgsid": null,
+                        "legacy_id": "388",
+                        "catalog_source_id": "1237157"
+                    }
+                },
+                {
+                    "reference": "1485052",
+                    "machine_name": "malus_c_cultivars_dolgo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "123770",
+                        "fgsid": null,
+                        "legacy_id": "19135",
+                        "catalog_source_id": "1237227"
+                    }
+                },
+                {
+                    "reference": "1485053",
+                    "machine_name": "malus_c_cultivars_donald_wyman",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "123771",
+                        "fgsid": null,
+                        "legacy_id": "19136",
+                        "catalog_source_id": "1237228"
+                    }
+                },
+                {
+                    "reference": "1401493",
+                    "machine_name": "betula_nigra",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "169160",
+                        "fgsid": "4529",
+                        "legacy_id": null,
+                        "catalog_source_id": "1237187"
+                    }
+                },
+                {
+                    "reference": "1401495",
+                    "machine_name": "betula_papyrifera",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "169163",
+                        "fgsid": "4531",
+                        "legacy_id": null,
+                        "catalog_source_id": "1237190"
+                    }
+                },
+                {
+                    "reference": "1466822",
+                    "machine_name": "acer_platanoides_drummondii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1017516",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1466823",
+                    "machine_name": "acer_platanoides_emerald_lustre",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1017521",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1464674",
+                    "machine_name": "betula_pendula_youngii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1017526",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672586",
+        "legacy_id": "112",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2020, 2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

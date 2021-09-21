@@ -1,0 +1,60 @@
+{
+    "name": "Boyd Nurseries, Inc.",
+    "machine_name": "boyd_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1535 B Road",
+        "address_2": null,
+        "city": "Loxahatchee",
+        "state": "FL",
+        "postal_code": "33470",
+        "geo_coordinate": "POINT (-80.292175 26.700437)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.boydnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@boydnursery.com",
+        "phone": "561-795-7773",
+        "fax": "561-795-7785",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673323",
+        "legacy_id": "22569",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

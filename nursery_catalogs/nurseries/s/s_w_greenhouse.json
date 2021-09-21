@@ -1,0 +1,74 @@
+{
+    "name": "S & W Greenhouse",
+    "machine_name": "s_w_greenhouse",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 30",
+        "address_2": null,
+        "city": "White House",
+        "state": "TN",
+        "postal_code": "37188",
+        "geo_coordinate": "POINT (-86.6513845 36.4703232)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sw-greenhouse.com\/index.html",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@sw-greenhouse.com",
+        "phone": null,
+        "fax": "615-672-1788",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673050",
+        "legacy_id": "9610",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

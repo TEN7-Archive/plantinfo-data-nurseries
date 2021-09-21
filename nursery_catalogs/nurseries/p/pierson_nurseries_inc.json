@@ -1,0 +1,81 @@
+{
+    "name": "Pierson Nurseries. Inc",
+    "machine_name": "pierson_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "24 Buzzell Road",
+        "address_2": "",
+        "city": "Biddeford",
+        "state": "ME",
+        "postal_code": "04005",
+        "geo_coordinate": "POINT (-70.5336074 43.5113743)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.piersonnurseries.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@piersonnurseries.com",
+        "phone": "207-499-2994",
+        "fax": "207-499-2912",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only pierson",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672660",
+        "legacy_id": "13031",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

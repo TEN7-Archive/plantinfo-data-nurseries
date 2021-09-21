@@ -1,0 +1,67 @@
+{
+    "name": "Great Northern Garlic",
+    "machine_name": "great_northern_garlic",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 1165",
+        "address_2": "",
+        "city": "Oroville",
+        "state": "WA",
+        "postal_code": "98844",
+        "geo_coordinate": "POINT (-119.4356211 48.9390509)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.greatnortherngarlic.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "509-560-2001",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674123",
+        "legacy_id": "32309",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

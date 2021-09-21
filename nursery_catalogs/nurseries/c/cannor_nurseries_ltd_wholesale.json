@@ -1,0 +1,67 @@
+{
+    "name": "Cannor Nurseries Ltd., Wholesale",
+    "machine_name": "cannor_nurseries_ltd_wholesale",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "48291 Chilliwack Central Road",
+        "address_2": "",
+        "city": "Chilliwack",
+        "state": "BC",
+        "postal_code": "V2P 6H3",
+        "geo_coordinate": "POINT (-121.885741 49.165271)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cannor.ca\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-665-2441",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673346",
+        "legacy_id": "22908",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

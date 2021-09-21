@@ -1,0 +1,81 @@
+{
+    "name": "Hoffie Nursery",
+    "machine_name": "hoffie_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 426, 17102 Marengo Road",
+        "address_2": "",
+        "city": "Union",
+        "state": "IL",
+        "postal_code": "60180",
+        "geo_coordinate": "POINT (-88.5305687 42.2002343)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hoffienursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "815-923-2518",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "consider for SL",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673550",
+        "legacy_id": "29208",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

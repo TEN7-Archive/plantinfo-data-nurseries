@@ -1,0 +1,60 @@
+{
+    "name": "Hillcrest Nursery",
+    "machine_name": "hillcrest_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "21029 Gun Powder Road",
+        "address_2": null,
+        "city": "Millers",
+        "state": "MD",
+        "postal_code": "21102",
+        "geo_coordinate": "POINT (-76.8374995 39.6900582)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hillcrestnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674060",
+        "legacy_id": "30210",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

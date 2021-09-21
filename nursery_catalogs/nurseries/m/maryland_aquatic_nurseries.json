@@ -1,0 +1,60 @@
+{
+    "name": "Maryland Aquatic Nurseries",
+    "machine_name": "maryland_aquatic_nurseries",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3427 North Furnace Road",
+        "address_2": null,
+        "city": "Jarrettsville",
+        "state": "MD",
+        "postal_code": "21084",
+        "geo_coordinate": "POINT (-76.493104 39.592137)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/marylandaquatic.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "877-736-1807",
+        "fax": "410-692-2837",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "water_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216188"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673392",
+        "legacy_id": "23391",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Ion Exchange Inc",
+    "machine_name": "ion_exchange_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1878 Old Mission Drive",
+        "address_2": "",
+        "city": "Harpers Ferry",
+        "state": "IA",
+        "postal_code": "52146-7533",
+        "geo_coordinate": "POINT (-91.2517956 43.1188115)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.ionxchange.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "563-535-7231",
+        "fax": "563-535-7362",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671738",
+        "legacy_id": "455",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

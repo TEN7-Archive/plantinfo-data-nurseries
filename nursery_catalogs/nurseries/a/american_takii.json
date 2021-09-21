@@ -1,0 +1,60 @@
+{
+    "name": "American Takii",
+    "machine_name": "american_takii",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "301 Natividad Road",
+        "address_2": null,
+        "city": "Salinas",
+        "state": "CA",
+        "postal_code": "93906",
+        "geo_coordinate": "POINT (-121.6143124 36.730621)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.takii.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "831-443-4901",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674094",
+        "legacy_id": "31408",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

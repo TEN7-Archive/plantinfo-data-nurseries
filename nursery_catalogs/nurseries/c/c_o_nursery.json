@@ -1,0 +1,611 @@
+{
+    "name": "C & O Nursery",
+    "machine_name": "c_o_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 116",
+        "address_2": "",
+        "city": "Wenatchee",
+        "state": "WA",
+        "postal_code": "98807-0116",
+        "geo_coordinate": "POINT (-120.31 47.42)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.c-onursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "tree@c-onursery.com",
+        "phone": "800-232-2636",
+        "fax": "509-662-4519",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "C & O Nursery 2019",
+            "machine_name": "c_o_nursery_2019",
+            "type": "nursery_catalog",
+            "date": "Apr 4 2019",
+            "nursery": "c_o_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1520066",
+                    "machine_name": "prunus_c_cultivars_rainier",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "142572",
+                        "fgsid": null,
+                        "legacy_id": "96916",
+                        "catalog_source_id": "1296137"
+                    }
+                },
+                {
+                    "reference": "1520059",
+                    "machine_name": "prunus_c_cultivars_lapins",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "145211",
+                        "fgsid": null,
+                        "legacy_id": "96907",
+                        "catalog_source_id": "1296145"
+                    }
+                },
+                {
+                    "reference": "1540703",
+                    "machine_name": "prunus_c_cultivars_regina",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "145216",
+                        "fgsid": null,
+                        "legacy_id": "114389",
+                        "catalog_source_id": "1296162"
+                    }
+                },
+                {
+                    "reference": "1489268",
+                    "machine_name": "prunus_c_cultivars_sweetheart",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "145581",
+                        "fgsid": null,
+                        "legacy_id": "25046",
+                        "catalog_source_id": "1296166"
+                    }
+                },
+                {
+                    "reference": "1485055",
+                    "machine_name": "malus_c_cultivars_evereste",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174248",
+                        "fgsid": null,
+                        "legacy_id": "19138",
+                        "catalog_source_id": "1295837"
+                    }
+                },
+                {
+                    "reference": "1490803",
+                    "machine_name": "pyrus_cultivars_williams_bon_chretien",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174256",
+                        "fgsid": null,
+                        "legacy_id": "25473",
+                        "catalog_source_id": "1295845"
+                    }
+                },
+                {
+                    "reference": "1527059",
+                    "machine_name": "pyrus_cultivars_beurre_d_anjou",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174259",
+                        "fgsid": null,
+                        "legacy_id": "97511",
+                        "catalog_source_id": "1295846"
+                    }
+                },
+                {
+                    "reference": "1527090",
+                    "machine_name": "pyrus_cultivars_golden_russett_bosc",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174261",
+                        "fgsid": null,
+                        "legacy_id": "97542",
+                        "catalog_source_id": "1295848"
+                    }
+                },
+                {
+                    "reference": "1490507",
+                    "machine_name": "pyrus_cultivars_bronze_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174262",
+                        "fgsid": null,
+                        "legacy_id": "25401",
+                        "catalog_source_id": "1295849"
+                    }
+                },
+                {
+                    "reference": "1552616",
+                    "machine_name": "prunus_c_cultivars_chelan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174266",
+                        "fgsid": null,
+                        "legacy_id": "139783",
+                        "catalog_source_id": "1295852"
+                    }
+                },
+                {
+                    "reference": "1615946",
+                    "machine_name": "prunus_c_cultivars_santina",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174272",
+                        "fgsid": null,
+                        "legacy_id": "233876",
+                        "catalog_source_id": "1295855"
+                    }
+                },
+                {
+                    "reference": "1520069",
+                    "machine_name": "prunus_c_cultivars_sam",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174273",
+                        "fgsid": null,
+                        "legacy_id": "96919",
+                        "catalog_source_id": "1295856"
+                    }
+                },
+                {
+                    "reference": "1488998",
+                    "machine_name": "prunus_c_cultivars_bing",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174278",
+                        "fgsid": null,
+                        "legacy_id": "24998",
+                        "catalog_source_id": "1295860"
+                    }
+                },
+                {
+                    "reference": "1586698",
+                    "machine_name": "prunus_c_cultivars_benton",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174279",
+                        "fgsid": null,
+                        "legacy_id": "222176",
+                        "catalog_source_id": "1295861"
+                    }
+                },
+                {
+                    "reference": "1520075",
+                    "machine_name": "prunus_c_cultivars_ulster",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174280",
+                        "fgsid": null,
+                        "legacy_id": "96925",
+                        "catalog_source_id": "1295862"
+                    }
+                },
+                {
+                    "reference": "1520066",
+                    "machine_name": "prunus_c_cultivars_rainier",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174281",
+                        "fgsid": null,
+                        "legacy_id": "96916",
+                        "catalog_source_id": "1295863"
+                    }
+                },
+                {
+                    "reference": "1489008",
+                    "machine_name": "prunus_c_cultivars_emperor_francis",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174282",
+                        "fgsid": null,
+                        "legacy_id": "25008",
+                        "catalog_source_id": "1295864"
+                    }
+                },
+                {
+                    "reference": "1520059",
+                    "machine_name": "prunus_c_cultivars_lapins",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174283",
+                        "fgsid": null,
+                        "legacy_id": "96907",
+                        "catalog_source_id": "1295866"
+                    }
+                },
+                {
+                    "reference": "1555039",
+                    "machine_name": "prunus_c_cultivars_skeena",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174733",
+                        "fgsid": null,
+                        "legacy_id": "135582",
+                        "catalog_source_id": "1295868"
+                    }
+                },
+                {
+                    "reference": "1484129",
+                    "machine_name": "malus_a_cultivars_pacific_gala",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175722",
+                        "fgsid": null,
+                        "legacy_id": "18898",
+                        "catalog_source_id": "1295772"
+                    }
+                },
+                {
+                    "reference": "1478786",
+                    "machine_name": "malus_a_cultivars_buckeye_gala",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175724",
+                        "fgsid": null,
+                        "legacy_id": "18591",
+                        "catalog_source_id": "1295774"
+                    }
+                },
+                {
+                    "reference": "1632219",
+                    "machine_name": "malus_a_cultivars_rubymac",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175725",
+                        "fgsid": null,
+                        "legacy_id": "305337",
+                        "catalog_source_id": "1295775"
+                    }
+                },
+                {
+                    "reference": "1484141",
+                    "machine_name": "malus_a_cultivars_pink_lady",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175758",
+                        "fgsid": null,
+                        "legacy_id": "18910",
+                        "catalog_source_id": "1295808"
+                    }
+                },
+                {
+                    "reference": "1550066",
+                    "machine_name": "malus_a_cultivars_september_wonder_jubilee_fuji",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175760",
+                        "fgsid": null,
+                        "legacy_id": "124057",
+                        "catalog_source_id": "1295810"
+                    }
+                },
+                {
+                    "reference": "1478469",
+                    "machine_name": "malus_a_cultivars_granny_smith",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175773",
+                        "fgsid": null,
+                        "legacy_id": "18730",
+                        "catalog_source_id": "1295824"
+                    }
+                },
+                {
+                    "reference": "1633001",
+                    "machine_name": "malus_a_cultivars_aztec_fuji",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "175774",
+                        "fgsid": null,
+                        "legacy_id": "291557",
+                        "catalog_source_id": "1295825"
+                    }
+                },
+                {
+                    "reference": "1648132",
+                    "machine_name": "malus_a_cultivars_evercrisp",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020501",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1669056",
+                    "machine_name": "malus_a_cultivars_royal_red_honeycrisp",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020506",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2207451",
+                    "machine_name": "malus_a_cultivars_cosmic_crisp",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020511",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1478493",
+                    "machine_name": "malus_a_cultivars_honeycrisp",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020516",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1550066",
+                    "machine_name": "malus_a_cultivars_september_wonder_jubilee_fuji",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020521",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1484100",
+                    "machine_name": "malus_a_cultivars_newton_pippin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020526",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2304496",
+                    "machine_name": "prunus_c_cultivars_black_pearl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020531",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2207636",
+                    "machine_name": "prunus_c_cultivars_coral_champagne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020536",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1579933",
+                    "machine_name": "prunus_c_cultivars_early_robin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020541",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1520042",
+                    "machine_name": "prunus_c_cultivars_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1020546",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672673",
+        "legacy_id": "145",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

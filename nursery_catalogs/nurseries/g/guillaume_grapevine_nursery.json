@@ -1,0 +1,60 @@
+{
+    "name": "Guillaume Grapevine Nursery",
+    "machine_name": "guillaume_grapevine_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "21208 State Route 113",
+        "address_2": null,
+        "city": "Knights Landing",
+        "state": "CA",
+        "postal_code": "95645",
+        "geo_coordinate": "POINT (-121.7143704 38.8207982)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.guillaumenurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@guillaumenurseries.com",
+        "phone": "530-735-6821",
+        "fax": "530-735-6822",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673519",
+        "legacy_id": "26609",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

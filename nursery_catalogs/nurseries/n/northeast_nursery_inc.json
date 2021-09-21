@@ -1,0 +1,67 @@
+{
+    "name": "Northeast Nursery, Inc.",
+    "machine_name": "northeast_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "234 Newbury Street",
+        "address_2": "",
+        "city": "Peabody",
+        "state": "MA",
+        "postal_code": "01960",
+        "geo_coordinate": "POINT (-70.983779 42.549444)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.northeastnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "wholesale@northeastnursery.com",
+        "phone": "978-535-6550",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672656",
+        "legacy_id": "12970",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

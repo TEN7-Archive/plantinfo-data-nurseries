@@ -1,0 +1,67 @@
+{
+    "name": "Dragon Agro Products",
+    "machine_name": "dragon_agro_products",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 33",
+        "address_2": null,
+        "city": "Kendall Park",
+        "state": "NJ",
+        "postal_code": "08824-0033",
+        "geo_coordinate": "POINT (-74.560711 40.4209391)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.dragonagro.com\/index.htm",
+            "title": null,
+            "attributes": []
+        },
+        "email": "dragon@dragonagro.com",
+        "phone": "908-208-4767",
+        "fax": "732-297-6276",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "carnivorous",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216192"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672358",
+        "legacy_id": "17068",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

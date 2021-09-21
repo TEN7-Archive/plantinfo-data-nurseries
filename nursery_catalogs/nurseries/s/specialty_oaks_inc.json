@@ -1,0 +1,146 @@
+{
+    "name": "Specialty Oaks, Inc.",
+    "machine_name": "specialty_oaks_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "12552 Hwy 29",
+        "address_2": "",
+        "city": "Lower Lake",
+        "state": "CA",
+        "postal_code": "95457",
+        "geo_coordinate": "POINT (-122.617155 38.873103)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.specialtyoaks.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@specialtyoaks.com",
+        "phone": "707-995-2275",
+        "fax": "707-995-3566",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Specialty Oaks, Inc. 2019",
+            "machine_name": "specialty_oaks_inc_2019",
+            "type": "nursery_catalog",
+            "date": "Jul 26 2019",
+            "nursery": "specialty_oaks_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1427265",
+                    "machine_name": "quercus_agrifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "105045",
+                        "fgsid": "29287",
+                        "legacy_id": null,
+                        "catalog_source_id": "348133"
+                    }
+                },
+                {
+                    "reference": "1421714",
+                    "machine_name": "quercus_kelloggii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "105046",
+                        "fgsid": "29339",
+                        "legacy_id": null,
+                        "catalog_source_id": "348134"
+                    }
+                },
+                {
+                    "reference": "1421722",
+                    "machine_name": "quercus_lobata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "105047",
+                        "fgsid": "29347",
+                        "legacy_id": null,
+                        "catalog_source_id": "348135"
+                    }
+                },
+                {
+                    "reference": "1422060",
+                    "machine_name": "quercus_wislizenii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "105048",
+                        "fgsid": "29408",
+                        "legacy_id": null,
+                        "catalog_source_id": "348136"
+                    }
+                },
+                {
+                    "reference": "1421684",
+                    "machine_name": "quercus_douglasii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "105049",
+                        "fgsid": "29309",
+                        "legacy_id": null,
+                        "catalog_source_id": "348137"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1671980",
+        "legacy_id": "3688",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

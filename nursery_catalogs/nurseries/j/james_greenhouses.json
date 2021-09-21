@@ -1,0 +1,74 @@
+{
+    "name": "James Greenhouses",
+    "machine_name": "james_greenhouses",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1699 Crawford Smithonia Rd",
+        "address_2": null,
+        "city": "Colbert,",
+        "state": "GA",
+        "postal_code": "30628-1725",
+        "geo_coordinate": "POINT (-83.1669628 33.9594306)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.jamesgreenhouses.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@jamesgreenhouses.com",
+        "phone": "706-742-7802",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673622",
+        "legacy_id": "24808",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

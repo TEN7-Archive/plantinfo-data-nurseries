@@ -1,0 +1,198 @@
+{
+    "name": "Red Fern Farm",
+    "machine_name": "red_fern_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "13882 I Avenue",
+        "address_2": "",
+        "city": "Wapello",
+        "state": "IA",
+        "postal_code": "52653",
+        "geo_coordinate": "POINT (-91.1694907 41.2607897)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.redfernfarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "319-729-5905",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Red Fern Farm 2019",
+            "machine_name": "red_fern_farm_2019",
+            "type": "nursery_catalog",
+            "date": "May 17 2019",
+            "nursery": "red_fern_farm",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1661477",
+                    "machine_name": "castanea_mollissima_gideon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "237821",
+                        "fgsid": null,
+                        "legacy_id": "393272",
+                        "catalog_source_id": "1229343"
+                    }
+                },
+                {
+                    "reference": "1662705",
+                    "machine_name": "castanea_mollissima_luvall_s_monster",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "237823",
+                        "fgsid": null,
+                        "legacy_id": "393270",
+                        "catalog_source_id": "1229344"
+                    }
+                },
+                {
+                    "reference": "1409202",
+                    "machine_name": "diospyros_virginiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "255073",
+                        "fgsid": "11194",
+                        "legacy_id": null,
+                        "catalog_source_id": "1229325"
+                    }
+                },
+                {
+                    "reference": "1502593",
+                    "machine_name": "castanea_mollissima_mossbarger",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "255080",
+                        "fgsid": null,
+                        "legacy_id": "73935",
+                        "catalog_source_id": "1229333"
+                    }
+                },
+                {
+                    "reference": "1605284",
+                    "machine_name": "castanea_mollissima_qing",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "255081",
+                        "fgsid": null,
+                        "legacy_id": "282201",
+                        "catalog_source_id": "1229334"
+                    }
+                },
+                {
+                    "reference": "1418745",
+                    "machine_name": "juglans_ailanthifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1044571",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1418754",
+                    "machine_name": "juglans_nigra",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1044576",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1403020",
+                    "machine_name": "asimina_triloba",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1044581",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673613",
+        "legacy_id": "24608",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

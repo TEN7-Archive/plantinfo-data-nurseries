@@ -1,0 +1,60 @@
+{
+    "name": "Florida Aquatic Nurseries Inc.",
+    "machine_name": "florida_aquatic_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2400 SW 154th Avenue",
+        "address_2": null,
+        "city": "Davie",
+        "state": "FL",
+        "postal_code": "33326",
+        "geo_coordinate": "POINT (-80.352326 26.089742)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.floridaaquatic.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@floridaaquatic.com",
+        "phone": "954-472-5120",
+        "fax": "954-472-5446",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "water_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216188"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671838",
+        "legacy_id": "15988",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,386 @@
+{
+    "name": "Northeastern Vine Supply",
+    "machine_name": "northeastern_vine_supply",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1428 River Rd",
+        "address_2": "",
+        "city": "West Pawlet",
+        "state": "VT",
+        "postal_code": "05775",
+        "geo_coordinate": "POINT (-73.226479 43.3730509)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.nevinesupply.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "802-287-9311",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2018 ",
+    "nursery_catalog_items": [
+        {
+            "name": "2018 Catalog",
+            "machine_name": "2018_catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 11 2016",
+            "nursery": "northeastern_vine_supply",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1645374",
+                    "machine_name": "vitis_cultivars_marquette",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "206624",
+                        "fgsid": null,
+                        "legacy_id": "256552",
+                        "catalog_source_id": "984703"
+                    }
+                },
+                {
+                    "reference": "1548873",
+                    "machine_name": "vitis_cultivars_marechal_foch",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "206626",
+                        "fgsid": null,
+                        "legacy_id": "123739",
+                        "catalog_source_id": "984704"
+                    }
+                },
+                {
+                    "reference": "1629883",
+                    "machine_name": "vitis_cultivars_frontenac_gris",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "206629",
+                        "fgsid": null,
+                        "legacy_id": "243773",
+                        "catalog_source_id": "984706"
+                    }
+                },
+                {
+                    "reference": "1629881",
+                    "machine_name": "vitis_cultivars_la_crescent",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "206631",
+                        "fgsid": null,
+                        "legacy_id": "243771",
+                        "catalog_source_id": "984707"
+                    }
+                },
+                {
+                    "reference": "1599595",
+                    "machine_name": "vitis_cultivars_brianna",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "206634",
+                        "fgsid": null,
+                        "legacy_id": "230430",
+                        "catalog_source_id": "984709"
+                    }
+                },
+                {
+                    "reference": "1531700",
+                    "machine_name": "vitis_cultivars_bluebell",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "206637",
+                        "fgsid": null,
+                        "legacy_id": "104525",
+                        "catalog_source_id": "984711"
+                    }
+                },
+                {
+                    "reference": "1620427",
+                    "machine_name": "vitis_cultivars_petite_pearl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "206639",
+                        "fgsid": null,
+                        "legacy_id": "351936",
+                        "catalog_source_id": "984712"
+                    }
+                },
+                {
+                    "reference": "1500049",
+                    "machine_name": "vitis_cultivars_frontenac",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "229790",
+                        "fgsid": null,
+                        "legacy_id": "34141",
+                        "catalog_source_id": "748596"
+                    }
+                },
+                {
+                    "reference": "1527519",
+                    "machine_name": "vitis_cultivars_st_croix",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "229791",
+                        "fgsid": null,
+                        "legacy_id": "104597",
+                        "catalog_source_id": "748597"
+                    }
+                },
+                {
+                    "reference": "1629884",
+                    "machine_name": "vitis_cultivars_sabrevois",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "229792",
+                        "fgsid": null,
+                        "legacy_id": "243774",
+                        "catalog_source_id": "748599"
+                    }
+                },
+                {
+                    "reference": "1527520",
+                    "machine_name": "vitis_cultivars_st_pepin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "229793",
+                        "fgsid": null,
+                        "legacy_id": "104598",
+                        "catalog_source_id": "748603"
+                    }
+                },
+                {
+                    "reference": "1616268",
+                    "machine_name": "vitis_cultivars_la_crosse",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "229794",
+                        "fgsid": null,
+                        "legacy_id": "234231",
+                        "catalog_source_id": "748605"
+                    }
+                },
+                {
+                    "reference": "1500044",
+                    "machine_name": "vitis_cultivars_edelweiss",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "229795",
+                        "fgsid": null,
+                        "legacy_id": "34135",
+                        "catalog_source_id": "748607"
+                    }
+                },
+                {
+                    "reference": "1625259",
+                    "machine_name": "vitis_cultivars_frontenac_blanc",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "246206",
+                        "fgsid": null,
+                        "legacy_id": "370196",
+                        "catalog_source_id": "1240223"
+                    }
+                },
+                {
+                    "reference": "1566518",
+                    "machine_name": "vitis_cultivars_prairie_star",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "246208",
+                        "fgsid": null,
+                        "legacy_id": "174322",
+                        "catalog_source_id": "1240224"
+                    }
+                },
+                {
+                    "reference": "1645370",
+                    "machine_name": "vitis_cultivars_swenson_white",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "246209",
+                        "fgsid": null,
+                        "legacy_id": "256544",
+                        "catalog_source_id": "1240225"
+                    }
+                },
+                {
+                    "reference": "1613190",
+                    "machine_name": "vitis_cultivars_somerset_seedless",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "271041",
+                        "fgsid": null,
+                        "legacy_id": "242636",
+                        "catalog_source_id": "1240243"
+                    }
+                },
+                {
+                    "reference": "2132051",
+                    "machine_name": "vitis_cultivars_crimson_pearl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "742601",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2132056",
+                    "machine_name": "vitis_cultivars_itasca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "742606",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1643605",
+                    "machine_name": "vitis_cultivars_louise_swenson",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "742611",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2133281",
+                    "machine_name": "vitis_cultivars_adalmiina",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "742616",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673173",
+        "legacy_id": "15010",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Ekstrom & Schmidt Nursery",
+    "machine_name": "ekstrom_schmidt_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3199 SE 302nd Ave.",
+        "address_2": "",
+        "city": "Troutdale",
+        "state": "OR",
+        "postal_code": "97060",
+        "geo_coordinate": "POINT (-122.3528405 45.4989894)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.ekstrom-schmidt.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2369796",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1535558251"
+    }
+}

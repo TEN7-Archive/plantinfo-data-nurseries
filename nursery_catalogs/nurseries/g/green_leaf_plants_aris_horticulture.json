@@ -1,0 +1,84 @@
+{
+    "name": "Green Leaf Plants\/Aris Horticulture",
+    "machine_name": "green_leaf_plants_aris_horticulture",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2369 Old Philadelphia Pike",
+        "address_2": "",
+        "city": "Lancaster",
+        "state": "PA",
+        "postal_code": "17602",
+        "geo_coordinate": "POINT (-76.212022 40.04118)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.GLplants.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-321-9573",
+        "fax": "717-299-7162",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [
+        {
+            "name": "Green Leaf Plants\/Aris Horticulture 2019",
+            "machine_name": "green_leaf_plants_aris_horticulture_2019",
+            "type": "nursery_catalog",
+            "date": "Oct 3 2018",
+            "nursery": "green_leaf_plants_aris_horticulture",
+            "active": true,
+            "plants": []
+        }
+    ],
+    "archival_data": {
+        "id": "1672813",
+        "legacy_id": "1017",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2021, 2020, 2019\/20, 2018\/19, 2017\/18, 2017, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

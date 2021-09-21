@@ -1,0 +1,67 @@
+{
+    "name": "North American Plants, LLC",
+    "machine_name": "north_american_plants_llc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 743",
+        "address_2": "",
+        "city": "Lafayette",
+        "state": "OR",
+        "postal_code": "97127",
+        "geo_coordinate": "POINT (-123.1097459 45.2484623)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.naplants.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "orders@naplants.com",
+        "phone": "877-627-4636",
+        "fax": "503-474-0872",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673345",
+        "legacy_id": "22888",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

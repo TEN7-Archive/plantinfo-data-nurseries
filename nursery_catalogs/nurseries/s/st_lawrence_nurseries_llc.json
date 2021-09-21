@@ -1,0 +1,60 @@
+{
+    "name": "St. Lawrence Nurseries LLC",
+    "machine_name": "st_lawrence_nurseries_llc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 957",
+        "address_2": "",
+        "city": "Potsdam",
+        "state": "NY",
+        "postal_code": "13676",
+        "geo_coordinate": "POINT (-74.9813084 44.6697805)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.stlawrencenurseries.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "315-261-1925",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674325",
+        "legacy_id": "33868",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

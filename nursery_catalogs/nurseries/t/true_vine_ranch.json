@@ -1,0 +1,261 @@
+{
+    "name": "True Vine Ranch",
+    "machine_name": "true_vine_ranch",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "15014 Kreider Road",
+        "address_2": "",
+        "city": "Bonner Springs",
+        "state": "KS",
+        "postal_code": "66012",
+        "geo_coordinate": "POINT (-94.92833 39.025331)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.truevineranch.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "913-441-0005",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "true_vine_ranch",
+            "active": false,
+            "plants": [
+                {
+                    "reference": "1599524",
+                    "machine_name": "vaccinium_cultivars_liberty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "12096",
+                        "fgsid": null,
+                        "legacy_id": "227696",
+                        "catalog_source_id": "1067965"
+                    }
+                },
+                {
+                    "reference": "1529476",
+                    "machine_name": "vaccinium_cultivars_duke",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "17196",
+                        "fgsid": null,
+                        "legacy_id": "103987",
+                        "catalog_source_id": "1067963"
+                    }
+                },
+                {
+                    "reference": "1498054",
+                    "machine_name": "vaccinium_cultivars_bluecrop",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "17197",
+                        "fgsid": null,
+                        "legacy_id": "33580",
+                        "catalog_source_id": "1067964"
+                    }
+                },
+                {
+                    "reference": "1498061",
+                    "machine_name": "vaccinium_cultivars_elliott",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "97956",
+                        "fgsid": null,
+                        "legacy_id": "33587",
+                        "catalog_source_id": "1179243"
+                    }
+                },
+                {
+                    "reference": "1555826",
+                    "machine_name": "vaccinium_cultivars_reka",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "97957",
+                        "fgsid": null,
+                        "legacy_id": "155602",
+                        "catalog_source_id": "1179244"
+                    }
+                },
+                {
+                    "reference": "1537988",
+                    "machine_name": "vaccinium_cultivars_legacy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "111507",
+                        "fgsid": null,
+                        "legacy_id": "113660",
+                        "catalog_source_id": "1179245"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "True Vine Ranch 2017",
+            "machine_name": "true_vine_ranch_2017",
+            "type": "nursery_catalog",
+            "date": "Mar 10 2017",
+            "nursery": "true_vine_ranch",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1599524",
+                    "machine_name": "vaccinium_cultivars_liberty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "432211",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1529476",
+                    "machine_name": "vaccinium_cultivars_duke",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "432216",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1498054",
+                    "machine_name": "vaccinium_cultivars_bluecrop",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "432221",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1498061",
+                    "machine_name": "vaccinium_cultivars_elliott",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "432226",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1555826",
+                    "machine_name": "vaccinium_cultivars_reka",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "432231",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1537988",
+                    "machine_name": "vaccinium_cultivars_legacy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "432236",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673569",
+        "legacy_id": "27129",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

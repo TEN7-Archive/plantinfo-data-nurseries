@@ -1,0 +1,81 @@
+{
+    "name": "Poplar Farms Inc.",
+    "machine_name": "poplar_farms_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "11475 State Rt. 23",
+        "address_2": null,
+        "city": "Waterman",
+        "state": "IL",
+        "postal_code": "60556",
+        "geo_coordinate": "POINT (-88.754754 41.798224)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.poplarfarms.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "poplarfarms@aol.com",
+        "phone": "815-264-8877",
+        "fax": "815-264-8866",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2015",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672180",
+        "legacy_id": "716",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "R",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

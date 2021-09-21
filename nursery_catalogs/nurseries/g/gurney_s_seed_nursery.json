@@ -1,0 +1,81 @@
+{
+    "name": "Gurney's Seed & Nursery",
+    "machine_name": "gurney_s_seed_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 4178",
+        "address_2": "",
+        "city": "Greendale",
+        "state": "IN",
+        "postal_code": "47025",
+        "geo_coordinate": "POINT (-84.8641178 39.1125572)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.gurneys.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "513-354-1492",
+        "fax": "513-354-1493",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672326",
+        "legacy_id": "11648",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2021, 2019, 2018, ",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

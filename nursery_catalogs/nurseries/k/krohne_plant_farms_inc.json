@@ -1,0 +1,333 @@
+{
+    "name": "Krohne Plant Farms, Inc.",
+    "machine_name": "krohne_plant_farms_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "65295 CR342",
+        "address_2": "",
+        "city": "Hartford",
+        "state": "MI",
+        "postal_code": "49057",
+        "geo_coordinate": "POINT (-86.1791571 42.0830139)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.krohneplantfarms.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@krohneplantfarms.com",
+        "phone": "269-424-5423",
+        "fax": "269-424-3126",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Krohne Plant Farms, Inc. 2019",
+            "machine_name": "krohne_plant_farms_inc_2019",
+            "type": "nursery_catalog",
+            "date": "Jan 8 2019",
+            "nursery": "krohne_plant_farms_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1464045",
+                    "machine_name": "asparagus_officinalis_jersey_knight",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p11\/14",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "6828",
+                        "fgsid": null,
+                        "legacy_id": "1802",
+                        "catalog_source_id": "13591"
+                    }
+                },
+                {
+                    "reference": "1473727",
+                    "machine_name": "fragaria_ananassa_allstar",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p5\/8-9",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16960",
+                        "fgsid": null,
+                        "legacy_id": "9884",
+                        "catalog_source_id": "53779"
+                    }
+                },
+                {
+                    "reference": "1473741",
+                    "machine_name": "fragaria_ananassa_earliglow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p3\/8-9",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16971",
+                        "fgsid": null,
+                        "legacy_id": "9898",
+                        "catalog_source_id": "53829"
+                    }
+                },
+                {
+                    "reference": "1473752",
+                    "machine_name": "fragaria_ananassa_honeoye",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p4\/8-9",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16981",
+                        "fgsid": null,
+                        "legacy_id": "9909",
+                        "catalog_source_id": "53874"
+                    }
+                },
+                {
+                    "reference": "1473736",
+                    "machine_name": "fragaria_ananassa_cavendish",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52746",
+                        "fgsid": null,
+                        "legacy_id": "9893",
+                        "catalog_source_id": "708935"
+                    }
+                },
+                {
+                    "reference": "1546474",
+                    "machine_name": "fragaria_ananassa_cabot",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52748",
+                        "fgsid": null,
+                        "legacy_id": "124209",
+                        "catalog_source_id": "708937"
+                    }
+                },
+                {
+                    "reference": "1473756",
+                    "machine_name": "fragaria_ananassa_jewel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "64835",
+                        "fgsid": null,
+                        "legacy_id": "9913",
+                        "catalog_source_id": "382888"
+                    }
+                },
+                {
+                    "reference": "1649094",
+                    "machine_name": "fragaria_ananassa_galletta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132137",
+                        "fgsid": null,
+                        "legacy_id": "360049",
+                        "catalog_source_id": "1301665"
+                    }
+                },
+                {
+                    "reference": "1664068",
+                    "machine_name": "fragaria_ananassa_flavorfest",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132138",
+                        "fgsid": null,
+                        "legacy_id": "394530",
+                        "catalog_source_id": "1301666"
+                    }
+                },
+                {
+                    "reference": "1649093",
+                    "machine_name": "fragaria_ananassa_ac_valley_sunset",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "208847",
+                        "fgsid": null,
+                        "legacy_id": "360048",
+                        "catalog_source_id": "1135829"
+                    }
+                },
+                {
+                    "reference": "1596662",
+                    "machine_name": "fragaria_ananassa_monterey",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "208848",
+                        "fgsid": null,
+                        "legacy_id": "375463",
+                        "catalog_source_id": "1135830"
+                    }
+                },
+                {
+                    "reference": "1623184",
+                    "machine_name": "fragaria_ananassa_san_andreas",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "208858",
+                        "fgsid": null,
+                        "legacy_id": "376438",
+                        "catalog_source_id": "1135832"
+                    }
+                },
+                {
+                    "reference": "1632236",
+                    "machine_name": "fragaria_ananassa_ac_wendy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "256626",
+                        "fgsid": null,
+                        "legacy_id": "305429",
+                        "catalog_source_id": "976863"
+                    }
+                },
+                {
+                    "reference": "1644842",
+                    "machine_name": "fragaria_ananassa_albion",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "256627",
+                        "fgsid": null,
+                        "legacy_id": "258016",
+                        "catalog_source_id": "976865"
+                    }
+                },
+                {
+                    "reference": "1474007",
+                    "machine_name": "fragaria_ananassa_seascape",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "256628",
+                        "fgsid": null,
+                        "legacy_id": "9940",
+                        "catalog_source_id": "976866"
+                    }
+                },
+                {
+                    "reference": "1622179",
+                    "machine_name": "asparagus_officinalis_guelph_millennium",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "968541",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1632236",
+                    "machine_name": "fragaria_ananassa_ac_wendy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "968546",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1671848",
+        "legacy_id": "503",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2020, 2019, 2018, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

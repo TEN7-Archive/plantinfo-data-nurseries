@@ -1,0 +1,74 @@
+{
+    "name": "Heartwood Nursery",
+    "machine_name": "heartwood_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8957 Hickory Road",
+        "address_2": "",
+        "city": "Fenton",
+        "state": "PA",
+        "postal_code": "17322",
+        "geo_coordinate": "POINT (-76.53092 39.799493)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.heartwoodnurseryinc.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "717-993-5230",
+        "fax": "717-993-5239",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "ground_covers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216168"
+            }
+        },
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673668",
+        "legacy_id": "25031",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

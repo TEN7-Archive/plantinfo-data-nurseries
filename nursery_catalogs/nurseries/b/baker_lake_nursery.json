@@ -1,0 +1,67 @@
+{
+    "name": "Baker Lake Nursery",
+    "machine_name": "baker_lake_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "23 1st Avenue SE",
+        "address_2": null,
+        "city": "St Stephen",
+        "state": "MN",
+        "postal_code": "56375",
+        "geo_coordinate": "POINT (-94.2729524 45.7027778)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bakerlakenursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@bakerlakenursery.com",
+        "phone": "320-259-4036",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673271",
+        "legacy_id": "26888",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

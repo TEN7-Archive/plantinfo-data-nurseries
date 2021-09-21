@@ -1,0 +1,74 @@
+{
+    "name": "Marbri Nursery, LLC",
+    "machine_name": "marbri_nursery_llc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "686 Long Island Ave",
+        "address_2": null,
+        "city": "Deer Park",
+        "state": "NY",
+        "postal_code": "11729",
+        "geo_coordinate": "POINT (-73.3323611 40.7602277)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.marbrinursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "631-586-2386",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673666",
+        "legacy_id": "25029",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

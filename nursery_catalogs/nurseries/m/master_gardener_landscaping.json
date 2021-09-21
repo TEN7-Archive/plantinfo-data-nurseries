@@ -1,0 +1,60 @@
+{
+    "name": "Master Gardener Landscaping",
+    "machine_name": "master_gardener_landscaping",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3706 North Ocean Blvd, #430",
+        "address_2": null,
+        "city": "Ft. Lauderdale",
+        "state": "FL",
+        "postal_code": "33308",
+        "geo_coordinate": "POINT (-80.0996272 26.1735038)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/mgonline.com\/index.html",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "954-568-5694",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673033",
+        "legacy_id": "9412",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

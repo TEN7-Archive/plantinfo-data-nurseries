@@ -1,0 +1,67 @@
+{
+    "name": "Select Trees",
+    "machine_name": "select_trees",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1900 Cole Springs Rd",
+        "address_2": null,
+        "city": "Bishop",
+        "state": "GA",
+        "postal_code": "30621",
+        "geo_coordinate": "POINT (-83.537952 33.8537729)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/selecttrees.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "706-743-5124",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674229",
+        "legacy_id": "33128",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Sharp Tree Farm & Nursery",
+    "machine_name": "sharp_tree_farm_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "12225 S Pleasant Grove Rd",
+        "address_2": null,
+        "city": "Floral City",
+        "state": "FL",
+        "postal_code": "34436",
+        "geo_coordinate": "POINT (-82.356641 28.683731)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.sharptreefarm.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "352-345-2617",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673421",
+        "legacy_id": "33008",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

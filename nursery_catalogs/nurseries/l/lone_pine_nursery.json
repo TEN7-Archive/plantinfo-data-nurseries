@@ -1,0 +1,318 @@
+{
+    "name": "Lone Pine Nursery",
+    "machine_name": "lone_pine_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2803 West 3800 S",
+        "address_2": "",
+        "city": "Rexburg",
+        "state": "ID",
+        "postal_code": "83440",
+        "geo_coordinate": "POINT (-111.7924237 43.8231096)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.lonepinenursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "justin@lonepinenursery.com",
+        "phone": "208-356-6966",
+        "fax": "208-356-0698",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017\/18 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Lone Pine Nursery 2017\/18",
+            "machine_name": "lone_pine_nursery_2017_18",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "lone_pine_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1425313",
+                    "machine_name": "pinus_mugo",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52670",
+                        "fgsid": "27424",
+                        "legacy_id": null,
+                        "catalog_source_id": "1062105"
+                    }
+                },
+                {
+                    "reference": "1422778",
+                    "machine_name": "populus_tremula",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52671",
+                        "fgsid": "28162",
+                        "legacy_id": null,
+                        "catalog_source_id": "1062106"
+                    }
+                },
+                {
+                    "reference": "1422753",
+                    "machine_name": "populus_angustifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52672",
+                        "fgsid": "28137",
+                        "legacy_id": null,
+                        "catalog_source_id": "1062107"
+                    }
+                },
+                {
+                    "reference": "1428583",
+                    "machine_name": "syringa_vulgaris",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "52675",
+                        "fgsid": "34176",
+                        "legacy_id": null,
+                        "catalog_source_id": "1062110"
+                    }
+                },
+                {
+                    "reference": "1463498",
+                    "machine_name": "acer_tataricum_ginnala",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "197850",
+                        "fgsid": null,
+                        "legacy_id": "482",
+                        "catalog_source_id": "1188598"
+                    }
+                },
+                {
+                    "reference": "1425279",
+                    "machine_name": "pinus_contorta",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "197853",
+                        "fgsid": "27390",
+                        "legacy_id": null,
+                        "catalog_source_id": "1188601"
+                    }
+                },
+                {
+                    "reference": "1424542",
+                    "machine_name": "picea_pungens",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "250734",
+                        "fgsid": "27211",
+                        "legacy_id": null,
+                        "catalog_source_id": "840527"
+                    }
+                },
+                {
+                    "reference": "1425315",
+                    "machine_name": "pinus_nigra",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "250735",
+                        "fgsid": "27426",
+                        "legacy_id": null,
+                        "catalog_source_id": "840528"
+                    }
+                },
+                {
+                    "reference": "1425607",
+                    "machine_name": "pinus_ponderosa",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "250736",
+                        "fgsid": "27434",
+                        "legacy_id": null,
+                        "catalog_source_id": "840529"
+                    }
+                },
+                {
+                    "reference": "1425620",
+                    "machine_name": "pinus_sylvestris",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "250737",
+                        "fgsid": "27447",
+                        "legacy_id": null,
+                        "catalog_source_id": "840530"
+                    }
+                },
+                {
+                    "reference": "1425741",
+                    "machine_name": "pseudotsuga_menziesii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "250738",
+                        "fgsid": "28874",
+                        "legacy_id": null,
+                        "catalog_source_id": "840533"
+                    }
+                },
+                {
+                    "reference": "1400821",
+                    "machine_name": "abies_concolor",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "250739",
+                        "fgsid": "34",
+                        "legacy_id": null,
+                        "catalog_source_id": "840534"
+                    }
+                },
+                {
+                    "reference": "1526511",
+                    "machine_name": "prunus_virginiana_schubert",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "250740",
+                        "fgsid": null,
+                        "legacy_id": "97363",
+                        "catalog_source_id": "840535"
+                    }
+                },
+                {
+                    "reference": "1403135",
+                    "machine_name": "acer_glabrum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "856726",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1441417",
+                    "machine_name": "salix_interior",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "856731",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1495598",
+                    "machine_name": "salix_salamonii_chrysocoma",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "856736",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673829",
+        "legacy_id": "19348",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017\/18, 2014\/15",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

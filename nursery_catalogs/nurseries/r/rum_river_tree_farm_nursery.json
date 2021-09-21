@@ -1,0 +1,67 @@
+{
+    "name": "Rum River Tree Farm & Nursery",
+    "machine_name": "rum_river_tree_farm_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "21050 Lake George Blvd. NW",
+        "address_2": null,
+        "city": "Oak Grove",
+        "state": "MN",
+        "postal_code": "55303",
+        "geo_coordinate": "POINT (-93.3481899 45.3500727)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.rumrivertreefarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "763-753-4595",
+        "fax": "763-753-4224",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674054",
+        "legacy_id": "30168",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,637 @@
+{
+    "name": "Reed's Seeds",
+    "machine_name": "reed_s_seeds",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3334 NYS Route 215",
+        "address_2": null,
+        "city": "Cortland",
+        "state": "NY",
+        "postal_code": "13045-9433",
+        "geo_coordinate": "POINT (-76.1855329 42.553052)"
+    },
+    "contact": {
+        "website": null,
+        "email": "reeder1@twcny.rr.com",
+        "phone": "607-753-9095",
+        "fax": "607-753-9511",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": false,
+        "web_only": false
+    },
+    "update": "2016",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "reed_s_seeds",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1581027",
+                    "machine_name": "brassica_oleracea_s_brilliant",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "9176",
+                        "fgsid": null,
+                        "legacy_id": "212336",
+                        "catalog_source_id": "1336063"
+                    }
+                },
+                {
+                    "reference": "1651826",
+                    "machine_name": "brassica_oleracea_c_romanov",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "28590",
+                        "fgsid": null,
+                        "legacy_id": "383716",
+                        "catalog_source_id": "1139085"
+                    }
+                },
+                {
+                    "reference": "1625763",
+                    "machine_name": "brassica_oleracea_c_grand_vantage",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "60462",
+                        "fgsid": null,
+                        "legacy_id": "368927",
+                        "catalog_source_id": "1138893"
+                    }
+                },
+                {
+                    "reference": "1584175",
+                    "machine_name": "brassica_oleracea_c_greenboy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63175",
+                        "fgsid": null,
+                        "legacy_id": "206160",
+                        "catalog_source_id": "952423"
+                    }
+                },
+                {
+                    "reference": "1605363",
+                    "machine_name": "brassica_oleracea_c_sc100",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63177",
+                        "fgsid": null,
+                        "legacy_id": "275710",
+                        "catalog_source_id": "952426"
+                    }
+                },
+                {
+                    "reference": "1648879",
+                    "machine_name": "brassica_oleracea_c_thunderhead",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63179",
+                        "fgsid": null,
+                        "legacy_id": "340116",
+                        "catalog_source_id": "952443"
+                    }
+                },
+                {
+                    "reference": "1465120",
+                    "machine_name": "brassica_oleracea_c_charmant",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92502",
+                        "fgsid": null,
+                        "legacy_id": "2709",
+                        "catalog_source_id": "331853"
+                    }
+                },
+                {
+                    "reference": "1530414",
+                    "machine_name": "brassica_oleracea_c_blue_vantage",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92503",
+                        "fgsid": null,
+                        "legacy_id": "105374",
+                        "catalog_source_id": "331857"
+                    }
+                },
+                {
+                    "reference": "1548561",
+                    "machine_name": "brassica_oleracea_c_bobcat",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92504",
+                        "fgsid": null,
+                        "legacy_id": "123649",
+                        "catalog_source_id": "331859"
+                    }
+                },
+                {
+                    "reference": "1465292",
+                    "machine_name": "brassica_oleracea_c_superelite",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92506",
+                        "fgsid": null,
+                        "legacy_id": "2807",
+                        "catalog_source_id": "331863"
+                    }
+                },
+                {
+                    "reference": "1465122",
+                    "machine_name": "brassica_oleracea_c_cheers",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92507",
+                        "fgsid": null,
+                        "legacy_id": "2711",
+                        "catalog_source_id": "331869"
+                    }
+                },
+                {
+                    "reference": "1465275",
+                    "machine_name": "brassica_oleracea_c_rio_verde",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92508",
+                        "fgsid": null,
+                        "legacy_id": "2790",
+                        "catalog_source_id": "331870"
+                    }
+                },
+                {
+                    "reference": "1465289",
+                    "machine_name": "brassica_oleracea_c_storage_hybrid_4",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92510",
+                        "fgsid": null,
+                        "legacy_id": "2804",
+                        "catalog_source_id": "331873"
+                    }
+                },
+                {
+                    "reference": "1551566",
+                    "machine_name": "brassica_oleracea_c_vantage_point",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92620",
+                        "fgsid": null,
+                        "legacy_id": "147285",
+                        "catalog_source_id": "337499"
+                    }
+                },
+                {
+                    "reference": "1551580",
+                    "machine_name": "brassica_oleracea_c_rio_grande",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92628",
+                        "fgsid": null,
+                        "legacy_id": "147299",
+                        "catalog_source_id": "337512"
+                    }
+                },
+                {
+                    "reference": "1530418",
+                    "machine_name": "brassica_oleracea_c_loughton",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92890",
+                        "fgsid": null,
+                        "legacy_id": "105378",
+                        "catalog_source_id": "331995"
+                    }
+                },
+                {
+                    "reference": "2487596",
+                    "machine_name": "brassica_oleracea_c_perfection",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92893",
+                        "fgsid": null,
+                        "legacy_id": "72530",
+                        "catalog_source_id": "332034"
+                    }
+                },
+                {
+                    "reference": "1599392",
+                    "machine_name": "brassica_oleracea_f_candid_charm",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "92899",
+                        "fgsid": null,
+                        "legacy_id": "233143",
+                        "catalog_source_id": "332079"
+                    }
+                },
+                {
+                    "reference": "1594328",
+                    "machine_name": "brassica_oleracea_c_primo_vantage",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "111370",
+                        "fgsid": null,
+                        "legacy_id": "375844",
+                        "catalog_source_id": "1138895"
+                    }
+                },
+                {
+                    "reference": "1623056",
+                    "machine_name": "brassica_oleracea_b_emerald_jewel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "111372",
+                        "fgsid": null,
+                        "legacy_id": "375544",
+                        "catalog_source_id": "1138901"
+                    }
+                },
+                {
+                    "reference": "1650532",
+                    "machine_name": "brassica_oleracea_b_emerald_crown",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "111373",
+                        "fgsid": null,
+                        "legacy_id": "360106",
+                        "catalog_source_id": "1138903"
+                    }
+                },
+                {
+                    "reference": "1620092",
+                    "machine_name": "brassica_oleracea_b_imperial",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "111374",
+                        "fgsid": null,
+                        "legacy_id": "351418",
+                        "catalog_source_id": "1138904"
+                    }
+                },
+                {
+                    "reference": "1551568",
+                    "machine_name": "brassica_oleracea_c_rinda",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132066",
+                        "fgsid": null,
+                        "legacy_id": "147287",
+                        "catalog_source_id": "699147"
+                    }
+                },
+                {
+                    "reference": "1587916",
+                    "machine_name": "brassica_oleracea_c_superstar",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132067",
+                        "fgsid": null,
+                        "legacy_id": "218334",
+                        "catalog_source_id": "699148"
+                    }
+                },
+                {
+                    "reference": "1538712",
+                    "machine_name": "brassica_oleracea_c_super_red_80",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132068",
+                        "fgsid": null,
+                        "legacy_id": "115014",
+                        "catalog_source_id": "699149"
+                    }
+                },
+                {
+                    "reference": "1569959",
+                    "machine_name": "brassica_oleracea_b_gypsy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132074",
+                        "fgsid": null,
+                        "legacy_id": "195757",
+                        "catalog_source_id": "699157"
+                    }
+                },
+                {
+                    "reference": "1599995",
+                    "machine_name": "brassica_oleracea_f_apex",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132075",
+                        "fgsid": null,
+                        "legacy_id": "232977",
+                        "catalog_source_id": "699158"
+                    }
+                },
+                {
+                    "reference": "1465316",
+                    "machine_name": "brassica_oleracea_f_artica",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "132076",
+                        "fgsid": null,
+                        "legacy_id": "233658",
+                        "catalog_source_id": "699159"
+                    }
+                },
+                {
+                    "reference": "1630176",
+                    "machine_name": "brassica_oleracea_c_deuce",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "155145",
+                        "fgsid": null,
+                        "legacy_id": "243879",
+                        "catalog_source_id": "699338"
+                    }
+                },
+                {
+                    "reference": "1630178",
+                    "machine_name": "brassica_oleracea_c_superstor_112",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "155148",
+                        "fgsid": null,
+                        "legacy_id": "243881",
+                        "catalog_source_id": "699344"
+                    }
+                },
+                {
+                    "reference": "1584059",
+                    "machine_name": "brassica_oleracea_c_quick_start",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "166602",
+                        "fgsid": null,
+                        "legacy_id": "211476",
+                        "catalog_source_id": "593455"
+                    }
+                },
+                {
+                    "reference": "1584062",
+                    "machine_name": "brassica_oleracea_c_moreton",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "166604",
+                        "fgsid": null,
+                        "legacy_id": "211479",
+                        "catalog_source_id": "593459"
+                    }
+                },
+                {
+                    "reference": "1584064",
+                    "machine_name": "brassica_oleracea_c_princeton",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "166606",
+                        "fgsid": null,
+                        "legacy_id": "211481",
+                        "catalog_source_id": "593463"
+                    }
+                },
+                {
+                    "reference": "1575848",
+                    "machine_name": "brassica_oleracea_c_super_red_115",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "166607",
+                        "fgsid": null,
+                        "legacy_id": "197879",
+                        "catalog_source_id": "593464"
+                    }
+                },
+                {
+                    "reference": "1465009",
+                    "machine_name": "brassica_oleracea_b_marathon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "166608",
+                        "fgsid": null,
+                        "legacy_id": "2670",
+                        "catalog_source_id": "593472"
+                    }
+                },
+                {
+                    "reference": "1599630",
+                    "machine_name": "brassica_oleracea_f_graffiti",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "166609",
+                        "fgsid": null,
+                        "legacy_id": "233161",
+                        "catalog_source_id": "593473"
+                    }
+                },
+                {
+                    "reference": "1599653",
+                    "machine_name": "brassica_oleracea_f_phoenix",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "166610",
+                        "fgsid": null,
+                        "legacy_id": "233184",
+                        "catalog_source_id": "593474"
+                    }
+                },
+                {
+                    "reference": "1497938",
+                    "machine_name": "brassica_oleracea_s_content",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "173650",
+                        "fgsid": null,
+                        "legacy_id": "72644",
+                        "catalog_source_id": "1336064"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1671763",
+        "legacy_id": "1588",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

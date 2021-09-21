@@ -1,0 +1,60 @@
+{
+    "name": "Cutter Asparagus Seed Company",
+    "machine_name": "cutter_asparagus_seed_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "516 Young Ave",
+        "address_2": null,
+        "city": "Arbuckle",
+        "state": "CA",
+        "postal_code": "95912",
+        "geo_coordinate": "POINT (-122.103425 38.97066)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.asparagusseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "530-476-3647",
+        "fax": "530-476-2422",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673344",
+        "legacy_id": "22868",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Pacific Coast Seed Inc.",
+    "machine_name": "pacific_coast_seed_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "533 Hawthorne Place",
+        "address_2": "",
+        "city": "Livermore",
+        "state": "CA",
+        "postal_code": "94550",
+        "geo_coordinate": "POINT (-121.7009034 37.7047466)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.pcseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@pcseed.com",
+        "phone": "925-373-4417",
+        "fax": "925-373-6855",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        },
+        {
+            "machine_name": "seeds_woody_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216183"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672973",
+        "legacy_id": "14408",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

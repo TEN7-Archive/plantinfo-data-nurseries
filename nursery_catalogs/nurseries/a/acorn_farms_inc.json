@@ -1,0 +1,67 @@
+{
+    "name": "Acorn Farms Inc",
+    "machine_name": "acorn_farms_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "7679 Worthington Road",
+        "address_2": null,
+        "city": "Galena",
+        "state": "OH",
+        "postal_code": "43021",
+        "geo_coordinate": "POINT (-82.9527839 40.1504683)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.acornfarms.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "acornfarms@acornfarms.com",
+        "phone": "614-891-9348",
+        "fax": "614-891-1002",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673396",
+        "legacy_id": "23488",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

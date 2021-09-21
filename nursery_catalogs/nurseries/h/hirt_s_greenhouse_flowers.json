@@ -1,0 +1,88 @@
+{
+    "name": "Hirt's Greenhouse & Flowers",
+    "machine_name": "hirt_s_greenhouse_flowers",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4943 Ridge Road, Rt 94",
+        "address_2": null,
+        "city": "Granger Township",
+        "state": "OH",
+        "postal_code": "44281",
+        "geo_coordinate": "POINT (-81.73486 41.140687)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.hirts.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "330-239-0506",
+        "fax": "330-239-0305",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        },
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672079",
+        "legacy_id": "5229",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "name": "Fuku-Bonsai",
+    "machine_name": "fuku_bonsai",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 6000",
+        "address_2": "",
+        "city": "Kurtistown",
+        "state": "HI",
+        "postal_code": "96760",
+        "geo_coordinate": "POINT (-155.0572222 19.603611)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/fukubonsai.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@fukubonsai.com",
+        "phone": "808-982-9880",
+        "fax": "808-982-9883",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bonsai",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216155"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2018",
+    "nursery_catalog_items": [
+        {
+            "name": "Fuku-Bonsai 2018",
+            "machine_name": "fuku_bonsai_2018",
+            "type": "nursery_catalog",
+            "date": "Mar 28 2018",
+            "nursery": "fuku_bonsai",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1432552",
+                    "machine_name": "schefflera_arboricola",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "71259",
+                        "fgsid": "32127",
+                        "legacy_id": null,
+                        "catalog_source_id": "1056903"
+                    }
+                },
+                {
+                    "reference": "1423683",
+                    "machine_name": "pachira_aquatica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "946991",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1404310",
+                    "machine_name": "dracaena_marginata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "946996",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672745",
+        "legacy_id": "8590",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2018, 2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

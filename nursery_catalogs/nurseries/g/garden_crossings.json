@@ -1,0 +1,67 @@
+{
+    "name": "Garden Crossings",
+    "machine_name": "garden_crossings",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4902 96th Ave",
+        "address_2": null,
+        "city": "Zeeland",
+        "state": "MI",
+        "postal_code": "49464",
+        "geo_coordinate": "POINT (-86.019137 42.857918)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.gardencrossings.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@gardencrossings.com",
+        "phone": "616-875-6355",
+        "fax": "616-875-8765",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "clematis",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216159"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web Only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673590",
+        "legacy_id": "17528",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

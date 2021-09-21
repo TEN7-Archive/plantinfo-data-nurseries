@@ -1,0 +1,60 @@
+{
+    "name": "Smith Evergreen Nursery",
+    "machine_name": "smith_evergreen_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 406",
+        "address_2": null,
+        "city": "Magnolia",
+        "state": "OH",
+        "postal_code": "44643",
+        "geo_coordinate": "POINT (-81.2989991 40.6511724)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.smithevergreen.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673228",
+        "legacy_id": "31728",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

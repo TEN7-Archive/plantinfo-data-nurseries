@@ -1,0 +1,60 @@
+{
+    "name": "Palm Island Nursery Outlet",
+    "machine_name": "palm_island_nursery_outlet",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6263 Pleasant Valley Road",
+        "address_2": null,
+        "city": "Vacaville",
+        "state": "CA",
+        "postal_code": "95688",
+        "geo_coordinate": "POINT (-121.9774809 38.3579763)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.palmislandnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "dale@palmislandnursery.com",
+        "phone": "707-344-8350",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672359",
+        "legacy_id": "17088",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

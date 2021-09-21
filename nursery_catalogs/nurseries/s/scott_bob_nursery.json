@@ -1,0 +1,1090 @@
+{
+    "name": "Scott, Bob, Nursery",
+    "machine_name": "scott_bob_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "10116 W Wilshire",
+        "address_2": null,
+        "city": "Yukon",
+        "state": "OK",
+        "postal_code": "73099",
+        "geo_coordinate": "POINT (-97.6976864 35.5510548)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bobscottnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "405-721-0802",
+        "fax": "405-720-2680",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "not print friendly",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "scott_bob_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1653032",
+                    "machine_name": "hemerocallis_cultivars_topguns_aleah_kaye",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32007",
+                        "fgsid": null,
+                        "legacy_id": "365979",
+                        "catalog_source_id": "1035954"
+                    }
+                },
+                {
+                    "reference": "1653033",
+                    "machine_name": "hemerocallis_cultivars_topguns_aztec_medallion",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32014",
+                        "fgsid": null,
+                        "legacy_id": "365980",
+                        "catalog_source_id": "1035955"
+                    }
+                },
+                {
+                    "reference": "1653034",
+                    "machine_name": "hemerocallis_cultivars_topguns_bandit_s_bandana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32017",
+                        "fgsid": null,
+                        "legacy_id": "365981",
+                        "catalog_source_id": "1035956"
+                    }
+                },
+                {
+                    "reference": "1653035",
+                    "machine_name": "hemerocallis_cultivars_topguns_branding_iron",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32020",
+                        "fgsid": null,
+                        "legacy_id": "365982",
+                        "catalog_source_id": "1035957"
+                    }
+                },
+                {
+                    "reference": "1653036",
+                    "machine_name": "hemerocallis_cultivars_topguns_cactus_jack",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32025",
+                        "fgsid": null,
+                        "legacy_id": "365983",
+                        "catalog_source_id": "1035958"
+                    }
+                },
+                {
+                    "reference": "1653037",
+                    "machine_name": "hemerocallis_cultivars_topguns_cherokee_dancer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32026",
+                        "fgsid": null,
+                        "legacy_id": "365984",
+                        "catalog_source_id": "1035959"
+                    }
+                },
+                {
+                    "reference": "1653038",
+                    "machine_name": "hemerocallis_cultivars_topguns_citrine_dream",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32031",
+                        "fgsid": null,
+                        "legacy_id": "365985",
+                        "catalog_source_id": "1035960"
+                    }
+                },
+                {
+                    "reference": "1653039",
+                    "machine_name": "hemerocallis_cultivars_topguns_glowing_embers",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32033",
+                        "fgsid": null,
+                        "legacy_id": "365986",
+                        "catalog_source_id": "1035961"
+                    }
+                },
+                {
+                    "reference": "1653040",
+                    "machine_name": "hemerocallis_cultivars_topguns_navajo_blanket",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32034",
+                        "fgsid": null,
+                        "legacy_id": "365987",
+                        "catalog_source_id": "1035962"
+                    }
+                },
+                {
+                    "reference": "1653041",
+                    "machine_name": "hemerocallis_cultivars_topguns_pawnee_princess",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32036",
+                        "fgsid": null,
+                        "legacy_id": "365988",
+                        "catalog_source_id": "1035963"
+                    }
+                },
+                {
+                    "reference": "1653042",
+                    "machine_name": "hemerocallis_cultivars_topguns_zuni_sun",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32037",
+                        "fgsid": null,
+                        "legacy_id": "365989",
+                        "catalog_source_id": "1035964"
+                    }
+                },
+                {
+                    "reference": "1647519",
+                    "machine_name": "hemerocallis_cultivars_topguns_lemon_ruffles",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32042",
+                        "fgsid": null,
+                        "legacy_id": "366006",
+                        "catalog_source_id": "1035992"
+                    }
+                },
+                {
+                    "reference": "1647520",
+                    "machine_name": "hemerocallis_cultivars_topguns_linda_farris",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32048",
+                        "fgsid": null,
+                        "legacy_id": "366007",
+                        "catalog_source_id": "1035993"
+                    }
+                },
+                {
+                    "reference": "1647521",
+                    "machine_name": "hemerocallis_cultivars_topguns_mandarin_m_elange",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32054",
+                        "fgsid": null,
+                        "legacy_id": "366008",
+                        "catalog_source_id": "1035994"
+                    }
+                },
+                {
+                    "reference": "1647522",
+                    "machine_name": "hemerocallis_cultivars_topguns_mimosa_ruffles",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32056",
+                        "fgsid": null,
+                        "legacy_id": "366009",
+                        "catalog_source_id": "1035995"
+                    }
+                },
+                {
+                    "reference": "1647523",
+                    "machine_name": "hemerocallis_cultivars_topguns_molten_lava",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32057",
+                        "fgsid": null,
+                        "legacy_id": "366010",
+                        "catalog_source_id": "1035996"
+                    }
+                },
+                {
+                    "reference": "1647524",
+                    "machine_name": "hemerocallis_cultivars_topguns_neon_fandango",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32060",
+                        "fgsid": null,
+                        "legacy_id": "366011",
+                        "catalog_source_id": "1035997"
+                    }
+                },
+                {
+                    "reference": "1647525",
+                    "machine_name": "hemerocallis_cultivars_topguns_ninja_star",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32062",
+                        "fgsid": null,
+                        "legacy_id": "366012",
+                        "catalog_source_id": "1035998"
+                    }
+                },
+                {
+                    "reference": "1647526",
+                    "machine_name": "hemerocallis_cultivars_topguns_orange_ball",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32063",
+                        "fgsid": null,
+                        "legacy_id": "366013",
+                        "catalog_source_id": "1035999"
+                    }
+                },
+                {
+                    "reference": "1647527",
+                    "machine_name": "hemerocallis_cultivars_topguns_orange_fizz",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32064",
+                        "fgsid": null,
+                        "legacy_id": "366014",
+                        "catalog_source_id": "1036000"
+                    }
+                },
+                {
+                    "reference": "1647528",
+                    "machine_name": "hemerocallis_cultivars_topguns_pinwheel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32066",
+                        "fgsid": null,
+                        "legacy_id": "366015",
+                        "catalog_source_id": "1036001"
+                    }
+                },
+                {
+                    "reference": "1607585",
+                    "machine_name": "hemerocallis_cultivars_topguns_purple_rain",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32070",
+                        "fgsid": null,
+                        "legacy_id": "366016",
+                        "catalog_source_id": "1036003"
+                    }
+                },
+                {
+                    "reference": "1607586",
+                    "machine_name": "hemerocallis_cultivars_topguns_razzberry_rush",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32071",
+                        "fgsid": null,
+                        "legacy_id": "366017",
+                        "catalog_source_id": "1036004"
+                    }
+                },
+                {
+                    "reference": "1607587",
+                    "machine_name": "hemerocallis_cultivars_topguns_ruffled_amazement",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32073",
+                        "fgsid": null,
+                        "legacy_id": "366018",
+                        "catalog_source_id": "1036005"
+                    }
+                },
+                {
+                    "reference": "1607588",
+                    "machine_name": "hemerocallis_cultivars_topguns_stop_ngo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32077",
+                        "fgsid": null,
+                        "legacy_id": "366019",
+                        "catalog_source_id": "1036007"
+                    }
+                },
+                {
+                    "reference": "1607589",
+                    "machine_name": "hemerocallis_cultivars_topguns_sunset_tangerine",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32080",
+                        "fgsid": null,
+                        "legacy_id": "366020",
+                        "catalog_source_id": "1036008"
+                    }
+                },
+                {
+                    "reference": "1607590",
+                    "machine_name": "hemerocallis_cultivars_topguns_tilt_a_wheel",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "32081",
+                        "fgsid": null,
+                        "legacy_id": "366021",
+                        "catalog_source_id": "1036009"
+                    }
+                },
+                {
+                    "reference": "1553588",
+                    "machine_name": "hemerocallis_cultivars_topguns_lola_scott",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84460",
+                        "fgsid": null,
+                        "legacy_id": "140402",
+                        "catalog_source_id": "312350"
+                    }
+                },
+                {
+                    "reference": "1553824",
+                    "machine_name": "hemerocallis_cultivars_topguns_thelma_rowe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84463",
+                        "fgsid": null,
+                        "legacy_id": "140405",
+                        "catalog_source_id": "312353"
+                    }
+                },
+                {
+                    "reference": "1553834",
+                    "machine_name": "hemerocallis_cultivars_topguns_double_winemeister",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84469",
+                        "fgsid": null,
+                        "legacy_id": "140415",
+                        "catalog_source_id": "312363"
+                    }
+                },
+                {
+                    "reference": "1553841",
+                    "machine_name": "hemerocallis_cultivars_topguns_metha_scott",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "84476",
+                        "fgsid": null,
+                        "legacy_id": "140422",
+                        "catalog_source_id": "312370"
+                    }
+                },
+                {
+                    "reference": "1554769",
+                    "machine_name": "hemerocallis_cultivars_topguns_orchid_ripples",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90082",
+                        "fgsid": null,
+                        "legacy_id": "141003",
+                        "catalog_source_id": "732970"
+                    }
+                },
+                {
+                    "reference": "1628985",
+                    "machine_name": "hemerocallis_cultivars_topguns_candy_cane",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90084",
+                        "fgsid": null,
+                        "legacy_id": "252700",
+                        "catalog_source_id": "732974"
+                    }
+                },
+                {
+                    "reference": "1628984",
+                    "machine_name": "hemerocallis_cultivars_topguns_butterball",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90085",
+                        "fgsid": null,
+                        "legacy_id": "252699",
+                        "catalog_source_id": "732975"
+                    }
+                },
+                {
+                    "reference": "1628979",
+                    "machine_name": "hemerocallis_cultivars_topguns_grim_reaper",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90086",
+                        "fgsid": null,
+                        "legacy_id": "252694",
+                        "catalog_source_id": "732977"
+                    }
+                },
+                {
+                    "reference": "1628981",
+                    "machine_name": "hemerocallis_cultivars_topguns_okie_twister",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90087",
+                        "fgsid": null,
+                        "legacy_id": "252696",
+                        "catalog_source_id": "732979"
+                    }
+                },
+                {
+                    "reference": "1628982",
+                    "machine_name": "hemerocallis_cultivars_topguns_orange_marmalade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90088",
+                        "fgsid": null,
+                        "legacy_id": "252697",
+                        "catalog_source_id": "732980"
+                    }
+                },
+                {
+                    "reference": "1628983",
+                    "machine_name": "hemerocallis_cultivars_topguns_verna_s_choice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90089",
+                        "fgsid": null,
+                        "legacy_id": "252698",
+                        "catalog_source_id": "732981"
+                    }
+                },
+                {
+                    "reference": "1628977",
+                    "machine_name": "hemerocallis_cultivars_topguns_anita_causey",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90090",
+                        "fgsid": null,
+                        "legacy_id": "252702",
+                        "catalog_source_id": "732982"
+                    }
+                },
+                {
+                    "reference": "1628978",
+                    "machine_name": "hemerocallis_cultivars_topguns_arkansas_traveler",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90091",
+                        "fgsid": null,
+                        "legacy_id": "252703",
+                        "catalog_source_id": "732983"
+                    }
+                },
+                {
+                    "reference": "1628986",
+                    "machine_name": "hemerocallis_cultivars_topguns_april_hall",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90092",
+                        "fgsid": null,
+                        "legacy_id": "252704",
+                        "catalog_source_id": "732984"
+                    }
+                },
+                {
+                    "reference": "1628990",
+                    "machine_name": "hemerocallis_cultivars_topguns_copper_butterflies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90095",
+                        "fgsid": null,
+                        "legacy_id": "252708",
+                        "catalog_source_id": "732987"
+                    }
+                },
+                {
+                    "reference": "1628991",
+                    "machine_name": "hemerocallis_cultivars_topguns_dripping_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90097",
+                        "fgsid": null,
+                        "legacy_id": "252709",
+                        "catalog_source_id": "732989"
+                    }
+                },
+                {
+                    "reference": "1628994",
+                    "machine_name": "hemerocallis_cultivars_topguns_helen_jones",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90100",
+                        "fgsid": null,
+                        "legacy_id": "252712",
+                        "catalog_source_id": "732992"
+                    }
+                },
+                {
+                    "reference": "1628995",
+                    "machine_name": "hemerocallis_cultivars_topguns_jennifer_hankins",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90101",
+                        "fgsid": null,
+                        "legacy_id": "252713",
+                        "catalog_source_id": "732993"
+                    }
+                },
+                {
+                    "reference": "1629000",
+                    "machine_name": "hemerocallis_cultivars_topguns_madelyn_grace",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90106",
+                        "fgsid": null,
+                        "legacy_id": "252718",
+                        "catalog_source_id": "732998"
+                    }
+                },
+                {
+                    "reference": "1628332",
+                    "machine_name": "hemerocallis_cultivars_topguns_mr_big",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90111",
+                        "fgsid": null,
+                        "legacy_id": "252720",
+                        "catalog_source_id": "733003"
+                    }
+                },
+                {
+                    "reference": "1628336",
+                    "machine_name": "hemerocallis_cultivars_topguns_purple_express",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90113",
+                        "fgsid": null,
+                        "legacy_id": "252724",
+                        "catalog_source_id": "733005"
+                    }
+                },
+                {
+                    "reference": "1628337",
+                    "machine_name": "hemerocallis_cultivars_topguns_purple_waves",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90114",
+                        "fgsid": null,
+                        "legacy_id": "252725",
+                        "catalog_source_id": "733006"
+                    }
+                },
+                {
+                    "reference": "1628341",
+                    "machine_name": "hemerocallis_cultivars_topguns_white_knight",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "90118",
+                        "fgsid": null,
+                        "legacy_id": "252729",
+                        "catalog_source_id": "733010"
+                    }
+                },
+                {
+                    "reference": "1628999",
+                    "machine_name": "hemerocallis_cultivars_topguns_lookatme",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "94924",
+                        "fgsid": null,
+                        "legacy_id": "252717",
+                        "catalog_source_id": "1035933"
+                    }
+                },
+                {
+                    "reference": "1647503",
+                    "machine_name": "hemerocallis_cultivars_topguns_abigail_hall",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217546",
+                        "fgsid": null,
+                        "legacy_id": "365990",
+                        "catalog_source_id": "1035976"
+                    }
+                },
+                {
+                    "reference": "1647504",
+                    "machine_name": "hemerocallis_cultivars_topguns_aztec_vision",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217547",
+                        "fgsid": null,
+                        "legacy_id": "365991",
+                        "catalog_source_id": "1035977"
+                    }
+                },
+                {
+                    "reference": "1647505",
+                    "machine_name": "hemerocallis_cultivars_topguns_blooming_machine",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217548",
+                        "fgsid": null,
+                        "legacy_id": "365992",
+                        "catalog_source_id": "1035978"
+                    }
+                },
+                {
+                    "reference": "1647506",
+                    "machine_name": "hemerocallis_cultivars_topguns_candy_corn",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217549",
+                        "fgsid": null,
+                        "legacy_id": "365993",
+                        "catalog_source_id": "1035979"
+                    }
+                },
+                {
+                    "reference": "1647507",
+                    "machine_name": "hemerocallis_cultivars_topguns_cherry_limeade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217550",
+                        "fgsid": null,
+                        "legacy_id": "365994",
+                        "catalog_source_id": "1035980"
+                    }
+                },
+                {
+                    "reference": "1647508",
+                    "machine_name": "hemerocallis_cultivars_topguns_crown_jewels",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217551",
+                        "fgsid": null,
+                        "legacy_id": "365995",
+                        "catalog_source_id": "1035981"
+                    }
+                },
+                {
+                    "reference": "1647509",
+                    "machine_name": "hemerocallis_cultivars_topguns_dragon_s_fire",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217552",
+                        "fgsid": null,
+                        "legacy_id": "365996",
+                        "catalog_source_id": "1035982"
+                    }
+                },
+                {
+                    "reference": "1647510",
+                    "machine_name": "hemerocallis_cultivars_topguns_dragonfly_sunset",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217553",
+                        "fgsid": null,
+                        "legacy_id": "365997",
+                        "catalog_source_id": "1035983"
+                    }
+                },
+                {
+                    "reference": "1647511",
+                    "machine_name": "hemerocallis_cultivars_topguns_dream_catcher",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217554",
+                        "fgsid": null,
+                        "legacy_id": "365998",
+                        "catalog_source_id": "1035984"
+                    }
+                },
+                {
+                    "reference": "1647512",
+                    "machine_name": "hemerocallis_cultivars_topguns_duckbutter_fluff",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217555",
+                        "fgsid": null,
+                        "legacy_id": "365999",
+                        "catalog_source_id": "1035985"
+                    }
+                },
+                {
+                    "reference": "1647513",
+                    "machine_name": "hemerocallis_cultivars_topguns_eye_popper",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217556",
+                        "fgsid": null,
+                        "legacy_id": "366000",
+                        "catalog_source_id": "1035986"
+                    }
+                },
+                {
+                    "reference": "1647514",
+                    "machine_name": "hemerocallis_cultivars_topguns_golden_galaxy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217557",
+                        "fgsid": null,
+                        "legacy_id": "366001",
+                        "catalog_source_id": "1035987"
+                    }
+                },
+                {
+                    "reference": "1647515",
+                    "machine_name": "hemerocallis_cultivars_topguns_golden_ruffles",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217558",
+                        "fgsid": null,
+                        "legacy_id": "366002",
+                        "catalog_source_id": "1035988"
+                    }
+                },
+                {
+                    "reference": "1647516",
+                    "machine_name": "hemerocallis_cultivars_topguns_harlequin_ruffles",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217559",
+                        "fgsid": null,
+                        "legacy_id": "366003",
+                        "catalog_source_id": "1035989"
+                    }
+                },
+                {
+                    "reference": "1647517",
+                    "machine_name": "hemerocallis_cultivars_topguns_kaleidoscope",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217560",
+                        "fgsid": null,
+                        "legacy_id": "366004",
+                        "catalog_source_id": "1035990"
+                    }
+                },
+                {
+                    "reference": "1647518",
+                    "machine_name": "hemerocallis_cultivars_topguns_lemon_lush",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "217561",
+                        "fgsid": null,
+                        "legacy_id": "366005",
+                        "catalog_source_id": "1035991"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672818",
+        "legacy_id": "1038",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

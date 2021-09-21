@@ -1,0 +1,60 @@
+{
+    "name": "Crescent Hill Nursery",
+    "machine_name": "crescent_hill_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": null,
+        "address_2": null,
+        "city": "Watsonville",
+        "state": "CA",
+        "postal_code": null,
+        "geo_coordinate": "POINT (-121.7568946 36.910231)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.crescenthillnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "nathan@crescenthillnursery.com",
+        "phone": "831-246-1128",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673236",
+        "legacy_id": "30969",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

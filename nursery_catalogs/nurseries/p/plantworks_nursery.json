@@ -1,0 +1,60 @@
+{
+    "name": "Plantworks Nursery",
+    "machine_name": "plantworks_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5851 Kiger Road",
+        "address_2": null,
+        "city": "Rougemont",
+        "state": "NC",
+        "postal_code": "27572",
+        "geo_coordinate": "POINT (-79.0042028 36.1613207)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.plantworksnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "919-732-6594",
+        "fax": "919-732-1634",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672261",
+        "legacy_id": "16533",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

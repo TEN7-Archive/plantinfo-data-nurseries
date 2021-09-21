@@ -1,0 +1,88 @@
+{
+    "name": "Mellow Marsh Farm",
+    "machine_name": "mellow_marsh_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1312 Woody Store Road",
+        "address_2": "",
+        "city": "Siler City",
+        "state": "NC",
+        "postal_code": "27344",
+        "geo_coordinate": "POINT (-79.344542 35.796653)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mellowmarshfarm.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "plantinfo@mellowmarshfarm.com",
+        "phone": "919-742-1200",
+        "fax": "919-742-1280",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "water_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216188"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673904",
+        "legacy_id": "20308",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Hummingbird Farm",
+    "machine_name": "hummingbird_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "202 Bean Street",
+        "address_2": "",
+        "city": "Turner",
+        "state": "ME",
+        "postal_code": "04282",
+        "geo_coordinate": "POINT (-70.265169 44.355882)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/hummingbirdfarm.net\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "207-224-8220",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "clematis",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216159"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673082",
+        "legacy_id": "28968",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

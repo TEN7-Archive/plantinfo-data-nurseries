@@ -1,0 +1,74 @@
+{
+    "name": "Oregon Pride Nurseries, Inc.",
+    "machine_name": "oregon_pride_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "5380 SE Booth Bend Road",
+        "address_2": null,
+        "city": "McMinnville",
+        "state": "OR",
+        "postal_code": "97128",
+        "geo_coordinate": "POINT (-123.18425 45.19278)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.oregonpridenurseries.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@oregonpridenurseries.com",
+        "phone": "503-472-9147",
+        "fax": "503-434-5074",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672085",
+        "legacy_id": "5289",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

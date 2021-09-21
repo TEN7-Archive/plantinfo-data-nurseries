@@ -1,0 +1,60 @@
+{
+    "name": "Caudill Seed",
+    "machine_name": "caudill_seed",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1402 West Main Street",
+        "address_2": null,
+        "city": "Louisville",
+        "state": "KY",
+        "postal_code": "40203",
+        "geo_coordinate": "POINT (-85.7741268 38.2581575)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.caudillseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-626-1328",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_lawn",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216197"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672748",
+        "legacy_id": "29069",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

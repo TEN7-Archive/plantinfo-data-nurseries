@@ -1,0 +1,81 @@
+{
+    "name": "Shreckhise Nursery",
+    "machine_name": "shreckhise_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 428",
+        "address_2": null,
+        "city": "Grottoes",
+        "state": "VA",
+        "postal_code": "24441",
+        "geo_coordinate": "POINT (-78.8258584 38.2673516)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.shreckhise.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "nursery@shreckhise.com",
+        "phone": "800-628-5871",
+        "fax": "540-249-5762",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673895",
+        "legacy_id": "20108",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,4659 @@
+{
+    "name": "Magnolia Gardens Nursery",
+    "machine_name": "magnolia_gardens_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1980 Bowler Road",
+        "address_2": "",
+        "city": "Waller",
+        "state": "TX",
+        "postal_code": "77484",
+        "geo_coordinate": "POINT (-95.8926303 30.1926211)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.magnoliagardensnursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "Sales@magnoliagardens.com",
+        "phone": "800-931-9555",
+        "fax": "936-931-9927",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Magnolia Gardens Nursery 2017",
+            "machine_name": "magnolia_gardens_nursery_2017",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "magnolia_gardens_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1479833",
+                    "machine_name": "juniperus_pfitzeriana_mint_julep",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13114",
+                        "fgsid": null,
+                        "legacy_id": "16447",
+                        "catalog_source_id": "1177231"
+                    }
+                },
+                {
+                    "reference": "1479527",
+                    "machine_name": "juniperus_chinensis_blue_point",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13125",
+                        "fgsid": null,
+                        "legacy_id": "16364",
+                        "catalog_source_id": "1177232"
+                    }
+                },
+                {
+                    "reference": "1419892",
+                    "machine_name": "koelreuteria_paniculata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13127",
+                        "fgsid": "19979",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177236"
+                    }
+                },
+                {
+                    "reference": "1515139",
+                    "machine_name": "lagerstroemia_indica_catawba",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13136",
+                        "fgsid": null,
+                        "legacy_id": "89745",
+                        "catalog_source_id": "1177237"
+                    }
+                },
+                {
+                    "reference": "1559365",
+                    "machine_name": "lagerstroemia_indica_dynamite",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13145",
+                        "fgsid": null,
+                        "legacy_id": "152977",
+                        "catalog_source_id": "1177238"
+                    }
+                },
+                {
+                    "reference": "1537171",
+                    "machine_name": "lagerstroemia_indica_red_rocket",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13147",
+                        "fgsid": null,
+                        "legacy_id": "114587",
+                        "catalog_source_id": "1177239"
+                    }
+                },
+                {
+                    "reference": "1515664",
+                    "machine_name": "lantana_camara_irene",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13151",
+                        "fgsid": null,
+                        "legacy_id": "89854",
+                        "catalog_source_id": "1177247"
+                    }
+                },
+                {
+                    "reference": "1420726",
+                    "machine_name": "lantana_montevidensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13152",
+                        "fgsid": "20244",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177248"
+                    }
+                },
+                {
+                    "reference": "1421418",
+                    "machine_name": "lavandula_multifida",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13154",
+                        "fgsid": "20376",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177249"
+                    }
+                },
+                {
+                    "reference": "1477518",
+                    "machine_name": "lavandula_stoechas_otto_quast",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13161",
+                        "fgsid": null,
+                        "legacy_id": "17110",
+                        "catalog_source_id": "1177250"
+                    }
+                },
+                {
+                    "reference": "1477831",
+                    "machine_name": "leucanthemum_superbum_becky",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13170",
+                        "fgsid": null,
+                        "legacy_id": "17197",
+                        "catalog_source_id": "1177251"
+                    }
+                },
+                {
+                    "reference": "1516479",
+                    "machine_name": "leucophyllum_frutescens_compactum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13171",
+                        "fgsid": null,
+                        "legacy_id": "90041",
+                        "catalog_source_id": "1177252"
+                    }
+                },
+                {
+                    "reference": "1478075",
+                    "machine_name": "leucophyllum_frutescens_green_cloud",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "13175",
+                        "fgsid": null,
+                        "legacy_id": "17217",
+                        "catalog_source_id": "1177253"
+                    }
+                },
+                {
+                    "reference": "1400951",
+                    "machine_name": "agave_sisalana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15213",
+                        "fgsid": "1520",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177136"
+                    }
+                },
+                {
+                    "reference": "1410414",
+                    "machine_name": "gelsemium_sempervirens",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15214",
+                        "fgsid": "16055",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177211"
+                    }
+                },
+                {
+                    "reference": "1477036",
+                    "machine_name": "ilex_cornuta_burfordii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15216",
+                        "fgsid": null,
+                        "legacy_id": "14488",
+                        "catalog_source_id": "1177219"
+                    }
+                },
+                {
+                    "reference": "1511466",
+                    "machine_name": "ilex_cornuta_needlepoint",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15217",
+                        "fgsid": null,
+                        "legacy_id": "85302",
+                        "catalog_source_id": "1177220"
+                    }
+                },
+                {
+                    "reference": "1416132",
+                    "machine_name": "ilex_decidua",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15222",
+                        "fgsid": "19036",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177221"
+                    }
+                },
+                {
+                    "reference": "1477314",
+                    "machine_name": "ilex_vomitoria_nana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15223",
+                        "fgsid": null,
+                        "legacy_id": "14542",
+                        "catalog_source_id": "1177222"
+                    }
+                },
+                {
+                    "reference": "1477315",
+                    "machine_name": "ilex_vomitoria_pendula",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15227",
+                        "fgsid": null,
+                        "legacy_id": "14543",
+                        "catalog_source_id": "1177223"
+                    }
+                },
+                {
+                    "reference": "1512292",
+                    "machine_name": "ilex_vomitoria_pride_of_houston",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15236",
+                        "fgsid": null,
+                        "legacy_id": "85508",
+                        "catalog_source_id": "1177224"
+                    }
+                },
+                {
+                    "reference": "1511180",
+                    "machine_name": "ilex_cultivars_mary_nell",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15237",
+                        "fgsid": null,
+                        "legacy_id": "85228",
+                        "catalog_source_id": "1177225"
+                    }
+                },
+                {
+                    "reference": "1476752",
+                    "machine_name": "ilex_cultivars_nellie_r_stevens",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15238",
+                        "fgsid": null,
+                        "legacy_id": "14416",
+                        "catalog_source_id": "1177226"
+                    }
+                },
+                {
+                    "reference": "1416534",
+                    "machine_name": "indigofera_kirilowii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "15241",
+                        "fgsid": "19159",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177229"
+                    }
+                },
+                {
+                    "reference": "1501557",
+                    "machine_name": "cuphea_cultivars_david_verity",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "40148",
+                        "fgsid": null,
+                        "legacy_id": "75921",
+                        "catalog_source_id": "1072396"
+                    }
+                },
+                {
+                    "reference": "1464686",
+                    "machine_name": "bignonia_capreolata_tangerine_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42741",
+                        "fgsid": null,
+                        "legacy_id": "2487",
+                        "catalog_source_id": "1177160"
+                    }
+                },
+                {
+                    "reference": "1498246",
+                    "machine_name": "brugmansia_insignis_pink",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42749",
+                        "fgsid": null,
+                        "legacy_id": "72733",
+                        "catalog_source_id": "1177161"
+                    }
+                },
+                {
+                    "reference": "1643821",
+                    "machine_name": "brugmansia_cultivars_yellow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42770",
+                        "fgsid": null,
+                        "legacy_id": "253378",
+                        "catalog_source_id": "1177162"
+                    }
+                },
+                {
+                    "reference": "1464775",
+                    "machine_name": "brunfelsia_pauciflora_eximia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42771",
+                        "fgsid": null,
+                        "legacy_id": "3124",
+                        "catalog_source_id": "1177163"
+                    }
+                },
+                {
+                    "reference": "1498252",
+                    "machine_name": "brunfelsia_pauciflora_floribunda",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42772",
+                        "fgsid": null,
+                        "legacy_id": "72739",
+                        "catalog_source_id": "1177164"
+                    }
+                },
+                {
+                    "reference": "1464787",
+                    "machine_name": "buddleja_davidii_black_knight",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42773",
+                        "fgsid": null,
+                        "legacy_id": "3137",
+                        "catalog_source_id": "1177165"
+                    }
+                },
+                {
+                    "reference": "1534644",
+                    "machine_name": "buddleja_weyeriana_honeycomb",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42774",
+                        "fgsid": null,
+                        "legacy_id": "107834",
+                        "catalog_source_id": "1177167"
+                    }
+                },
+                {
+                    "reference": "1543553",
+                    "machine_name": "plumbago_auriculata_imperial_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "53332",
+                        "fgsid": null,
+                        "legacy_id": "119878",
+                        "catalog_source_id": "1072468"
+                    }
+                },
+                {
+                    "reference": "1493553",
+                    "machine_name": "rosmarinus_officinalis_prostratus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "53334",
+                        "fgsid": null,
+                        "legacy_id": "31068",
+                        "catalog_source_id": "1072471"
+                    }
+                },
+                {
+                    "reference": "1493559",
+                    "machine_name": "rosmarinus_officinalis_tuscan_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "53335",
+                        "fgsid": null,
+                        "legacy_id": "31074",
+                        "catalog_source_id": "1072472"
+                    }
+                },
+                {
+                    "reference": "1493853",
+                    "machine_name": "rudbeckia_fulgida_goldsturm",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "53341",
+                        "fgsid": null,
+                        "legacy_id": "31149",
+                        "catalog_source_id": "1072478"
+                    }
+                },
+                {
+                    "reference": "1564558",
+                    "machine_name": "salvia_leucantha_santa_barbara",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "53345",
+                        "fgsid": null,
+                        "legacy_id": "158022",
+                        "catalog_source_id": "1072482"
+                    }
+                },
+                {
+                    "reference": "1499494",
+                    "machine_name": "agapanthus_africanus_albus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "87098",
+                        "fgsid": null,
+                        "legacy_id": "70680",
+                        "catalog_source_id": "895810"
+                    }
+                },
+                {
+                    "reference": "1499499",
+                    "machine_name": "agapanthus_inapertus_mood_indigo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "87101",
+                        "fgsid": null,
+                        "legacy_id": "70686",
+                        "catalog_source_id": "895812"
+                    }
+                },
+                {
+                    "reference": "1588379",
+                    "machine_name": "asparagus_meyeri_foxtail_fern",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "87122",
+                        "fgsid": null,
+                        "legacy_id": "322076",
+                        "catalog_source_id": "895825"
+                    }
+                },
+                {
+                    "reference": "1573414",
+                    "machine_name": "calibrachoa_cultivars_superbells_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113257",
+                        "fgsid": null,
+                        "legacy_id": "192618",
+                        "catalog_source_id": "1177173"
+                    }
+                },
+                {
+                    "reference": "1611302",
+                    "machine_name": "calibrachoa_cultivars_tequila_sunrise",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113259",
+                        "fgsid": null,
+                        "legacy_id": "360670",
+                        "catalog_source_id": "1177174"
+                    }
+                },
+                {
+                    "reference": "1499061",
+                    "machine_name": "callistemon_viminalis_little_john",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113261",
+                        "fgsid": null,
+                        "legacy_id": "72922",
+                        "catalog_source_id": "1177175"
+                    }
+                },
+                {
+                    "reference": "1400394",
+                    "machine_name": "callistemon_rigidus",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113262",
+                        "fgsid": "5696",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177176"
+                    }
+                },
+                {
+                    "reference": "2385951",
+                    "machine_name": "salvia_guaranitica_black_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113263",
+                        "fgsid": null,
+                        "legacy_id": "118837",
+                        "catalog_source_id": "1177345"
+                    }
+                },
+                {
+                    "reference": "1430253",
+                    "machine_name": "salvia_leucantha",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113266",
+                        "fgsid": "31530",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177346"
+                    }
+                },
+                {
+                    "reference": "1580832",
+                    "machine_name": "salvia_jamensis_hot_lips",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113268",
+                        "fgsid": null,
+                        "legacy_id": "215860",
+                        "catalog_source_id": "1177347"
+                    }
+                },
+                {
+                    "reference": "1430288",
+                    "machine_name": "salvia_sinaloensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113269",
+                        "fgsid": "31565",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177348"
+                    }
+                },
+                {
+                    "reference": "1491254",
+                    "machine_name": "salvia_sylvestris_mainacht_may_night",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113270",
+                        "fgsid": null,
+                        "legacy_id": "31684",
+                        "catalog_source_id": "1177349"
+                    }
+                },
+                {
+                    "reference": "1435460",
+                    "machine_name": "scutellaria_suffrutescens",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113271",
+                        "fgsid": "42104",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177350"
+                    }
+                },
+                {
+                    "reference": "1596432",
+                    "machine_name": "setcreasea_cultivars_purple_heart",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113272",
+                        "fgsid": null,
+                        "legacy_id": "368413",
+                        "catalog_source_id": "1177351"
+                    }
+                },
+                {
+                    "reference": "1431893",
+                    "machine_name": "spiraea_cantoniensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113274",
+                        "fgsid": "33472",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177352"
+                    }
+                },
+                {
+                    "reference": "1494771",
+                    "machine_name": "spiraea_japonica_anthony_waterer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113277",
+                        "fgsid": null,
+                        "legacy_id": "32588",
+                        "catalog_source_id": "1177353"
+                    }
+                },
+                {
+                    "reference": "1494790",
+                    "machine_name": "stachys_byzantina_big_ears",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113278",
+                        "fgsid": null,
+                        "legacy_id": "32608",
+                        "catalog_source_id": "1177354"
+                    }
+                },
+                {
+                    "reference": "1432261",
+                    "machine_name": "stachys_coccinea",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113279",
+                        "fgsid": "33555",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177355"
+                    }
+                },
+                {
+                    "reference": "1433393",
+                    "machine_name": "stokesia_laevis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113280",
+                        "fgsid": "33846",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177356"
+                    }
+                },
+                {
+                    "reference": "1427754",
+                    "machine_name": "strobilanthes_dyerianus",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113281",
+                        "fgsid": "33912",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177357"
+                    }
+                },
+                {
+                    "reference": "1428937",
+                    "machine_name": "tagetes_lucida",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113282",
+                        "fgsid": "34246",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177358"
+                    }
+                },
+                {
+                    "reference": "1429331",
+                    "machine_name": "taxodium_distichum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113284",
+                        "fgsid": "34351",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177359"
+                    }
+                },
+                {
+                    "reference": "1569041",
+                    "machine_name": "tecoma_stans_gold_star",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113286",
+                        "fgsid": null,
+                        "legacy_id": "179517",
+                        "catalog_source_id": "1177360"
+                    }
+                },
+                {
+                    "reference": "1429701",
+                    "machine_name": "ternstroemia_gymnanthera",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113287",
+                        "fgsid": "34431",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177361"
+                    }
+                },
+                {
+                    "reference": "1432367",
+                    "machine_name": "trachelospermum_asiaticum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113293",
+                        "fgsid": "35104",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177362"
+                    }
+                },
+                {
+                    "reference": "1432368",
+                    "machine_name": "trachelospermum_jasminoides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113295",
+                        "fgsid": "35105",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177363"
+                    }
+                },
+                {
+                    "reference": "1427842",
+                    "machine_name": "tulbaghia_violacea",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113303",
+                        "fgsid": "35540",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177364"
+                    }
+                },
+                {
+                    "reference": "1428249",
+                    "machine_name": "ulmus_crassifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113314",
+                        "fgsid": "35671",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177365"
+                    }
+                },
+                {
+                    "reference": "1430214",
+                    "machine_name": "verbena_tenuisecta",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "113315",
+                        "fgsid": "36012",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177366"
+                    }
+                },
+                {
+                    "reference": "1465838",
+                    "machine_name": "abelia_cultivars_edward_goucher",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122376",
+                        "fgsid": null,
+                        "legacy_id": "3",
+                        "catalog_source_id": "1177123"
+                    }
+                },
+                {
+                    "reference": "1400794",
+                    "machine_name": "abelia_grandiflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122378",
+                        "fgsid": "7",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177124"
+                    }
+                },
+                {
+                    "reference": "1465843",
+                    "machine_name": "abelia_grandiflora_sherwoodii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122380",
+                        "fgsid": null,
+                        "legacy_id": "9",
+                        "catalog_source_id": "1177125"
+                    }
+                },
+                {
+                    "reference": "1463677",
+                    "machine_name": "achillea_cultivars_moonshine",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122388",
+                        "fgsid": null,
+                        "legacy_id": "507",
+                        "catalog_source_id": "1177129"
+                    }
+                },
+                {
+                    "reference": "1463700",
+                    "machine_name": "achillea_millefolium_paprika",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122390",
+                        "fgsid": null,
+                        "legacy_id": "534",
+                        "catalog_source_id": "1177130"
+                    }
+                },
+                {
+                    "reference": "1499495",
+                    "machine_name": "agapanthus_africanus_elaine",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122395",
+                        "fgsid": null,
+                        "legacy_id": "70681",
+                        "catalog_source_id": "1177131"
+                    }
+                },
+                {
+                    "reference": "1400923",
+                    "machine_name": "agave_americana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122396",
+                        "fgsid": "1492",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177132"
+                    }
+                },
+                {
+                    "reference": "1437852",
+                    "machine_name": "agave_desmettiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122399",
+                        "fgsid": "41099",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177133"
+                    }
+                },
+                {
+                    "reference": "1572124",
+                    "machine_name": "agave_desmettiana_variegata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122400",
+                        "fgsid": null,
+                        "legacy_id": "188857",
+                        "catalog_source_id": "1177134"
+                    }
+                },
+                {
+                    "reference": "1437897",
+                    "machine_name": "agave_geminiflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122403",
+                        "fgsid": "41145",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177135"
+                    }
+                },
+                {
+                    "reference": "1400957",
+                    "machine_name": "agave_weberi",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122405",
+                        "fgsid": "1526",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177137"
+                    }
+                },
+                {
+                    "reference": "1465995",
+                    "machine_name": "alpinia_zerumbet_variegata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122406",
+                        "fgsid": null,
+                        "legacy_id": "1153",
+                        "catalog_source_id": "1177138"
+                    }
+                },
+                {
+                    "reference": "1463825",
+                    "machine_name": "aquilegia_chrysantha_texas_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122408",
+                        "fgsid": null,
+                        "legacy_id": "1573",
+                        "catalog_source_id": "1177139"
+                    }
+                },
+                {
+                    "reference": "1401411",
+                    "machine_name": "ardisia_japonica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122409",
+                        "fgsid": "3061",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177140"
+                    }
+                },
+                {
+                    "reference": "1463940",
+                    "machine_name": "artemisia_cultivars_powis_castle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122411",
+                        "fgsid": null,
+                        "legacy_id": "1694",
+                        "catalog_source_id": "1177141"
+                    }
+                },
+                {
+                    "reference": "1402975",
+                    "machine_name": "asclepias_curassavica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122412",
+                        "fgsid": "3467",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177142"
+                    }
+                },
+                {
+                    "reference": "1464056",
+                    "machine_name": "asparagus_densiflorus_sprengeri",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122413",
+                        "fgsid": null,
+                        "legacy_id": "1813",
+                        "catalog_source_id": "1177143"
+                    }
+                },
+                {
+                    "reference": "1403360",
+                    "machine_name": "aspidistra_elatior",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122418",
+                        "fgsid": "3567",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177144"
+                    }
+                },
+                {
+                    "reference": "1454429",
+                    "machine_name": "symphyotrichum_oblongifolium",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122420",
+                        "fgsid": "105039",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177145"
+                    }
+                },
+                {
+                    "reference": "1464231",
+                    "machine_name": "aucuba_japonica_variegata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122421",
+                        "fgsid": null,
+                        "legacy_id": "1999",
+                        "catalog_source_id": "1177146"
+                    }
+                },
+                {
+                    "reference": "1429795",
+                    "machine_name": "viburnum_obovatum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122426",
+                        "fgsid": "36178",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177368"
+                    }
+                },
+                {
+                    "reference": "1429796",
+                    "machine_name": "viburnum_odoratissimum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122427",
+                        "fgsid": "36179",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177369"
+                    }
+                },
+                {
+                    "reference": "1438998",
+                    "machine_name": "viburnum_suspensum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122429",
+                        "fgsid": "41432",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177370"
+                    }
+                },
+                {
+                    "reference": "1530585",
+                    "machine_name": "viburnum_tinus_compactum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122431",
+                        "fgsid": null,
+                        "legacy_id": "104255",
+                        "catalog_source_id": "1177371"
+                    }
+                },
+                {
+                    "reference": "1531468",
+                    "machine_name": "vitex_agnus_castus_montrose_purple",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122432",
+                        "fgsid": null,
+                        "legacy_id": "104506",
+                        "catalog_source_id": "1177372"
+                    }
+                },
+                {
+                    "reference": "1437922",
+                    "machine_name": "wedelia_trilobata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122433",
+                        "fgsid": "36623",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177373"
+                    }
+                },
+                {
+                    "reference": "1527815",
+                    "machine_name": "wisteria_sinensis_cooke_s_purple",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122435",
+                        "fgsid": null,
+                        "legacy_id": "104690",
+                        "catalog_source_id": "1177374"
+                    }
+                },
+                {
+                    "reference": "1408772",
+                    "machine_name": "cuprocyparis_leylandii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "122436",
+                        "fgsid": "9593",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177375"
+                    }
+                },
+                {
+                    "reference": "1550282",
+                    "machine_name": "camellia_japonica_lady_laura",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124480",
+                        "fgsid": null,
+                        "legacy_id": "122887",
+                        "catalog_source_id": "1177177"
+                    }
+                },
+                {
+                    "reference": "1635462",
+                    "machine_name": "camellia_japonica_professor_charles_s_sargent",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124481",
+                        "fgsid": null,
+                        "legacy_id": "295396",
+                        "catalog_source_id": "1177178"
+                    }
+                },
+                {
+                    "reference": "1573397",
+                    "machine_name": "camellia_japonica_victory_white",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124482",
+                        "fgsid": null,
+                        "legacy_id": "192538",
+                        "catalog_source_id": "1177179"
+                    }
+                },
+                {
+                    "reference": "1465787",
+                    "machine_name": "camellia_hiemalis_shishigashira",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124483",
+                        "fgsid": null,
+                        "legacy_id": "3640",
+                        "catalog_source_id": "1177180"
+                    }
+                },
+                {
+                    "reference": "1465383",
+                    "machine_name": "camellia_vernalis_yuletide",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124484",
+                        "fgsid": null,
+                        "legacy_id": "3439",
+                        "catalog_source_id": "1177181"
+                    }
+                },
+                {
+                    "reference": "1405172",
+                    "machine_name": "cercis_canadensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124485",
+                        "fgsid": "7097",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177182"
+                    }
+                },
+                {
+                    "reference": "1467326",
+                    "machine_name": "cercis_canadensis_forest_pansy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124486",
+                        "fgsid": null,
+                        "legacy_id": "4465",
+                        "catalog_source_id": "1177183"
+                    }
+                },
+                {
+                    "reference": "1503175",
+                    "machine_name": "cercis_canadensis_texensis",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124487",
+                        "fgsid": null,
+                        "legacy_id": "74094",
+                        "catalog_source_id": "1177184"
+                    }
+                },
+                {
+                    "reference": "1405914",
+                    "machine_name": "chamaerops_humilis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124489",
+                        "fgsid": "7273",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177186"
+                    }
+                },
+                {
+                    "reference": "1406304",
+                    "machine_name": "chilopsis_linearis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124490",
+                        "fgsid": "7377",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177187"
+                    }
+                },
+                {
+                    "reference": "1433813",
+                    "machine_name": "chrysactinia_mexicana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124491",
+                        "fgsid": "40041",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177188"
+                    }
+                },
+                {
+                    "reference": "1638198",
+                    "machine_name": "citrus_unshiu_miho",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124492",
+                        "fgsid": null,
+                        "legacy_id": "329364",
+                        "catalog_source_id": "1177189"
+                    }
+                },
+                {
+                    "reference": "1638199",
+                    "machine_name": "citrus_unshiu_seto",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124493",
+                        "fgsid": null,
+                        "legacy_id": "329365",
+                        "catalog_source_id": "1177190"
+                    }
+                },
+                {
+                    "reference": "1426367",
+                    "machine_name": "platanus_mexicana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124494",
+                        "fgsid": "27638",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177315"
+                    }
+                },
+                {
+                    "reference": "1486616",
+                    "machine_name": "podocarpus_macrophyllus_maki",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124495",
+                        "fgsid": null,
+                        "legacy_id": "24385",
+                        "catalog_source_id": "1177316"
+                    }
+                },
+                {
+                    "reference": "1421956",
+                    "machine_name": "poliomintha_longiflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124496",
+                        "fgsid": "27909",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177317"
+                    }
+                },
+                {
+                    "reference": "1526215",
+                    "machine_name": "prunus_caroliniana_compacta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124515",
+                        "fgsid": null,
+                        "legacy_id": "97262",
+                        "catalog_source_id": "1177318"
+                    }
+                },
+                {
+                    "reference": "1526218",
+                    "machine_name": "prunus_cerasifera_krauter_vesuvius",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124523",
+                        "fgsid": null,
+                        "legacy_id": "97266",
+                        "catalog_source_id": "1177319"
+                    }
+                },
+                {
+                    "reference": "1425358",
+                    "machine_name": "prunus_mexicana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124528",
+                        "fgsid": "28773",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177320"
+                    }
+                },
+                {
+                    "reference": "1490475",
+                    "machine_name": "punica_granatum_nana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124529",
+                        "fgsid": null,
+                        "legacy_id": "25368",
+                        "catalog_source_id": "1177321"
+                    }
+                },
+                {
+                    "reference": "1490808",
+                    "machine_name": "pyrus_calleryana_bradford",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124530",
+                        "fgsid": null,
+                        "legacy_id": "25480",
+                        "catalog_source_id": "1177322"
+                    }
+                },
+                {
+                    "reference": "1421727",
+                    "machine_name": "quercus_macrocarpa",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124531",
+                        "fgsid": "29352",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177323"
+                    }
+                },
+                {
+                    "reference": "1421736",
+                    "machine_name": "quercus_muehlenbergii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "124535",
+                        "fgsid": "29361",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177324"
+                    }
+                },
+                {
+                    "reference": "1559468",
+                    "machine_name": "cordyline_australis_red_sensation",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "126908",
+                        "fgsid": null,
+                        "legacy_id": "154924",
+                        "catalog_source_id": "895847"
+                    }
+                },
+                {
+                    "reference": "1487007",
+                    "machine_name": "rhododendron_cultivars_amagasa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127294",
+                        "fgsid": null,
+                        "legacy_id": "25739",
+                        "catalog_source_id": "1177147"
+                    }
+                },
+                {
+                    "reference": "1525747",
+                    "machine_name": "rhododendron_cultivars_fashion",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127295",
+                        "fgsid": null,
+                        "legacy_id": "98314",
+                        "catalog_source_id": "1177148"
+                    }
+                },
+                {
+                    "reference": "1466431",
+                    "machine_name": "agapanthus_cultivars_ellamae",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127297",
+                        "fgsid": null,
+                        "legacy_id": "783",
+                        "catalog_source_id": "1072367"
+                    }
+                },
+                {
+                    "reference": "1525775",
+                    "machine_name": "rhododendron_cultivars_formosa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127298",
+                        "fgsid": null,
+                        "legacy_id": "98343",
+                        "catalog_source_id": "1177150"
+                    }
+                },
+                {
+                    "reference": "1592557",
+                    "machine_name": "hedychium_cultivars_white_butterfly",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127299",
+                        "fgsid": null,
+                        "legacy_id": "321702",
+                        "catalog_source_id": "895860"
+                    }
+                },
+                {
+                    "reference": "1526008",
+                    "machine_name": "rhododendron_cultivars_g_g_gerbing",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127300",
+                        "fgsid": null,
+                        "legacy_id": "98367",
+                        "catalog_source_id": "1177151"
+                    }
+                },
+                {
+                    "reference": "1526036",
+                    "machine_name": "rhododendron_cultivars_george_lindley_tabor",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127301",
+                        "fgsid": null,
+                        "legacy_id": "98397",
+                        "catalog_source_id": "1177152"
+                    }
+                },
+                {
+                    "reference": "1527149",
+                    "machine_name": "rhododendron_cultivars_judge_solomon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127302",
+                        "fgsid": null,
+                        "legacy_id": "98681",
+                        "catalog_source_id": "1177153"
+                    }
+                },
+                {
+                    "reference": "1525230",
+                    "machine_name": "rhododendron_cultivars_red_formosa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127303",
+                        "fgsid": null,
+                        "legacy_id": "99289",
+                        "catalog_source_id": "1177154"
+                    }
+                },
+                {
+                    "reference": "1418654",
+                    "machine_name": "hesperaloe_parviflora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127304",
+                        "fgsid": "18131",
+                        "legacy_id": null,
+                        "catalog_source_id": "1072422"
+                    }
+                },
+                {
+                    "reference": "1499598",
+                    "machine_name": "bambusa_multiplex_riviereorum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127305",
+                        "fgsid": null,
+                        "legacy_id": "71898",
+                        "catalog_source_id": "1177155"
+                    }
+                },
+                {
+                    "reference": "1433932",
+                    "machine_name": "bambusa_textilis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127306",
+                        "fgsid": "41572",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177156"
+                    }
+                },
+                {
+                    "reference": "1464588",
+                    "machine_name": "berberis_thunbergii_atropurpurea_nana_crimson_pygmy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127307",
+                        "fgsid": null,
+                        "legacy_id": "2383",
+                        "catalog_source_id": "1177157"
+                    }
+                },
+                {
+                    "reference": "1514762",
+                    "machine_name": "iris_cultivars_sinfonietta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127312",
+                        "fgsid": null,
+                        "legacy_id": "88471",
+                        "catalog_source_id": "895871"
+                    }
+                },
+                {
+                    "reference": "1464595",
+                    "machine_name": "berberis_thunbergii_rosy_glow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127317",
+                        "fgsid": null,
+                        "legacy_id": "2391",
+                        "catalog_source_id": "1177158"
+                    }
+                },
+                {
+                    "reference": "1401493",
+                    "machine_name": "betula_nigra",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127324",
+                        "fgsid": "4529",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177159"
+                    }
+                },
+                {
+                    "reference": "1464878",
+                    "machine_name": "buddleja_davidii_pink_delight",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127325",
+                        "fgsid": null,
+                        "legacy_id": "3151",
+                        "catalog_source_id": "1177166"
+                    }
+                },
+                {
+                    "reference": "1498505",
+                    "machine_name": "bulbine_frutescens_yellow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127326",
+                        "fgsid": null,
+                        "legacy_id": "72790",
+                        "catalog_source_id": "1177168"
+                    }
+                },
+                {
+                    "reference": "1464917",
+                    "machine_name": "buxus_microphylla_winter_gem",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127328",
+                        "fgsid": null,
+                        "legacy_id": "3190",
+                        "catalog_source_id": "1177169"
+                    }
+                },
+                {
+                    "reference": "1464911",
+                    "machine_name": "buxus_microphylla_japonica",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127330",
+                        "fgsid": null,
+                        "legacy_id": "3184",
+                        "catalog_source_id": "1177170"
+                    }
+                },
+                {
+                    "reference": "1503418",
+                    "machine_name": "chaenomeles_superba_texas_scarlet",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127335",
+                        "fgsid": null,
+                        "legacy_id": "74124",
+                        "catalog_source_id": "1177185"
+                    }
+                },
+                {
+                    "reference": "1515180",
+                    "machine_name": "liriope_muscari_big_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127337",
+                        "fgsid": null,
+                        "legacy_id": "90873",
+                        "catalog_source_id": "895902"
+                    }
+                },
+                {
+                    "reference": "1405665",
+                    "machine_name": "cortaderia_selloana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127339",
+                        "fgsid": "8769",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177194"
+                    }
+                },
+                {
+                    "reference": "1521221",
+                    "machine_name": "miscanthus_sinensis_adagio",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127340",
+                        "fgsid": null,
+                        "legacy_id": "92504",
+                        "catalog_source_id": "895904"
+                    }
+                },
+                {
+                    "reference": "1482387",
+                    "machine_name": "miscanthus_sinensis_gracillimus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127341",
+                        "fgsid": null,
+                        "legacy_id": "19607",
+                        "catalog_source_id": "895905"
+                    }
+                },
+                {
+                    "reference": "1406796",
+                    "machine_name": "cotoneaster_glaucophyllus",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127342",
+                        "fgsid": "9064",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177195"
+                    }
+                },
+                {
+                    "reference": "1409153",
+                    "machine_name": "cycas_revoluta",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127343",
+                        "fgsid": "9692",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177198"
+                    }
+                },
+                {
+                    "reference": "1444259",
+                    "machine_name": "dryopteris_erythrosora",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127344",
+                        "fgsid": "42862",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177201"
+                    }
+                },
+                {
+                    "reference": "1413157",
+                    "machine_name": "elaeagnus_ebbingei",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127346",
+                        "fgsid": "12260",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177203"
+                    }
+                },
+                {
+                    "reference": "1522001",
+                    "machine_name": "nandina_domestica_compacta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127347",
+                        "fgsid": null,
+                        "legacy_id": "92668",
+                        "catalog_source_id": "895910"
+                    }
+                },
+                {
+                    "reference": "1474866",
+                    "machine_name": "ensete_ventricosum_maurellii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127348",
+                        "fgsid": null,
+                        "legacy_id": "8928",
+                        "catalog_source_id": "1177204"
+                    }
+                },
+                {
+                    "reference": "1622417",
+                    "machine_name": "nandina_domestica_gulf_stream",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127349",
+                        "fgsid": null,
+                        "legacy_id": "358738",
+                        "catalog_source_id": "895912"
+                    }
+                },
+                {
+                    "reference": "1482716",
+                    "machine_name": "nandina_domestica_harbor_dwarf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127351",
+                        "fgsid": null,
+                        "legacy_id": "19747",
+                        "catalog_source_id": "895913"
+                    }
+                },
+                {
+                    "reference": "1413340",
+                    "machine_name": "ficus_pumila",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127352",
+                        "fgsid": "15332",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177206"
+                    }
+                },
+                {
+                    "reference": "1475815",
+                    "machine_name": "gardenia_cultivars_august_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127354",
+                        "fgsid": null,
+                        "legacy_id": "10399",
+                        "catalog_source_id": "1177207"
+                    }
+                },
+                {
+                    "reference": "1506895",
+                    "machine_name": "gardenia_augusta_radicans",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127357",
+                        "fgsid": null,
+                        "legacy_id": "79642",
+                        "catalog_source_id": "1177208"
+                    }
+                },
+                {
+                    "reference": "1506897",
+                    "machine_name": "gardenia_augusta_veitchii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127359",
+                        "fgsid": null,
+                        "legacy_id": "79644",
+                        "catalog_source_id": "1177209"
+                    }
+                },
+                {
+                    "reference": "1482715",
+                    "machine_name": "nandina_domestica_fire_power",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127361",
+                        "fgsid": null,
+                        "legacy_id": "19746",
+                        "catalog_source_id": "895917"
+                    }
+                },
+                {
+                    "reference": "1410075",
+                    "machine_name": "hamelia_patens",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127362",
+                        "fgsid": "17465",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177212"
+                    }
+                },
+                {
+                    "reference": "1441005",
+                    "machine_name": "nassella_tenuissima",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127363",
+                        "fgsid": "64455",
+                        "legacy_id": null,
+                        "catalog_source_id": "895920"
+                    }
+                },
+                {
+                    "reference": "1506118",
+                    "machine_name": "hemerocallis_cultivars_aztec_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127367",
+                        "fgsid": null,
+                        "legacy_id": "80576",
+                        "catalog_source_id": "1177213"
+                    }
+                },
+                {
+                    "reference": "1522732",
+                    "machine_name": "pennisetum_alopecuroides_hameln",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127370",
+                        "fgsid": null,
+                        "legacy_id": "95176",
+                        "catalog_source_id": "895923"
+                    }
+                },
+                {
+                    "reference": "1476220",
+                    "machine_name": "hemerocallis_cultivars_barbara_mitchell",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127373",
+                        "fgsid": null,
+                        "legacy_id": "11792",
+                        "catalog_source_id": "1177214"
+                    }
+                },
+                {
+                    "reference": "1474178",
+                    "machine_name": "hemerocallis_cultivars_joan_senior",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127374",
+                        "fgsid": null,
+                        "legacy_id": "12461",
+                        "catalog_source_id": "1177215"
+                    }
+                },
+                {
+                    "reference": "1522735",
+                    "machine_name": "pennisetum_alopecuroides_little_bunny",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127379",
+                        "fgsid": null,
+                        "legacy_id": "95179",
+                        "catalog_source_id": "895928"
+                    }
+                },
+                {
+                    "reference": "1474477",
+                    "machine_name": "hemerocallis_cultivars_leebea_orange_crush",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127381",
+                        "fgsid": null,
+                        "legacy_id": "12541",
+                        "catalog_source_id": "1177216"
+                    }
+                },
+                {
+                    "reference": "1471853",
+                    "machine_name": "hemerocallis_cultivars_stella_de_oro",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "127386",
+                        "fgsid": null,
+                        "legacy_id": "13173",
+                        "catalog_source_id": "1177217"
+                    }
+                },
+                {
+                    "reference": "1559468",
+                    "machine_name": "cordyline_australis_red_sensation",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135148",
+                        "fgsid": null,
+                        "legacy_id": "154924",
+                        "catalog_source_id": "1177191"
+                    }
+                },
+                {
+                    "reference": "1470746",
+                    "machine_name": "coreopsis_grandiflora_early_sunrise",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135152",
+                        "fgsid": null,
+                        "legacy_id": "5376",
+                        "catalog_source_id": "1177192"
+                    }
+                },
+                {
+                    "reference": "1470748",
+                    "machine_name": "coreopsis_verticillata_moonbeam",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135153",
+                        "fgsid": null,
+                        "legacy_id": "5379",
+                        "catalog_source_id": "1177193"
+                    }
+                },
+                {
+                    "reference": "1408766",
+                    "machine_name": "cuphea_hyssopifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135155",
+                        "fgsid": "9587",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177196"
+                    }
+                },
+                {
+                    "reference": "1408768",
+                    "machine_name": "cuphea_llavea",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135157",
+                        "fgsid": "9589",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177197"
+                    }
+                },
+                {
+                    "reference": "1444257",
+                    "machine_name": "cyrtomium_falcatum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135158",
+                        "fgsid": "42860",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177199"
+                    }
+                },
+                {
+                    "reference": "1549732",
+                    "machine_name": "dianella_tasmanica_variegata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135161",
+                        "fgsid": null,
+                        "legacy_id": "123938",
+                        "catalog_source_id": "1177200"
+                    }
+                },
+                {
+                    "reference": "1442499",
+                    "machine_name": "dryopteris_normalis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135163",
+                        "fgsid": "43808",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177202"
+                    }
+                },
+                {
+                    "reference": "1485704",
+                    "machine_name": "nerium_oleander_turner_s_shari_d",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135166",
+                        "fgsid": null,
+                        "legacy_id": "20517",
+                        "catalog_source_id": "1177290"
+                    }
+                },
+                {
+                    "reference": "1522076",
+                    "machine_name": "ophiopogon_jaburan_vittatus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135172",
+                        "fgsid": null,
+                        "legacy_id": "93856",
+                        "catalog_source_id": "1177292"
+                    }
+                },
+                {
+                    "reference": "1522083",
+                    "machine_name": "ophiopogon_japonicus_nanus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135173",
+                        "fgsid": null,
+                        "legacy_id": "93863",
+                        "catalog_source_id": "1177293"
+                    }
+                },
+                {
+                    "reference": "1427288",
+                    "machine_name": "ophiopogon_japonicus",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135175",
+                        "fgsid": "24897",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177294"
+                    }
+                },
+                {
+                    "reference": "1422913",
+                    "machine_name": "orthosiphon_stamineus",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135176",
+                        "fgsid": "25277",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177295"
+                    }
+                },
+                {
+                    "reference": "1422931",
+                    "machine_name": "osmanthus_fragrans",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135177",
+                        "fgsid": "25297",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177296"
+                    }
+                },
+                {
+                    "reference": "1520766",
+                    "machine_name": "panicum_virgatum_prairie_sky",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135178",
+                        "fgsid": null,
+                        "legacy_id": "94663",
+                        "catalog_source_id": "1177297"
+                    }
+                },
+                {
+                    "reference": "1425910",
+                    "machine_name": "passiflora_coccinea",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135179",
+                        "fgsid": "26038",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177298"
+                    }
+                },
+                {
+                    "reference": "1425928",
+                    "machine_name": "passiflora_incarnata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135182",
+                        "fgsid": "26056",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177299"
+                    }
+                },
+                {
+                    "reference": "1426270",
+                    "machine_name": "pavonia_lasiopetala",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135185",
+                        "fgsid": "26120",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177300"
+                    }
+                },
+                {
+                    "reference": "1620956",
+                    "machine_name": "pennisetum_alopecuroides_cassian_s_choice",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135186",
+                        "fgsid": null,
+                        "legacy_id": "348138",
+                        "catalog_source_id": "1177301"
+                    }
+                },
+                {
+                    "reference": "1485593",
+                    "machine_name": "pennisetum_alopecuroides_moudry",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135187",
+                        "fgsid": null,
+                        "legacy_id": "22897",
+                        "catalog_source_id": "1177302"
+                    }
+                },
+                {
+                    "reference": "1442072",
+                    "machine_name": "penstemon_tenuis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135189",
+                        "fgsid": "42252",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177303"
+                    }
+                },
+                {
+                    "reference": "1601055",
+                    "machine_name": "pentas_cultivars_graffiti_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135192",
+                        "fgsid": null,
+                        "legacy_id": "228618",
+                        "catalog_source_id": "1177304"
+                    }
+                },
+                {
+                    "reference": "1421920",
+                    "machine_name": "perovskia_atriplicifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135194",
+                        "fgsid": "26555",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177305"
+                    }
+                },
+                {
+                    "reference": "1569286",
+                    "machine_name": "petunia_cultivars_laura_bush",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135196",
+                        "fgsid": null,
+                        "legacy_id": "179676",
+                        "catalog_source_id": "1177306"
+                    }
+                },
+                {
+                    "reference": "1423767",
+                    "machine_name": "photinia_fraseri",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135199",
+                        "fgsid": "26995",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177308"
+                    }
+                },
+                {
+                    "reference": "1424137",
+                    "machine_name": "phyllostachys_bambusoides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135201",
+                        "fgsid": "27089",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177309"
+                    }
+                },
+                {
+                    "reference": "1425622",
+                    "machine_name": "pinus_taeda",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135202",
+                        "fgsid": "27449",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177310"
+                    }
+                },
+                {
+                    "reference": "1425658",
+                    "machine_name": "pistacia_chinensis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135206",
+                        "fgsid": "27486",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177311"
+                    }
+                },
+                {
+                    "reference": "1486313",
+                    "machine_name": "pittosporum_tobira_variegatum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135209",
+                        "fgsid": null,
+                        "legacy_id": "24303",
+                        "catalog_source_id": "1177312"
+                    }
+                },
+                {
+                    "reference": "1518635",
+                    "machine_name": "pittosporum_tobira_wheeler_s_dwarf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "135212",
+                        "fgsid": null,
+                        "legacy_id": "96459",
+                        "catalog_source_id": "1177313"
+                    }
+                },
+                {
+                    "reference": "1426006",
+                    "machine_name": "pittosporum_tobira",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "136528",
+                        "fgsid": "27555",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177314"
+                    }
+                },
+                {
+                    "reference": "1557916",
+                    "machine_name": "hemerocallis_cultivars_sunscape",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140240",
+                        "fgsid": null,
+                        "legacy_id": "154344",
+                        "catalog_source_id": "1177218"
+                    }
+                },
+                {
+                    "reference": "1511433",
+                    "machine_name": "ilex_attenuata_east_palatka",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140242",
+                        "fgsid": null,
+                        "legacy_id": "85268",
+                        "catalog_source_id": "1177227"
+                    }
+                },
+                {
+                    "reference": "1511441",
+                    "machine_name": "ilex_attenuata_savannah",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140243",
+                        "fgsid": null,
+                        "legacy_id": "85277",
+                        "catalog_source_id": "1177228"
+                    }
+                },
+                {
+                    "reference": "1418400",
+                    "machine_name": "jasminum_mesnyi",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140292",
+                        "fgsid": "19621",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177230"
+                    }
+                },
+                {
+                    "reference": "1513943",
+                    "machine_name": "juniperus_chinensis_spartan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140293",
+                        "fgsid": null,
+                        "legacy_id": "89387",
+                        "catalog_source_id": "1177233"
+                    }
+                },
+                {
+                    "reference": "1514005",
+                    "machine_name": "juniperus_procumbens_green_mound",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140296",
+                        "fgsid": null,
+                        "legacy_id": "89450",
+                        "catalog_source_id": "1177234"
+                    }
+                },
+                {
+                    "reference": "1418823",
+                    "machine_name": "juniperus_horizontalis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140298",
+                        "fgsid": "19760",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177235"
+                    }
+                },
+                {
+                    "reference": "1567689",
+                    "machine_name": "lagerstroemia_indica_tightwad_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140299",
+                        "fgsid": null,
+                        "legacy_id": "174956",
+                        "catalog_source_id": "1177240"
+                    }
+                },
+                {
+                    "reference": "1583331",
+                    "machine_name": "lagerstroemia_indica_burgundy_cotton",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140300",
+                        "fgsid": null,
+                        "legacy_id": "208155",
+                        "catalog_source_id": "1177241"
+                    }
+                },
+                {
+                    "reference": "1515130",
+                    "machine_name": "lagerstroemia_indica_basham_s_party_pink",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140302",
+                        "fgsid": null,
+                        "legacy_id": "89736",
+                        "catalog_source_id": "1177242"
+                    }
+                },
+                {
+                    "reference": "1477166",
+                    "machine_name": "lagerstroemia_cultivars_natchez",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140308",
+                        "fgsid": null,
+                        "legacy_id": "16981",
+                        "catalog_source_id": "1177243"
+                    }
+                },
+                {
+                    "reference": "1477171",
+                    "machine_name": "lagerstroemia_cultivars_tuscarora",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140309",
+                        "fgsid": null,
+                        "legacy_id": "16986",
+                        "catalog_source_id": "1177244"
+                    }
+                },
+                {
+                    "reference": "1515424",
+                    "machine_name": "lantana_camara_confetti",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140310",
+                        "fgsid": null,
+                        "legacy_id": "89820",
+                        "catalog_source_id": "1177245"
+                    }
+                },
+                {
+                    "reference": "1569040",
+                    "machine_name": "nandina_domestica_harbor_belle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140312",
+                        "fgsid": null,
+                        "legacy_id": "179516",
+                        "catalog_source_id": "1177285"
+                    }
+                },
+                {
+                    "reference": "1521247",
+                    "machine_name": "nerium_oleander_hardy_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140313",
+                        "fgsid": null,
+                        "legacy_id": "93649",
+                        "catalog_source_id": "1177286"
+                    }
+                },
+                {
+                    "reference": "1485698",
+                    "machine_name": "nerium_oleander_petite_pink",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140314",
+                        "fgsid": null,
+                        "legacy_id": "20511",
+                        "catalog_source_id": "1177287"
+                    }
+                },
+                {
+                    "reference": "1521260",
+                    "machine_name": "nerium_oleander_pink_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140315",
+                        "fgsid": null,
+                        "legacy_id": "93662",
+                        "catalog_source_id": "1177288"
+                    }
+                },
+                {
+                    "reference": "1539170",
+                    "machine_name": "nerium_oleander_turner_s_carnival",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140316",
+                        "fgsid": null,
+                        "legacy_id": "113951",
+                        "catalog_source_id": "1177289"
+                    }
+                },
+                {
+                    "reference": "1523790",
+                    "machine_name": "rhaphiolepis_indica_snow_white",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "147165",
+                        "fgsid": null,
+                        "legacy_id": "97793",
+                        "catalog_source_id": "1177629"
+                    }
+                },
+                {
+                    "reference": "1516536",
+                    "machine_name": "ligustrum_japonicum_texanum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148232",
+                        "fgsid": null,
+                        "legacy_id": "90100",
+                        "catalog_source_id": "1177257"
+                    }
+                },
+                {
+                    "reference": "1478116",
+                    "machine_name": "ligustrum_sinense_variegatum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148233",
+                        "fgsid": null,
+                        "legacy_id": "17259",
+                        "catalog_source_id": "1177258"
+                    }
+                },
+                {
+                    "reference": "1515179",
+                    "machine_name": "liriope_muscari_aztec_grass",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148234",
+                        "fgsid": null,
+                        "legacy_id": "90872",
+                        "catalog_source_id": "1177259"
+                    }
+                },
+                {
+                    "reference": "1515184",
+                    "machine_name": "liriope_muscari_evergreen_giant",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148235",
+                        "fgsid": null,
+                        "legacy_id": "90877",
+                        "catalog_source_id": "1177260"
+                    }
+                },
+                {
+                    "reference": "1479638",
+                    "machine_name": "liriope_muscari_silvery_sunproof",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148236",
+                        "fgsid": null,
+                        "legacy_id": "17661",
+                        "catalog_source_id": "1177261"
+                    }
+                },
+                {
+                    "reference": "1655872",
+                    "machine_name": "loropetalum_chinense_purple_majesty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148237",
+                        "fgsid": null,
+                        "legacy_id": "273576",
+                        "catalog_source_id": "1177262"
+                    }
+                },
+                {
+                    "reference": "1516024",
+                    "machine_name": "loropetalum_chinense_zhuzhou_fuchsia",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148238",
+                        "fgsid": null,
+                        "legacy_id": "91092",
+                        "catalog_source_id": "1177263"
+                    }
+                },
+                {
+                    "reference": "1555142",
+                    "machine_name": "lotus_cultivars_amazon_sunset",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148239",
+                        "fgsid": null,
+                        "legacy_id": "146242",
+                        "catalog_source_id": "1177264"
+                    }
+                },
+                {
+                    "reference": "1567421",
+                    "machine_name": "lysimachia_procumbens_aurea_variegata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148240",
+                        "fgsid": null,
+                        "legacy_id": "174897",
+                        "catalog_source_id": "1177265"
+                    }
+                },
+                {
+                    "reference": "1517408",
+                    "machine_name": "lysimachia_cultivars_golden_globes",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148241",
+                        "fgsid": null,
+                        "legacy_id": "91420",
+                        "catalog_source_id": "1177266"
+                    }
+                },
+                {
+                    "reference": "1477573",
+                    "machine_name": "magnolia_grandiflora_little_gem",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148242",
+                        "fgsid": null,
+                        "legacy_id": "18441",
+                        "catalog_source_id": "1177267"
+                    }
+                },
+                {
+                    "reference": "1477578",
+                    "machine_name": "magnolia_grandiflora_samuel_sommer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148243",
+                        "fgsid": null,
+                        "legacy_id": "18446",
+                        "catalog_source_id": "1177268"
+                    }
+                },
+                {
+                    "reference": "1421505",
+                    "machine_name": "mahonia_bealei",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148244",
+                        "fgsid": "21906",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177269"
+                    }
+                },
+                {
+                    "reference": "1436076",
+                    "machine_name": "mahonia_fortunei",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148245",
+                        "fgsid": "40664",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177270"
+                    }
+                },
+                {
+                    "reference": "1485344",
+                    "machine_name": "malvaviscus_arboreus_drummondii",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148246",
+                        "fgsid": null,
+                        "legacy_id": "19205",
+                        "catalog_source_id": "1177271"
+                    }
+                },
+                {
+                    "reference": "1417429",
+                    "machine_name": "manettia_inflata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148247",
+                        "fgsid": "22375",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177272"
+                    }
+                },
+                {
+                    "reference": "1442755",
+                    "machine_name": "melampodium_leucanthum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148248",
+                        "fgsid": "42399",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177273"
+                    }
+                },
+                {
+                    "reference": "1420066",
+                    "machine_name": "metasequoia_glyptostroboides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148249",
+                        "fgsid": "23005",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177274"
+                    }
+                },
+                {
+                    "reference": "1420451",
+                    "machine_name": "millettia_reticulata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148252",
+                        "fgsid": "23114",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177275"
+                    }
+                },
+                {
+                    "reference": "1482392",
+                    "machine_name": "miscanthus_sinensis_morning_light",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148255",
+                        "fgsid": null,
+                        "legacy_id": "19613",
+                        "catalog_source_id": "1177276"
+                    }
+                },
+                {
+                    "reference": "1482399",
+                    "machine_name": "miscanthus_sinensis_variegatus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148260",
+                        "fgsid": null,
+                        "legacy_id": "19622",
+                        "catalog_source_id": "1177277"
+                    }
+                },
+                {
+                    "reference": "1482400",
+                    "machine_name": "miscanthus_sinensis_yaku_jima",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148261",
+                        "fgsid": null,
+                        "legacy_id": "19623",
+                        "catalog_source_id": "1177278"
+                    }
+                },
+                {
+                    "reference": "1444251",
+                    "machine_name": "muhlenbergia_capillaris",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148263",
+                        "fgsid": "42854",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177280"
+                    }
+                },
+                {
+                    "reference": "1440109",
+                    "machine_name": "muhlenbergia_dumosa",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148264",
+                        "fgsid": "44614",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177281"
+                    }
+                },
+                {
+                    "reference": "1439674",
+                    "machine_name": "muhlenbergia_lindheimeri",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148301",
+                        "fgsid": "43096",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177282"
+                    }
+                },
+                {
+                    "reference": "1416069",
+                    "machine_name": "myrica_cerifera",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148304",
+                        "fgsid": "23664",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177283"
+                    }
+                },
+                {
+                    "reference": "1521779",
+                    "machine_name": "myrica_cerifera_don_s_dwarf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "148305",
+                        "fgsid": null,
+                        "legacy_id": "92656",
+                        "catalog_source_id": "1177284"
+                    }
+                },
+                {
+                    "reference": "1421739",
+                    "machine_name": "quercus_nigra",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150791",
+                        "fgsid": "29364",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177325"
+                    }
+                },
+                {
+                    "reference": "1421750",
+                    "machine_name": "quercus_polymorpha",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150792",
+                        "fgsid": "29376",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177326"
+                    }
+                },
+                {
+                    "reference": "1422044",
+                    "machine_name": "quercus_shumardii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150793",
+                        "fgsid": "29392",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177327"
+                    }
+                },
+                {
+                    "reference": "1422057",
+                    "machine_name": "quercus_virginiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150794",
+                        "fgsid": "29405",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177328"
+                    }
+                },
+                {
+                    "reference": "1422071",
+                    "machine_name": "quisqualis_indica",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150795",
+                        "fgsid": "29419",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177329"
+                    }
+                },
+                {
+                    "reference": "1433184",
+                    "machine_name": "rivina_humilis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150796",
+                        "fgsid": "30745",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177330"
+                    }
+                },
+                {
+                    "reference": "1493229",
+                    "machine_name": "rosa_banksiae_lutea",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150798",
+                        "fgsid": null,
+                        "legacy_id": "30959",
+                        "catalog_source_id": "1177331"
+                    }
+                },
+                {
+                    "reference": "1536081",
+                    "machine_name": "rosa_cultivars_belinda_s_dream",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150802",
+                        "fgsid": null,
+                        "legacy_id": "106987",
+                        "catalog_source_id": "1177332"
+                    }
+                },
+                {
+                    "reference": "1492583",
+                    "machine_name": "rosa_cultivars_nearly_wild",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150803",
+                        "fgsid": null,
+                        "legacy_id": "29636",
+                        "catalog_source_id": "1177333"
+                    }
+                },
+                {
+                    "reference": "1544359",
+                    "machine_name": "rosa_cultivars_knock_out_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150804",
+                        "fgsid": null,
+                        "legacy_id": "118876",
+                        "catalog_source_id": "1177334"
+                    }
+                },
+                {
+                    "reference": "1493863",
+                    "machine_name": "ruellia_brittoniana_katie_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150807",
+                        "fgsid": null,
+                        "legacy_id": "31162",
+                        "catalog_source_id": "1177336"
+                    }
+                },
+                {
+                    "reference": "1538386",
+                    "machine_name": "ruellia_brittoniana_pink_katie_s",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150808",
+                        "fgsid": null,
+                        "legacy_id": "114912",
+                        "catalog_source_id": "1177337"
+                    }
+                },
+                {
+                    "reference": "1442228",
+                    "machine_name": "ruellia_elegans",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150809",
+                        "fgsid": "45115",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177338"
+                    }
+                },
+                {
+                    "reference": "1428709",
+                    "machine_name": "ruellia_humilis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150811",
+                        "fgsid": "31129",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177339"
+                    }
+                },
+                {
+                    "reference": "1428779",
+                    "machine_name": "russelia_equisetiformis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150812",
+                        "fgsid": "31202",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177340"
+                    }
+                },
+                {
+                    "reference": "1495621",
+                    "machine_name": "salvia_farinacea_victoria_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150814",
+                        "fgsid": null,
+                        "legacy_id": "31616",
+                        "catalog_source_id": "1177341"
+                    }
+                },
+                {
+                    "reference": "1524859",
+                    "machine_name": "salvia_greggii_coral",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "150815",
+                        "fgsid": null,
+                        "legacy_id": "101500",
+                        "catalog_source_id": "1177342"
+                    }
+                },
+                {
+                    "reference": "1496108",
+                    "machine_name": "yucca_filamentosa_bright_edge",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "157260",
+                        "fgsid": null,
+                        "legacy_id": "34289",
+                        "catalog_source_id": "1177383"
+                    }
+                },
+                {
+                    "reference": "1438674",
+                    "machine_name": "yucca_recurvifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "157265",
+                        "fgsid": "36831",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177384"
+                    }
+                },
+                {
+                    "reference": "1528791",
+                    "machine_name": "zinnia_cultivars_profusion_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "157277",
+                        "fgsid": null,
+                        "legacy_id": "106361",
+                        "catalog_source_id": "1177385"
+                    }
+                },
+                {
+                    "reference": "1443042",
+                    "machine_name": "calylophus_berlandieri",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "158739",
+                        "fgsid": "53835",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177623"
+                    }
+                },
+                {
+                    "reference": "1583651",
+                    "machine_name": "plectranthus_scutellarioides_sunny_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "158740",
+                        "fgsid": null,
+                        "legacy_id": "208295",
+                        "catalog_source_id": "1177624"
+                    }
+                },
+                {
+                    "reference": "1547810",
+                    "machine_name": "plectranthus_scutellarioides_duckfoot_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "158741",
+                        "fgsid": null,
+                        "legacy_id": "126688",
+                        "catalog_source_id": "1177625"
+                    }
+                },
+                {
+                    "reference": "1429345",
+                    "machine_name": "tecoma_stans",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "158742",
+                        "fgsid": "34366",
+                        "legacy_id": null,
+                        "catalog_source_id": "1177631"
+                    }
+                },
+                {
+                    "reference": "1518012",
+                    "machine_name": "magnolia_grandiflora_d_d_blanchard",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "168396",
+                        "fgsid": null,
+                        "legacy_id": "91605",
+                        "catalog_source_id": "1072435"
+                    }
+                },
+                {
+                    "reference": "1594610",
+                    "machine_name": "eriobotrya_japonica_sienna_glow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "170256",
+                        "fgsid": null,
+                        "legacy_id": "388727",
+                        "catalog_source_id": "1177626"
+                    }
+                },
+                {
+                    "reference": "1650055",
+                    "machine_name": "justicia_cultivars_thelma_s_pink",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "170258",
+                        "fgsid": null,
+                        "legacy_id": "388728",
+                        "catalog_source_id": "1177627"
+                    }
+                },
+                {
+                    "reference": "1492125",
+                    "machine_name": "scabiosa_columbaria_butterfly_blue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "176541",
+                        "fgsid": null,
+                        "legacy_id": "31892",
+                        "catalog_source_id": "1072486"
+                    }
+                },
+                {
+                    "reference": "1485597",
+                    "machine_name": "pennisetum_setaceum_rubrum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "183053",
+                        "fgsid": null,
+                        "legacy_id": "22903",
+                        "catalog_source_id": "895940"
+                    }
+                },
+                {
+                    "reference": "1474237",
+                    "machine_name": "echinacea_purpurea_magnus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "184078",
+                        "fgsid": null,
+                        "legacy_id": "8745",
+                        "catalog_source_id": "1072407"
+                    }
+                },
+                {
+                    "reference": "1571395",
+                    "machine_name": "gaillardia_cultivars_fanfare_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "220879",
+                        "fgsid": null,
+                        "legacy_id": "194397",
+                        "catalog_source_id": "1072415"
+                    }
+                },
+                {
+                    "reference": "1480389",
+                    "machine_name": "iris_cultivars_jeri",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221166",
+                        "fgsid": null,
+                        "legacy_id": "15363",
+                        "catalog_source_id": "1072427"
+                    }
+                },
+                {
+                    "reference": "1515633",
+                    "machine_name": "lantana_camara_dallas_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221169",
+                        "fgsid": null,
+                        "legacy_id": "89821",
+                        "catalog_source_id": "1072431"
+                    }
+                },
+                {
+                    "reference": "1477197",
+                    "machine_name": "lantana_camara_new_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221170",
+                        "fgsid": null,
+                        "legacy_id": "17013",
+                        "catalog_source_id": "1072432"
+                    }
+                },
+                {
+                    "reference": "1599566",
+                    "machine_name": "melinis_nerviglumis_savannah",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221174",
+                        "fgsid": null,
+                        "legacy_id": "230400",
+                        "catalog_source_id": "1072437"
+                    }
+                },
+                {
+                    "reference": "1408481",
+                    "machine_name": "dietes_bicolor",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221175",
+                        "fgsid": "11042",
+                        "legacy_id": null,
+                        "catalog_source_id": "1072438"
+                    }
+                },
+                {
+                    "reference": "1428936",
+                    "machine_name": "tagetes_lemmonii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "221179",
+                        "fgsid": "34245",
+                        "legacy_id": null,
+                        "catalog_source_id": "1072500"
+                    }
+                },
+                {
+                    "reference": "1402808",
+                    "machine_name": "acer_buergerianum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693731",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1466352",
+                    "machine_name": "acer_cultivars_autumn_fantasy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693736",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1600016",
+                    "machine_name": "acer_freemanii_autumn_blaze",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693741",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1524730",
+                    "machine_name": "rhododendron_cultivars_pink_ruffles",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693746",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1398066",
+                    "machine_name": "bulbine_frutescens",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693751",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1398887",
+                    "machine_name": "caesalpinia_mexicana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693756",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1398890",
+                    "machine_name": "caesalpinia_pulcherrima",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693761",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1443924",
+                    "machine_name": "feijoa_sellowiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693766",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2131456",
+                    "machine_name": "gaura_lindheimeri_whirling_butterflies",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693771",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1479823",
+                    "machine_name": "juniperus_horizontalis_prostrata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693776",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1420723",
+                    "machine_name": "lantana_horrida",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693781",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1435680",
+                    "machine_name": "leucothoe_populifolia",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693786",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1511451",
+                    "machine_name": "ilex_cornuta_burfordii_nana",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693791",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1511453",
+                    "machine_name": "ilex_cornuta_carissa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693796",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1511726",
+                    "machine_name": "ilex_crenata_sky_pencil",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693801",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1435205",
+                    "machine_name": "moraea_iridioides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693806",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1425853",
+                    "machine_name": "odontonema_strictum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693811",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1426006",
+                    "machine_name": "pittosporum_tobira",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693816",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1423076",
+                    "machine_name": "philodendron_selloum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693821",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1614539",
+                    "machine_name": "rosa_cultivars_julia_child",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693826",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1524855",
+                    "machine_name": "salvia_greggii_big_pink",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693831",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1495624",
+                    "machine_name": "salvia_greggii_alba",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693836",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1524867",
+                    "machine_name": "salvia_greggii_rosea",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693841",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1439713",
+                    "machine_name": "salvia_karwinskii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693846",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1408772",
+                    "machine_name": "cuprocyparis_leylandii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "693851",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672519",
+        "legacy_id": "7968",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,656 @@
+{
+    "name": "JRT Nurseries Inc",
+    "machine_name": "jrt_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8647 Guide Meridian",
+        "address_2": "",
+        "city": "Lynden",
+        "state": "WA",
+        "postal_code": "98264",
+        "geo_coordinate": "POINT (-122.4859483 48.8624074)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.jrtnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@jrtnursery.com",
+        "phone": "800-789-1445",
+        "fax": "604-853-7387",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "JRT Nurseries Inc 2019",
+            "machine_name": "jrt_nurseries_inc_2019",
+            "type": "nursery_catalog",
+            "date": "May 9 2019",
+            "nursery": "jrt_nurseries_inc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1529719",
+                    "machine_name": "vaccinium_cultivars_spartan",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57598",
+                        "fgsid": null,
+                        "legacy_id": "104020",
+                        "catalog_source_id": "1251347"
+                    }
+                },
+                {
+                    "reference": "1529708",
+                    "machine_name": "vaccinium_cultivars_patriot",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57600",
+                        "fgsid": null,
+                        "legacy_id": "104009",
+                        "catalog_source_id": "1251348"
+                    }
+                },
+                {
+                    "reference": "1498065",
+                    "machine_name": "vaccinium_cultivars_polaris",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57601",
+                        "fgsid": null,
+                        "legacy_id": "33591",
+                        "catalog_source_id": "1251349"
+                    }
+                },
+                {
+                    "reference": "1529491",
+                    "machine_name": "vaccinium_cultivars_northcountry",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57602",
+                        "fgsid": null,
+                        "legacy_id": "104002",
+                        "catalog_source_id": "1251350"
+                    }
+                },
+                {
+                    "reference": "1529476",
+                    "machine_name": "vaccinium_cultivars_duke",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57603",
+                        "fgsid": null,
+                        "legacy_id": "103987",
+                        "catalog_source_id": "1251345"
+                    }
+                },
+                {
+                    "reference": "1498063",
+                    "machine_name": "vaccinium_cultivars_northland",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57604",
+                        "fgsid": null,
+                        "legacy_id": "33589",
+                        "catalog_source_id": "1251351"
+                    }
+                },
+                {
+                    "reference": "1498059",
+                    "machine_name": "vaccinium_cultivars_chippewa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57605",
+                        "fgsid": null,
+                        "legacy_id": "33585",
+                        "catalog_source_id": "1251352"
+                    }
+                },
+                {
+                    "reference": "1555826",
+                    "machine_name": "vaccinium_cultivars_reka",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57606",
+                        "fgsid": null,
+                        "legacy_id": "155602",
+                        "catalog_source_id": "1251346"
+                    }
+                },
+                {
+                    "reference": "1498053",
+                    "machine_name": "vaccinium_cultivars_blue_jay",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57607",
+                        "fgsid": null,
+                        "legacy_id": "33579",
+                        "catalog_source_id": "1251353"
+                    }
+                },
+                {
+                    "reference": "1498055",
+                    "machine_name": "vaccinium_cultivars_blueray",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57610",
+                        "fgsid": null,
+                        "legacy_id": "33581",
+                        "catalog_source_id": "1251354"
+                    }
+                },
+                {
+                    "reference": "1498058",
+                    "machine_name": "vaccinium_cultivars_chandler",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57611",
+                        "fgsid": null,
+                        "legacy_id": "33584",
+                        "catalog_source_id": "1251355"
+                    }
+                },
+                {
+                    "reference": "1428649",
+                    "machine_name": "vaccinium_angustifolium",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57612",
+                        "fgsid": "35788",
+                        "legacy_id": null,
+                        "catalog_source_id": "1251356"
+                    }
+                },
+                {
+                    "reference": "1498068",
+                    "machine_name": "vaccinium_cultivars_toro",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57613",
+                        "fgsid": null,
+                        "legacy_id": "33594",
+                        "catalog_source_id": "1251357"
+                    }
+                },
+                {
+                    "reference": "1529482",
+                    "machine_name": "vaccinium_cultivars_hardiblue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "57614",
+                        "fgsid": null,
+                        "legacy_id": "103993",
+                        "catalog_source_id": "1251358"
+                    }
+                },
+                {
+                    "reference": "1529490",
+                    "machine_name": "vaccinium_cultivars_nelson",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96728",
+                        "fgsid": null,
+                        "legacy_id": "104001",
+                        "catalog_source_id": "1251367"
+                    }
+                },
+                {
+                    "reference": "1498057",
+                    "machine_name": "vaccinium_cultivars_brigitta",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96729",
+                        "fgsid": null,
+                        "legacy_id": "33583",
+                        "catalog_source_id": "1251368"
+                    }
+                },
+                {
+                    "reference": "1537988",
+                    "machine_name": "vaccinium_cultivars_legacy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96730",
+                        "fgsid": null,
+                        "legacy_id": "113660",
+                        "catalog_source_id": "1251369"
+                    }
+                },
+                {
+                    "reference": "1498061",
+                    "machine_name": "vaccinium_cultivars_elliott",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96731",
+                        "fgsid": null,
+                        "legacy_id": "33587",
+                        "catalog_source_id": "1251370"
+                    }
+                },
+                {
+                    "reference": "1529492",
+                    "machine_name": "vaccinium_cultivars_northblue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96732",
+                        "fgsid": null,
+                        "legacy_id": "104003",
+                        "catalog_source_id": "1251371"
+                    }
+                },
+                {
+                    "reference": "1529485",
+                    "machine_name": "vaccinium_cultivars_jersey",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96733",
+                        "fgsid": null,
+                        "legacy_id": "103996",
+                        "catalog_source_id": "1251372"
+                    }
+                },
+                {
+                    "reference": "1654998",
+                    "machine_name": "vaccinium_cultivars_sweetheart",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96734",
+                        "fgsid": null,
+                        "legacy_id": "381117",
+                        "catalog_source_id": "1251373"
+                    }
+                },
+                {
+                    "reference": "1640841",
+                    "machine_name": "vaccinium_cultivars_pink_lemonade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96735",
+                        "fgsid": null,
+                        "legacy_id": "330836",
+                        "catalog_source_id": "1251374"
+                    }
+                },
+                {
+                    "reference": "1498056",
+                    "machine_name": "vaccinium_cultivars_bonus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96736",
+                        "fgsid": null,
+                        "legacy_id": "33582",
+                        "catalog_source_id": "1251375"
+                    }
+                },
+                {
+                    "reference": "1529710",
+                    "machine_name": "vaccinium_cultivars_powderblue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96749",
+                        "fgsid": null,
+                        "legacy_id": "104011",
+                        "catalog_source_id": "1251376"
+                    }
+                },
+                {
+                    "reference": "1529723",
+                    "machine_name": "vaccinium_cultivars_tifblue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96755",
+                        "fgsid": null,
+                        "legacy_id": "104024",
+                        "catalog_source_id": "1251377"
+                    }
+                },
+                {
+                    "reference": "1529466",
+                    "machine_name": "vaccinium_cultivars_centurion",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96757",
+                        "fgsid": null,
+                        "legacy_id": "103977",
+                        "catalog_source_id": "1251378"
+                    }
+                },
+                {
+                    "reference": "1529495",
+                    "machine_name": "vaccinium_cultivars_o_neal",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96759",
+                        "fgsid": null,
+                        "legacy_id": "104006",
+                        "catalog_source_id": "1251379"
+                    }
+                },
+                {
+                    "reference": "1529489",
+                    "machine_name": "vaccinium_cultivars_misty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96760",
+                        "fgsid": null,
+                        "legacy_id": "104000",
+                        "catalog_source_id": "1251380"
+                    }
+                },
+                {
+                    "reference": "1558387",
+                    "machine_name": "vaccinium_cultivars_biloxi",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96762",
+                        "fgsid": null,
+                        "legacy_id": "150342",
+                        "catalog_source_id": "1251381"
+                    }
+                },
+                {
+                    "reference": "1529713",
+                    "machine_name": "vaccinium_cultivars_reveille",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96763",
+                        "fgsid": null,
+                        "legacy_id": "104014",
+                        "catalog_source_id": "1251382"
+                    }
+                },
+                {
+                    "reference": "1529715",
+                    "machine_name": "vaccinium_cultivars_sharpblue",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96764",
+                        "fgsid": null,
+                        "legacy_id": "104016",
+                        "catalog_source_id": "1251383"
+                    }
+                },
+                {
+                    "reference": "1529458",
+                    "machine_name": "vaccinium_cultivars_bluegold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96778",
+                        "fgsid": null,
+                        "legacy_id": "103969",
+                        "catalog_source_id": "1251364"
+                    }
+                },
+                {
+                    "reference": "1498054",
+                    "machine_name": "vaccinium_cultivars_bluecrop",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96779",
+                        "fgsid": null,
+                        "legacy_id": "33580",
+                        "catalog_source_id": "1251365"
+                    }
+                },
+                {
+                    "reference": "1529493",
+                    "machine_name": "vaccinium_cultivars_northsky",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "96782",
+                        "fgsid": null,
+                        "legacy_id": "104004",
+                        "catalog_source_id": "1251366"
+                    }
+                },
+                {
+                    "reference": "1529481",
+                    "machine_name": "vaccinium_cultivars_gulf_coast",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "97569",
+                        "fgsid": null,
+                        "legacy_id": "103992",
+                        "catalog_source_id": "1251384"
+                    }
+                },
+                {
+                    "reference": "1529724",
+                    "machine_name": "vaccinium_cultivars_tophat",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "97570",
+                        "fgsid": null,
+                        "legacy_id": "104025",
+                        "catalog_source_id": "1251385"
+                    }
+                },
+                {
+                    "reference": "1428972",
+                    "machine_name": "vaccinium_vitis_idaea",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "97572",
+                        "fgsid": "35828",
+                        "legacy_id": null,
+                        "catalog_source_id": "1251386"
+                    }
+                },
+                {
+                    "reference": "1428675",
+                    "machine_name": "vaccinium_ovatum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "97573",
+                        "fgsid": "35814",
+                        "legacy_id": null,
+                        "catalog_source_id": "1251387"
+                    }
+                },
+                {
+                    "reference": "1537994",
+                    "machine_name": "vaccinium_ovatum_thunderbird",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "97574",
+                        "fgsid": null,
+                        "legacy_id": "113666",
+                        "catalog_source_id": "1251388"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1674025",
+        "legacy_id": "20969",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

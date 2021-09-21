@@ -1,0 +1,67 @@
+{
+    "name": "Grigsby Cactus Gardens",
+    "machine_name": "grigsby_cactus_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2354 Bella Vista Dr.",
+        "address_2": "",
+        "city": "Vista",
+        "state": "CA",
+        "postal_code": "92084-7836",
+        "geo_coordinate": "POINT (-117.1991782 33.1679808)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cactus-mall.com\/grigsby",
+            "title": null,
+            "attributes": []
+        },
+        "email": "cacti@cactus-mall.com",
+        "phone": "760-727-1323",
+        "fax": "760-727-1578",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        },
+        {
+            "machine_name": "xeriscaping_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216194"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673092",
+        "legacy_id": "365",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

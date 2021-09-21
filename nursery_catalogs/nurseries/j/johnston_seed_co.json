@@ -1,0 +1,460 @@
+{
+    "name": "Johnston Seed Co.",
+    "machine_name": "johnston_seed_co",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "319 West Chestnut",
+        "address_2": "",
+        "city": "Enid",
+        "state": "OK",
+        "postal_code": "73702",
+        "geo_coordinate": "POINT (-97.8818075 36.4052132)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.johnstonseed.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "johnseed@johnstonseed.com",
+        "phone": "800-375-4613",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "seeds_lawn",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216197"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "johnston_seed_co",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1402665",
+                    "machine_name": "bouteloua_curtipendula",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16348",
+                        "fgsid": "4827",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118451"
+                    }
+                },
+                {
+                    "reference": "1424409",
+                    "machine_name": "panicum_virgatum",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16349",
+                        "fgsid": "25652",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118452"
+                    }
+                },
+                {
+                    "reference": "1416566",
+                    "machine_name": "lespedeza_capitata",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16350",
+                        "fgsid": "20649",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118453"
+                    }
+                },
+                {
+                    "reference": "1404992",
+                    "machine_name": "dalea_purpurea",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16351",
+                        "fgsid": "10143",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118454"
+                    }
+                },
+                {
+                    "reference": "1398312",
+                    "machine_name": "amorpha_canescens",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16352",
+                        "fgsid": "2310",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118455"
+                    }
+                },
+                {
+                    "reference": "1631447",
+                    "machine_name": "zea_c_cultivars_triumph",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16354",
+                        "fgsid": null,
+                        "legacy_id": "246672",
+                        "catalog_source_id": "1118458"
+                    }
+                },
+                {
+                    "reference": "1398721",
+                    "machine_name": "andropogon_hallii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "16357",
+                        "fgsid": "2431",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118460"
+                    }
+                },
+                {
+                    "reference": "1455630",
+                    "machine_name": "pascopyrum_smithii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "98483",
+                        "fgsid": "107674",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118461"
+                    }
+                },
+                {
+                    "reference": "1433523",
+                    "machine_name": "tripsacum_dactyloides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "98484",
+                        "fgsid": "35422",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118462"
+                    }
+                },
+                {
+                    "reference": "1433839",
+                    "machine_name": "eragrostis_trichodes",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "98485",
+                        "fgsid": "40067",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118463"
+                    }
+                },
+                {
+                    "reference": "1442463",
+                    "machine_name": "sporobolus_airoides",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "98486",
+                        "fgsid": "42377",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118464"
+                    }
+                },
+                {
+                    "reference": "1443166",
+                    "machine_name": "dalea_candida",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "98489",
+                        "fgsid": "42550",
+                        "legacy_id": null,
+                        "catalog_source_id": "1118465"
+                    }
+                },
+                {
+                    "reference": "1407637",
+                    "machine_name": "desmanthus_illinoensis",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174398",
+                        "fgsid": "10793",
+                        "legacy_id": null,
+                        "catalog_source_id": "944192"
+                    }
+                },
+                {
+                    "reference": "1411207",
+                    "machine_name": "helianthus_maximilianii",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174399",
+                        "fgsid": "17728",
+                        "legacy_id": null,
+                        "catalog_source_id": "944194"
+                    }
+                },
+                {
+                    "reference": "1405583",
+                    "machine_name": "chamaecrista_fasciculata",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174400",
+                        "fgsid": "7219",
+                        "legacy_id": null,
+                        "catalog_source_id": "944195"
+                    }
+                },
+                {
+                    "reference": "1414906",
+                    "machine_name": "gaillardia_pulchella",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174401",
+                        "fgsid": "15758",
+                        "legacy_id": null,
+                        "catalog_source_id": "944196"
+                    }
+                },
+                {
+                    "reference": "1428694",
+                    "machine_name": "rudbeckia_hirta",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174743",
+                        "fgsid": "31113",
+                        "legacy_id": null,
+                        "catalog_source_id": "944198"
+                    }
+                },
+                {
+                    "reference": "1405285",
+                    "machine_name": "coreopsis_lanceolata",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174745",
+                        "fgsid": "8675",
+                        "legacy_id": null,
+                        "catalog_source_id": "944199"
+                    }
+                },
+                {
+                    "reference": "1432591",
+                    "machine_name": "schizachyrium_scoparium",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174747",
+                        "fgsid": "32166",
+                        "legacy_id": null,
+                        "catalog_source_id": "944201"
+                    }
+                },
+                {
+                    "reference": "1402667",
+                    "machine_name": "bouteloua_gracilis",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174749",
+                        "fgsid": "4829",
+                        "legacy_id": null,
+                        "catalog_source_id": "944203"
+                    }
+                },
+                {
+                    "reference": "1398720",
+                    "machine_name": "andropogon_gerardii",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174751",
+                        "fgsid": "2430",
+                        "legacy_id": null,
+                        "catalog_source_id": "944205"
+                    }
+                },
+                {
+                    "reference": "1431491",
+                    "machine_name": "sorghastrum_nutans",
+                    "type": "species",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174752",
+                        "fgsid": "33357",
+                        "legacy_id": null,
+                        "catalog_source_id": "944206"
+                    }
+                },
+                {
+                    "reference": "1579057",
+                    "machine_name": "bouteloua_dactyloides_bowie",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174756",
+                        "fgsid": null,
+                        "legacy_id": "202736",
+                        "catalog_source_id": "944208"
+                    }
+                },
+                {
+                    "reference": "1498256",
+                    "machine_name": "bouteloua_dactyloides_cody",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174757",
+                        "fgsid": null,
+                        "legacy_id": "72743",
+                        "catalog_source_id": "944209"
+                    }
+                },
+                {
+                    "reference": "1498255",
+                    "machine_name": "bouteloua_dactyloides_bison",
+                    "type": "variety",
+                    "seed": true,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "174758",
+                        "fgsid": null,
+                        "legacy_id": "72742",
+                        "catalog_source_id": "944210"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1671885",
+        "legacy_id": "3208",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

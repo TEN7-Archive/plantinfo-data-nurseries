@@ -1,0 +1,67 @@
+{
+    "name": "Magic Growers",
+    "machine_name": "magic_growers",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2795 Eaton Canyon Drive",
+        "address_2": null,
+        "city": "Pasadena",
+        "state": "CA",
+        "postal_code": "91107",
+        "geo_coordinate": "POINT (-118.093514 34.1747692)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.magicgrowers.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "Information@magicgrowers.com",
+        "phone": "800-640-6244",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674102",
+        "legacy_id": "31508",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

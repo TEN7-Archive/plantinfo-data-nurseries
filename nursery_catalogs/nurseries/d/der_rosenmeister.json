@@ -1,0 +1,60 @@
+{
+    "name": "Der Rosenmeister",
+    "machine_name": "der_rosenmeister",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "190 Seven Mile Drive",
+        "address_2": null,
+        "city": "Ithaca",
+        "state": "NY",
+        "postal_code": "14850",
+        "geo_coordinate": "POINT (-76.540605 42.422281)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.derrosenmeister.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "607-273-8610",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674056",
+        "legacy_id": "30188",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

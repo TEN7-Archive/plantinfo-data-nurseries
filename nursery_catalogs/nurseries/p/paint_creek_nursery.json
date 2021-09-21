@@ -1,0 +1,67 @@
+{
+    "name": "Paint Creek Nursery",
+    "machine_name": "paint_creek_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3215 N. 140th Ave",
+        "address_2": null,
+        "city": "Cadott",
+        "state": "WI",
+        "postal_code": "54727",
+        "geo_coordinate": "POINT (-91.245223 44.855453)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.paintcreeknursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@paintcreeknurse",
+        "phone": "715-723-2072",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        },
+        {
+            "machine_name": "prairie_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216178"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673227",
+        "legacy_id": "30895",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

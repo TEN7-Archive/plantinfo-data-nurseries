@@ -1,0 +1,761 @@
+{
+    "name": "Mischel's Greenhouses Ltd.",
+    "machine_name": "mischel_s_greenhouses_ltd",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "11660 Arrowhead Drive",
+        "address_2": "",
+        "city": "Williamsburg",
+        "state": "MI",
+        "postal_code": "49690",
+        "geo_coordinate": "POINT (-85.398598 44.8645)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mischelsgreenhouses.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "customerservice@mischelsgreenhouses.com",
+        "phone": "800-830-8447",
+        "fax": "231-264-0289",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2016",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "mischel_s_greenhouses_ltd",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1481796",
+                    "machine_name": "petunia_cultivars_surfinia_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42043",
+                        "fgsid": null,
+                        "legacy_id": "23156",
+                        "catalog_source_id": "1354004"
+                    }
+                },
+                {
+                    "reference": "1565109",
+                    "machine_name": "petunia_cultivars_double_wave_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42044",
+                        "fgsid": null,
+                        "legacy_id": "169280",
+                        "catalog_source_id": "1354005"
+                    }
+                },
+                {
+                    "reference": "1607896",
+                    "machine_name": "petunia_cultivars_crazytunia_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42045",
+                        "fgsid": null,
+                        "legacy_id": "383248",
+                        "catalog_source_id": "1354006"
+                    }
+                },
+                {
+                    "reference": "1650640",
+                    "machine_name": "petunia_cultivars_african_sunset",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42046",
+                        "fgsid": null,
+                        "legacy_id": "389177",
+                        "catalog_source_id": "1354007"
+                    }
+                },
+                {
+                    "reference": "1650756",
+                    "machine_name": "verbena_cultivars_endurascape_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "42047",
+                        "fgsid": null,
+                        "legacy_id": "391153",
+                        "catalog_source_id": "1354008"
+                    }
+                },
+                {
+                    "reference": "1648991",
+                    "machine_name": "pennisetum_cultivars_sky_rocket",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85737",
+                        "fgsid": null,
+                        "legacy_id": "369298",
+                        "catalog_source_id": "1354010"
+                    }
+                },
+                {
+                    "reference": "1485597",
+                    "machine_name": "pennisetum_setaceum_rubrum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85738",
+                        "fgsid": null,
+                        "legacy_id": "22903",
+                        "catalog_source_id": "1354011"
+                    }
+                },
+                {
+                    "reference": "1588827",
+                    "machine_name": "pennisetum_setaceum_fireworks",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85740",
+                        "fgsid": null,
+                        "legacy_id": "314957",
+                        "catalog_source_id": "1354012"
+                    }
+                },
+                {
+                    "reference": "1627014",
+                    "machine_name": "lantana_cultivars_bandana_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85741",
+                        "fgsid": null,
+                        "legacy_id": "246883",
+                        "catalog_source_id": "1354013"
+                    }
+                },
+                {
+                    "reference": "1639044",
+                    "machine_name": "rudbeckia_cultivars_tigereye_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85742",
+                        "fgsid": null,
+                        "legacy_id": "329900",
+                        "catalog_source_id": "1354014"
+                    }
+                },
+                {
+                    "reference": "1666643",
+                    "machine_name": "celosia_cultivars_dragon_s_breath",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85743",
+                        "fgsid": null,
+                        "legacy_id": "398895",
+                        "catalog_source_id": "1354015"
+                    }
+                },
+                {
+                    "reference": "1596310",
+                    "machine_name": "pennisetum_cultivars_cherry_sparkler",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "85855",
+                        "fgsid": null,
+                        "legacy_id": "373276",
+                        "catalog_source_id": "1354009"
+                    }
+                },
+                {
+                    "reference": "1551308",
+                    "machine_name": "vinca_major_wojo_s_jem",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131162",
+                        "fgsid": null,
+                        "legacy_id": "130842",
+                        "catalog_source_id": "1353960"
+                    }
+                },
+                {
+                    "reference": "1569342",
+                    "machine_name": "dichondra_argentea_silver_falls",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131163",
+                        "fgsid": null,
+                        "legacy_id": "179992",
+                        "catalog_source_id": "1353961"
+                    }
+                },
+                {
+                    "reference": "1512860",
+                    "machine_name": "ipomoea_batatas_blackie",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131171",
+                        "fgsid": null,
+                        "legacy_id": "85666",
+                        "catalog_source_id": "1353962"
+                    }
+                },
+                {
+                    "reference": "1619462",
+                    "machine_name": "euphorbia_cultivars_breathless_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131172",
+                        "fgsid": null,
+                        "legacy_id": "350880",
+                        "catalog_source_id": "1353983"
+                    }
+                },
+                {
+                    "reference": "1654456",
+                    "machine_name": "ipomoea_batatas_bright_ideas_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131188",
+                        "fgsid": null,
+                        "legacy_id": "368498",
+                        "catalog_source_id": "1353984"
+                    }
+                },
+                {
+                    "reference": "1608953",
+                    "machine_name": "alternanthera_cultivars_little_ruby",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131189",
+                        "fgsid": null,
+                        "legacy_id": "366428",
+                        "catalog_source_id": "1353985"
+                    }
+                },
+                {
+                    "reference": "1588596",
+                    "machine_name": "begonia_hiemalis_dragone_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131190",
+                        "fgsid": null,
+                        "legacy_id": "318376",
+                        "catalog_source_id": "1353986"
+                    }
+                },
+                {
+                    "reference": "1539717",
+                    "machine_name": "torenia_cultivars_moon_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131191",
+                        "fgsid": null,
+                        "legacy_id": "112896",
+                        "catalog_source_id": "1353987"
+                    }
+                },
+                {
+                    "reference": "1642240",
+                    "machine_name": "lobelia_cultivars_magadi_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131192",
+                        "fgsid": null,
+                        "legacy_id": "259008",
+                        "catalog_source_id": "1353988"
+                    }
+                },
+                {
+                    "reference": "1646733",
+                    "machine_name": "begonia_cultivars_unstoppable_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131193",
+                        "fgsid": null,
+                        "legacy_id": "386955",
+                        "catalog_source_id": "1353989"
+                    }
+                },
+                {
+                    "reference": "1667715",
+                    "machine_name": "begonia_cultivars_unbelievable_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131194",
+                        "fgsid": null,
+                        "legacy_id": "402788",
+                        "catalog_source_id": "1353990"
+                    }
+                },
+                {
+                    "reference": "1632454",
+                    "machine_name": "bidens_cultivars_bidi_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131203",
+                        "fgsid": null,
+                        "legacy_id": "297959",
+                        "catalog_source_id": "1353991"
+                    }
+                },
+                {
+                    "reference": "1484620",
+                    "machine_name": "pelargonium_cultivars_americana_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131204",
+                        "fgsid": null,
+                        "legacy_id": "22580",
+                        "catalog_source_id": "1353992"
+                    }
+                },
+                {
+                    "reference": "1637588",
+                    "machine_name": "pelargonium_cultivars_calliope_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131205",
+                        "fgsid": null,
+                        "legacy_id": "328961",
+                        "catalog_source_id": "1353993"
+                    }
+                },
+                {
+                    "reference": "1485289",
+                    "machine_name": "pelargonium_peltatum_acapulco",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131206",
+                        "fgsid": null,
+                        "legacy_id": "22815",
+                        "catalog_source_id": "1353994"
+                    }
+                },
+                {
+                    "reference": "1522463",
+                    "machine_name": "pelargonium_peltatum_blizzard_cascade_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131208",
+                        "fgsid": null,
+                        "legacy_id": "95113",
+                        "catalog_source_id": "1353995"
+                    }
+                },
+                {
+                    "reference": "1601814",
+                    "machine_name": "pelargonium_hortorum_caliente_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "131209",
+                        "fgsid": null,
+                        "legacy_id": "224125",
+                        "catalog_source_id": "1353996"
+                    }
+                },
+                {
+                    "reference": "1606088",
+                    "machine_name": "plectranthus_scutellarioides_jade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "188996",
+                        "fgsid": null,
+                        "legacy_id": "277981",
+                        "catalog_source_id": "1353973"
+                    }
+                },
+                {
+                    "reference": "1561544",
+                    "machine_name": "plectranthus_scutellarioides_beauty_of_lyon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "188997",
+                        "fgsid": null,
+                        "legacy_id": "170399",
+                        "catalog_source_id": "1353974"
+                    }
+                },
+                {
+                    "reference": "1527411",
+                    "machine_name": "plectranthus_scutellarioides_freckles",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "188998",
+                        "fgsid": null,
+                        "legacy_id": "102283",
+                        "catalog_source_id": "1353975"
+                    }
+                },
+                {
+                    "reference": "1586474",
+                    "machine_name": "perilla_cultivars_magilla_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189601",
+                        "fgsid": null,
+                        "legacy_id": "221925",
+                        "catalog_source_id": "1353976"
+                    }
+                },
+                {
+                    "reference": "1667109",
+                    "machine_name": "bidens_cultivars_beedance_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189602",
+                        "fgsid": null,
+                        "legacy_id": "398915",
+                        "catalog_source_id": "1353977"
+                    }
+                },
+                {
+                    "reference": "1611171",
+                    "machine_name": "begonia_boliviensis_santa_cruz_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189603",
+                        "fgsid": null,
+                        "legacy_id": "378281",
+                        "catalog_source_id": "1353978"
+                    }
+                },
+                {
+                    "reference": "1665971",
+                    "machine_name": "begonia_cultivars_san_francisco",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189604",
+                        "fgsid": null,
+                        "legacy_id": "398892",
+                        "catalog_source_id": "1353979"
+                    }
+                },
+                {
+                    "reference": "1586140",
+                    "machine_name": "argyranthemum_cultivars_madeira_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189605",
+                        "fgsid": null,
+                        "legacy_id": "222665",
+                        "catalog_source_id": "1353980"
+                    }
+                },
+                {
+                    "reference": "1463886",
+                    "machine_name": "argyranthemum_cultivars_butterfly_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189606",
+                        "fgsid": null,
+                        "legacy_id": "1639",
+                        "catalog_source_id": "1353981"
+                    }
+                },
+                {
+                    "reference": "1661911",
+                    "machine_name": "lobularia_cultivars_yolo_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189607",
+                        "fgsid": null,
+                        "legacy_id": "391770",
+                        "catalog_source_id": "1353982"
+                    }
+                },
+                {
+                    "reference": "1556709",
+                    "machine_name": "calibrachoa_cultivars_minifamous_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "189608",
+                        "fgsid": null,
+                        "legacy_id": "153806",
+                        "catalog_source_id": "1354003"
+                    }
+                },
+                {
+                    "reference": "1546053",
+                    "machine_name": "pentas_cultivars_butterfly_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "244225",
+                        "fgsid": null,
+                        "legacy_id": "121769",
+                        "catalog_source_id": "1353997"
+                    }
+                },
+                {
+                    "reference": "1609358",
+                    "machine_name": "angelonia_cultivars_archangel_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "244226",
+                        "fgsid": null,
+                        "legacy_id": "372977",
+                        "catalog_source_id": "1353998"
+                    }
+                },
+                {
+                    "reference": "1612766",
+                    "machine_name": "salvia_cultivars_mystic_spires_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "244227",
+                        "fgsid": null,
+                        "legacy_id": "237345",
+                        "catalog_source_id": "1353999"
+                    }
+                },
+                {
+                    "reference": "1639401",
+                    "machine_name": "capsicum_o_cultivars_purple_flash",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "244228",
+                        "fgsid": null,
+                        "legacy_id": "332999",
+                        "catalog_source_id": "1354000"
+                    }
+                },
+                {
+                    "reference": "1627015",
+                    "machine_name": "scaevola_cultivars_bombay_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "244229",
+                        "fgsid": null,
+                        "legacy_id": "246884",
+                        "catalog_source_id": "1354001"
+                    }
+                },
+                {
+                    "reference": "1654611",
+                    "machine_name": "scaevola_cultivars_suntastic",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "244230",
+                        "fgsid": null,
+                        "legacy_id": "372182",
+                        "catalog_source_id": "1354002"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672533",
+        "legacy_id": "8208",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

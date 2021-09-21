@@ -1,0 +1,67 @@
+{
+    "name": "Turner Seed",
+    "machine_name": "turner_seed",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "211 County Road 151",
+        "address_2": "",
+        "city": "Breckenridge",
+        "state": "TX",
+        "postal_code": "76424-8165",
+        "geo_coordinate": "POINT (-98.8987046 32.7081828)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.turnerseed.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "turnerseed@turnerseed.com",
+        "phone": "800-722-8616",
+        "fax": "254-556-5024",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672122",
+        "legacy_id": "11070",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2016, 2019",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

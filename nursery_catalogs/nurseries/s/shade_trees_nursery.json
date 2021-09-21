@@ -1,0 +1,60 @@
+{
+    "name": "Shade Trees Nursery",
+    "machine_name": "shade_trees_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 820, 1875 Main Road",
+        "address_2": null,
+        "city": "Jamesport",
+        "state": "NY",
+        "postal_code": "11947",
+        "geo_coordinate": "POINT (-72.5729522 40.9563255)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/shadetreesnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "631-722-4041",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673991",
+        "legacy_id": "29574",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

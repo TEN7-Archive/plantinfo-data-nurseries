@@ -1,0 +1,536 @@
+{
+    "name": "Simpson Nursery Company",
+    "machine_name": "simpson_nursery_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1504 Old Wheatland Rd., P.O. Box 1216",
+        "address_2": "",
+        "city": "Vincennes",
+        "state": "IN",
+        "postal_code": "47591",
+        "geo_coordinate": "POINT (-87.476889 38.688076)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.simpsonnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@simpsonnursery.com",
+        "phone": "800-781-0211",
+        "fax": "812-882-0282",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Simpson Nursery Company 2019",
+            "machine_name": "simpson_nursery_company_2019",
+            "type": "nursery_catalog",
+            "date": "May 30 2019",
+            "nursery": "simpson_nursery_company",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1512282",
+                    "machine_name": "ilex_verticillata_southern_gentleman",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "249290",
+                        "fgsid": null,
+                        "legacy_id": "85498",
+                        "catalog_source_id": "1306106"
+                    }
+                },
+                {
+                    "reference": "1477052",
+                    "machine_name": "ilex_decidua_council_fire",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286893",
+                        "fgsid": null,
+                        "legacy_id": "14504",
+                        "catalog_source_id": "1306016"
+                    }
+                },
+                {
+                    "reference": "1511739",
+                    "machine_name": "ilex_decidua_finches_golden",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286894",
+                        "fgsid": null,
+                        "legacy_id": "85365",
+                        "catalog_source_id": "1306017"
+                    }
+                },
+                {
+                    "reference": "1511742",
+                    "machine_name": "ilex_decidua_pocahontas",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286895",
+                        "fgsid": null,
+                        "legacy_id": "85368",
+                        "catalog_source_id": "1306018"
+                    }
+                },
+                {
+                    "reference": "1511743",
+                    "machine_name": "ilex_decidua_red_cascade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286896",
+                        "fgsid": null,
+                        "legacy_id": "85369",
+                        "catalog_source_id": "1306019"
+                    }
+                },
+                {
+                    "reference": "1511744",
+                    "machine_name": "ilex_decidua_red_escort",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286897",
+                        "fgsid": null,
+                        "legacy_id": "85370",
+                        "catalog_source_id": "1306020"
+                    }
+                },
+                {
+                    "reference": "1477055",
+                    "machine_name": "ilex_decidua_sentry",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286898",
+                        "fgsid": null,
+                        "legacy_id": "14507",
+                        "catalog_source_id": "1306021"
+                    }
+                },
+                {
+                    "reference": "1477056",
+                    "machine_name": "ilex_decidua_warren_s_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286899",
+                        "fgsid": null,
+                        "legacy_id": "14508",
+                        "catalog_source_id": "1306022"
+                    }
+                },
+                {
+                    "reference": "1609204",
+                    "machine_name": "ilex_opaca_andy_bee",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286900",
+                        "fgsid": null,
+                        "legacy_id": "387382",
+                        "catalog_source_id": "1306083"
+                    }
+                },
+                {
+                    "reference": "1559482",
+                    "machine_name": "ilex_opaca_chief_paduke",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286901",
+                        "fgsid": null,
+                        "legacy_id": "154938",
+                        "catalog_source_id": "1306084"
+                    }
+                },
+                {
+                    "reference": "1609205",
+                    "machine_name": "ilex_opaca_long_tall_sally",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286902",
+                        "fgsid": null,
+                        "legacy_id": "387383",
+                        "catalog_source_id": "1306085"
+                    }
+                },
+                {
+                    "reference": "1512269",
+                    "machine_name": "ilex_verticillata_afterglow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286903",
+                        "fgsid": null,
+                        "legacy_id": "85483",
+                        "catalog_source_id": "1306086"
+                    }
+                },
+                {
+                    "reference": "1477307",
+                    "machine_name": "ilex_verticillata_aurantiaca",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286904",
+                        "fgsid": null,
+                        "legacy_id": "14535",
+                        "catalog_source_id": "1306087"
+                    }
+                },
+                {
+                    "reference": "1476743",
+                    "machine_name": "ilex_cultivars_bonfire",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286905",
+                        "fgsid": null,
+                        "legacy_id": "14407",
+                        "catalog_source_id": "1306088"
+                    }
+                },
+                {
+                    "reference": "1477308",
+                    "machine_name": "ilex_verticillata_cacapon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286906",
+                        "fgsid": null,
+                        "legacy_id": "14536",
+                        "catalog_source_id": "1306089"
+                    }
+                },
+                {
+                    "reference": "1549927",
+                    "machine_name": "ilex_verticillata_chrysocarpa",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286907",
+                        "fgsid": null,
+                        "legacy_id": "122740",
+                        "catalog_source_id": "1306090"
+                    }
+                },
+                {
+                    "reference": "1512273",
+                    "machine_name": "ilex_verticillata_early_bright",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286908",
+                        "fgsid": null,
+                        "legacy_id": "85488",
+                        "catalog_source_id": "1306091"
+                    }
+                },
+                {
+                    "reference": "1621750",
+                    "machine_name": "ilex_verticillata_golden_verboom",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286909",
+                        "fgsid": null,
+                        "legacy_id": "344996",
+                        "catalog_source_id": "1306092"
+                    }
+                },
+                {
+                    "reference": "1477309",
+                    "machine_name": "ilex_verticillata_maryland_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286910",
+                        "fgsid": null,
+                        "legacy_id": "14537",
+                        "catalog_source_id": "1306093"
+                    }
+                },
+                {
+                    "reference": "1512280",
+                    "machine_name": "ilex_verticillata_oosterwijk",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286911",
+                        "fgsid": null,
+                        "legacy_id": "85496",
+                        "catalog_source_id": "1306094"
+                    }
+                },
+                {
+                    "reference": "1477310",
+                    "machine_name": "ilex_verticillata_red_sprite",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286912",
+                        "fgsid": null,
+                        "legacy_id": "14538",
+                        "catalog_source_id": "1306095"
+                    }
+                },
+                {
+                    "reference": "1581236",
+                    "machine_name": "ilex_verticillata_shortcake",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286913",
+                        "fgsid": null,
+                        "legacy_id": "207043",
+                        "catalog_source_id": "1306096"
+                    }
+                },
+                {
+                    "reference": "1476759",
+                    "machine_name": "ilex_cultivars_sparkleberry",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286914",
+                        "fgsid": null,
+                        "legacy_id": "14423",
+                        "catalog_source_id": "1306097"
+                    }
+                },
+                {
+                    "reference": "1512283",
+                    "machine_name": "ilex_verticillata_stop_light",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286915",
+                        "fgsid": null,
+                        "legacy_id": "85499",
+                        "catalog_source_id": "1306098"
+                    }
+                },
+                {
+                    "reference": "1512284",
+                    "machine_name": "ilex_verticillata_sunset",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286916",
+                        "fgsid": null,
+                        "legacy_id": "85500",
+                        "catalog_source_id": "1306099"
+                    }
+                },
+                {
+                    "reference": "1543730",
+                    "machine_name": "ilex_verticillata_tiasquam",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286917",
+                        "fgsid": null,
+                        "legacy_id": "118671",
+                        "catalog_source_id": "1306100"
+                    }
+                },
+                {
+                    "reference": "1477312",
+                    "machine_name": "ilex_verticillata_winter_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286918",
+                        "fgsid": null,
+                        "legacy_id": "14540",
+                        "catalog_source_id": "1306101"
+                    }
+                },
+                {
+                    "reference": "1477313",
+                    "machine_name": "ilex_verticillata_winter_red",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286919",
+                        "fgsid": null,
+                        "legacy_id": "14541",
+                        "catalog_source_id": "1306102"
+                    }
+                },
+                {
+                    "reference": "1511160",
+                    "machine_name": "ilex_cultivars_apollo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286920",
+                        "fgsid": null,
+                        "legacy_id": "85205",
+                        "catalog_source_id": "1306103"
+                    }
+                },
+                {
+                    "reference": "1512276",
+                    "machine_name": "ilex_verticillata_jim_dandy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286921",
+                        "fgsid": null,
+                        "legacy_id": "85492",
+                        "catalog_source_id": "1306104"
+                    }
+                },
+                {
+                    "reference": "1511183",
+                    "machine_name": "ilex_cultivars_raritan_chief",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "286922",
+                        "fgsid": null,
+                        "legacy_id": "85231",
+                        "catalog_source_id": "1306105"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672398",
+        "legacy_id": "824",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

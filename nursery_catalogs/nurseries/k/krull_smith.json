@@ -1,0 +1,60 @@
+{
+    "name": "Krull-Smith",
+    "machine_name": "krull_smith",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2815 W. Ponkan Road",
+        "address_2": null,
+        "city": "Apopka",
+        "state": "FL",
+        "postal_code": "32712",
+        "geo_coordinate": "POINT (-81.5557199 28.729287)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.krullsmith.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@krullsmith.com",
+        "phone": "407-886-4134",
+        "fax": "407-886-0438",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672328",
+        "legacy_id": "11670",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

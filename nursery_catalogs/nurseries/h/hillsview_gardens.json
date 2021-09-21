@@ -1,0 +1,60 @@
+{
+    "name": "Hillsview Gardens",
+    "machine_name": "hillsview_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 1076",
+        "address_2": null,
+        "city": "Mulino",
+        "state": "OR",
+        "postal_code": "97042",
+        "geo_coordinate": "POINT (-122.5816606 45.2212415)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/hillsviewgardens.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "orchids@hillsviewgardens.com",
+        "phone": "503-829-9808",
+        "fax": "503-658-7743",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672860",
+        "legacy_id": "13708",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

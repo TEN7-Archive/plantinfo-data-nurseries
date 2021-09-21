@@ -1,0 +1,88 @@
+{
+    "name": "Glasshouse Works",
+    "machine_name": "glasshouse_works",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "10 Church Street, P.O. Box 97",
+        "address_2": null,
+        "city": "Stewart",
+        "state": "OH",
+        "postal_code": "45778-0097",
+        "geo_coordinate": "POINT (-81.8951496 39.3056399)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.glasshouseworks.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "740-662-2142",
+        "fax": "740-662-2120",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        },
+        {
+            "machine_name": "bonsai",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216155"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only not print friendly",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673001",
+        "legacy_id": "338",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

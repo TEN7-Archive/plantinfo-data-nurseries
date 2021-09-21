@@ -1,0 +1,67 @@
+{
+    "name": "Central Coast Wilds",
+    "machine_name": "central_coast_wilds",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "125 Walk Circle",
+        "address_2": "",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "postal_code": "95060",
+        "geo_coordinate": "POINT (-122.0369884 36.958355)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.centralcoastwilds.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@centralcoastwilds.com",
+        "phone": "831-459-0656",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672354",
+        "legacy_id": "27172",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

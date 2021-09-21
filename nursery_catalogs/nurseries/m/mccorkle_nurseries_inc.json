@@ -1,0 +1,81 @@
+{
+    "name": "McCorkle Nurseries Inc.",
+    "machine_name": "mccorkle_nurseries_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4904 Luckey's Bridge Road SE",
+        "address_2": null,
+        "city": "Dearing",
+        "state": "GA",
+        "postal_code": "30808",
+        "geo_coordinate": "POINT (-82.4009892 33.3649359)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mccorklenurseries.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-572-2874",
+        "fax": "706-595-9678",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673358",
+        "legacy_id": "23148",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

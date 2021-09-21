@@ -1,0 +1,60 @@
+{
+    "name": "Aucker's Nursery (W)",
+    "machine_name": "aucker_s_nursery_w",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "13150 N.E. 38th Place",
+        "address_2": null,
+        "city": "Williston",
+        "state": "FL",
+        "postal_code": "32696",
+        "geo_coordinate": "POINT (-82.55512 29.389398)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.auckersnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "352-528-3889",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673352",
+        "legacy_id": "23030",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Lily Pad Bulb Farm",
+    "machine_name": "lily_pad_bulb_farm",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3403 Steamboat Island Rd NW, # 374",
+        "address_2": null,
+        "city": "Olympia",
+        "state": "WA",
+        "postal_code": "98502",
+        "geo_coordinate": "POINT (-123.0208346 47.08012)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/lilypadbulbs.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "360-866-0291",
+        "fax": "360-866-7128",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "lilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216173"
+            }
+        },
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        },
+        {
+            "machine_name": "peonies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216176"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "consider for SL",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671725",
+        "legacy_id": "15648",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

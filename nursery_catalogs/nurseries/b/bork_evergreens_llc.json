@@ -1,0 +1,288 @@
+{
+    "name": "Bork Evergreens LLC",
+    "machine_name": "bork_evergreens_llc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "44969 State Hwy. 48",
+        "address_2": "",
+        "city": "Hinckley",
+        "state": "MN",
+        "postal_code": "55037",
+        "geo_coordinate": "POINT (-92.5846347 46.0122293)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.borktreefarms.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-752-9182",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2019",
+    "nursery_catalog_items": [
+        {
+            "name": "Bork Evergreens LLC 2019",
+            "machine_name": "bork_evergreens_llc_2019",
+            "type": "nursery_catalog",
+            "date": "May 8 2019",
+            "nursery": "bork_evergreens_llc",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1400814",
+                    "machine_name": "abies_balsamea",
+                    "type": "species",
+                    "seed": false,
+                    "pages": "p1\/5",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "9199",
+                        "fgsid": "27",
+                        "legacy_id": null,
+                        "catalog_source_id": "199"
+                    }
+                },
+                {
+                    "reference": "1400830",
+                    "machine_name": "abies_fraseri",
+                    "type": "species",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "9228",
+                        "fgsid": "43",
+                        "legacy_id": null,
+                        "catalog_source_id": "392"
+                    }
+                },
+                {
+                    "reference": "1425607",
+                    "machine_name": "pinus_ponderosa",
+                    "type": "species",
+                    "seed": false,
+                    "pages": "p1",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "25955",
+                        "fgsid": "27434",
+                        "legacy_id": null,
+                        "catalog_source_id": "127093"
+                    }
+                },
+                {
+                    "reference": "1425620",
+                    "machine_name": "pinus_sylvestris",
+                    "type": "species",
+                    "seed": false,
+                    "pages": "p1\/5",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "26341",
+                        "fgsid": "27447",
+                        "legacy_id": null,
+                        "catalog_source_id": "127576"
+                    }
+                },
+                {
+                    "reference": "1521412",
+                    "machine_name": "picea_glauca_densata",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": "p1\/5",
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "30896",
+                        "fgsid": null,
+                        "legacy_id": "95983",
+                        "catalog_source_id": "124803"
+                    }
+                },
+                {
+                    "reference": "1424542",
+                    "machine_name": "picea_pungens",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "79566",
+                        "fgsid": "27211",
+                        "legacy_id": null,
+                        "catalog_source_id": "1165604"
+                    }
+                },
+                {
+                    "reference": "1424518",
+                    "machine_name": "picea_abies",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "79567",
+                        "fgsid": "27187",
+                        "legacy_id": null,
+                        "catalog_source_id": "1165605"
+                    }
+                },
+                {
+                    "reference": "1425613",
+                    "machine_name": "pinus_resinosa",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "116230",
+                        "fgsid": "27440",
+                        "legacy_id": null,
+                        "catalog_source_id": "713892"
+                    }
+                },
+                {
+                    "reference": "1430811",
+                    "machine_name": "thuja_occidentalis",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "121520",
+                        "fgsid": "34677",
+                        "legacy_id": null,
+                        "catalog_source_id": "414297"
+                    }
+                },
+                {
+                    "reference": "1521662",
+                    "machine_name": "picea_pungens_fat_albert",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "167478",
+                        "fgsid": null,
+                        "legacy_id": "96028",
+                        "catalog_source_id": "590214"
+                    }
+                },
+                {
+                    "reference": "1424530",
+                    "machine_name": "picea_mariana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "233958",
+                        "fgsid": "27199",
+                        "legacy_id": null,
+                        "catalog_source_id": "1299929"
+                    }
+                },
+                {
+                    "reference": "1424539",
+                    "machine_name": "picea_omorika",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "259442",
+                        "fgsid": "27208",
+                        "legacy_id": null,
+                        "catalog_source_id": "991847"
+                    }
+                },
+                {
+                    "reference": "1425619",
+                    "machine_name": "pinus_strobus",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "259443",
+                        "fgsid": "27446",
+                        "legacy_id": null,
+                        "catalog_source_id": "991848"
+                    }
+                },
+                {
+                    "reference": "1419136",
+                    "machine_name": "juniperus_virginiana",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "1036821",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672579",
+        "legacy_id": "104",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2016",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

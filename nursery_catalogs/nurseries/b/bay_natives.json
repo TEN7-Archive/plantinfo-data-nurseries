@@ -1,0 +1,74 @@
+{
+    "name": "Bay Natives",
+    "machine_name": "bay_natives",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "10 Cargo Way",
+        "address_2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal_code": "94124",
+        "geo_coordinate": "POINT (-122.3766619 37.7407312)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.baynatives.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@baynatives.com",
+        "phone": "415-287-6755",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673637",
+        "legacy_id": "26830",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

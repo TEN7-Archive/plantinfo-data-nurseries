@@ -1,0 +1,81 @@
+{
+    "name": "M & M Plant Sales, Inc.",
+    "machine_name": "m_m_plant_sales_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "410 Spring Grove Road",
+        "address_2": null,
+        "city": "Hollister",
+        "state": "CA",
+        "postal_code": "95023",
+        "geo_coordinate": "POINT (-121.361853 36.91445)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.mmplants.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "831-245-9273",
+        "fax": "831-637-3338",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673535",
+        "legacy_id": "23949",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

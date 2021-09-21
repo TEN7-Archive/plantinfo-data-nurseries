@@ -1,0 +1,60 @@
+{
+    "name": "Robrick Nursery Inc",
+    "machine_name": "robrick_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3025 SE 171st Street",
+        "address_2": null,
+        "city": "Hawthorne",
+        "state": "FL",
+        "postal_code": "32640",
+        "geo_coordinate": "POINT (-82.136203 29.624818)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.robrick.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "877-627-4259",
+        "fax": "352-481-0190",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671628",
+        "legacy_id": "15510",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

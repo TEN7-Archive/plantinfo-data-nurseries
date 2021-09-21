@@ -1,0 +1,67 @@
+{
+    "name": "Mid Georgia Nursery",
+    "machine_name": "mid_georgia_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "727 Rose Hill Road",
+        "address_2": null,
+        "city": "Meansville",
+        "state": "GA",
+        "postal_code": "30256",
+        "geo_coordinate": "POINT (-84.3342631 33.038425)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/midgeorgiansy.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "770-567-3874",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671898",
+        "legacy_id": "29632",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

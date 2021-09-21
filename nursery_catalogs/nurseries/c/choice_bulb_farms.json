@@ -1,0 +1,60 @@
+{
+    "name": "Choice Bulb Farms",
+    "machine_name": "choice_bulb_farms",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "18412 Beaver Marsh Road",
+        "address_2": null,
+        "city": "Mount Vernon",
+        "state": "WA",
+        "postal_code": "98273",
+        "geo_coordinate": "POINT (-122.401034 48.379013)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.choicebulbfarms.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "jan@choicebulb.com",
+        "phone": "360-424-4685",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673548",
+        "legacy_id": "29188",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

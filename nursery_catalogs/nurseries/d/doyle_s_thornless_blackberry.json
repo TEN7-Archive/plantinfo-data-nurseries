@@ -1,0 +1,86 @@
+{
+    "name": "Doyle's Thornless Blackberry",
+    "machine_name": "doyle_s_thornless_blackberry",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1600 Bedford Road",
+        "address_2": "",
+        "city": "Washington",
+        "state": "IN",
+        "postal_code": "47501",
+        "geo_coordinate": "POINT (-87.1575889 38.6605373)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.fruitsandberries.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "doyle@fruitsandberries.com",
+        "phone": "812-254-2654",
+        "fax": "812-254-2655",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2020",
+    "nursery_catalog_items": [
+        {
+            "name": "Doyle's Thornless Blackberry",
+            "machine_name": "doyle_s_thornless_blackberry",
+            "type": "nursery_catalog",
+            "date": "Nov 12 2019",
+            "nursery": "doyle_s_thornless_blackberry",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1567970",
+                    "machine_name": "rubus_b_cultivars_doyle_thornless",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "259255",
+                        "fgsid": null,
+                        "legacy_id": "171977",
+                        "catalog_source_id": "873423"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672968",
+        "legacy_id": "14329",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2020, 2015",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Daylily Nursery (W)",
+    "machine_name": "daylily_nursery_w",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "471 Mud Creek Road",
+        "address_2": null,
+        "city": "Rock Island",
+        "state": "TN",
+        "postal_code": "38581",
+        "geo_coordinate": "POINT (-85.661246 35.726641)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/daylilynursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@daylilynursery.com",
+        "phone": "800-454-5437",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "daylilies",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216161"
+            }
+        },
+        {
+            "machine_name": "hosta",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216170"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672257",
+        "legacy_id": "16529",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

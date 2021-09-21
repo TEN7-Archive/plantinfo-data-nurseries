@@ -1,0 +1,81 @@
+{
+    "name": "Prepper Gardens Nursery",
+    "machine_name": "prepper_gardens_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "909 US HWY 82 W STE 9 #235",
+        "address_2": "",
+        "city": "Tifton",
+        "state": "GA",
+        "postal_code": "31794",
+        "geo_coordinate": "POINT (-83.5295309 31.4503391)"
+    },
+    "contact": {
+        "website": {
+            "url": "https:\/\/www.preppergardens.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "855-966-2430",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        },
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "nut_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216174"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2289476",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1523026980"
+    }
+}

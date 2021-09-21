@@ -1,0 +1,67 @@
+{
+    "name": "Schlegel Greenhouse",
+    "machine_name": "schlegel_greenhouse",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "705 Sprague Road",
+        "address_2": null,
+        "city": "Indianapolis",
+        "state": "IN",
+        "postal_code": "46217",
+        "geo_coordinate": "POINT (-86.173411 39.705989)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.schlegelgreenhouse.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@schlegelgreenhouse.com",
+        "phone": "317-784-6038",
+        "fax": "317-784-6098",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674026",
+        "legacy_id": "20988",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

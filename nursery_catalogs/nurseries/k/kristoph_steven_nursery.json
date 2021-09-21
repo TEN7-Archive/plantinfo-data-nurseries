@@ -1,0 +1,74 @@
+{
+    "name": "Kristoph, Steven, Nursery",
+    "machine_name": "kristoph_steven_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "9 Roberts Road",
+        "address_2": "",
+        "city": "Millstone Township",
+        "state": "NJ",
+        "postal_code": "08535",
+        "geo_coordinate": "POINT (-74.3842724 40.2399574)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.pstevenkristoph.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "732-446-1440",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "vines",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216187"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674234",
+        "legacy_id": "33228",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Norman's Nursery",
+    "machine_name": "norman_s_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8665 Duarte Road",
+        "address_2": null,
+        "city": "San Gabriel",
+        "state": "CA",
+        "postal_code": "91775",
+        "geo_coordinate": "POINT (-118.07989 34.121727)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.nngrower.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "626-285-9795",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671938",
+        "legacy_id": "29588",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

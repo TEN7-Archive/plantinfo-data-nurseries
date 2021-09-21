@@ -1,0 +1,67 @@
+{
+    "name": "Duarte Nursery",
+    "machine_name": "duarte_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1555 Baldwin Road",
+        "address_2": null,
+        "city": "Hughson",
+        "state": "CA",
+        "postal_code": "95326",
+        "geo_coordinate": "POINT (-120.885385 37.607031)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/duartenursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "209-531-0351",
+        "fax": "209-531-0352",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_small",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216165"
+            }
+        },
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671703",
+        "legacy_id": "10068",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Van Veen Nursery",
+    "machine_name": "van_veen_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4201 SE Franklin St. - PO Box 86424",
+        "address_2": "",
+        "city": "Portland",
+        "state": "OR",
+        "postal_code": "86424",
+        "geo_coordinate": "POINT (-122.6197366 45.4994998)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.vanveennursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "503-777-1734",
+        "fax": "503-777-2048",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "rhododendron",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216179"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673717",
+        "legacy_id": "25348",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

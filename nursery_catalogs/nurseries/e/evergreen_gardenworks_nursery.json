@@ -1,0 +1,60 @@
+{
+    "name": "Evergreen Gardenworks Nursery",
+    "machine_name": "evergreen_gardenworks_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 537",
+        "address_2": null,
+        "city": "Kelseyville",
+        "state": "CA",
+        "postal_code": "95451",
+        "geo_coordinate": "POINT (-122.8394375 38.9779531)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/evergreengardenworks.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "bonsai@pacific.net",
+        "phone": null,
+        "fax": "707-279-2554",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bonsai",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216155"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672744",
+        "legacy_id": "8589",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

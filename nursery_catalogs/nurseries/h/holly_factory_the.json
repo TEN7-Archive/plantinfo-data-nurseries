@@ -1,0 +1,471 @@
+{
+    "name": "Holly Factory, The",
+    "machine_name": "holly_factory_the",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "29010 NW County Road 241",
+        "address_2": "",
+        "city": "Alachua",
+        "state": "FL",
+        "postal_code": "32615",
+        "geo_coordinate": "POINT (-82.5045884 29.9188794)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.thehollyfactory.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "352-258-6974",
+        "fax": "386-462-7911",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 11 2016",
+            "nursery": "holly_factory_the",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1476752",
+                    "machine_name": "ilex_cultivars_nellie_r_stevens",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140497",
+                        "fgsid": null,
+                        "legacy_id": "14416",
+                        "catalog_source_id": "1206375"
+                    }
+                },
+                {
+                    "reference": "1537169",
+                    "machine_name": "ilex_cultivars_robin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140501",
+                        "fgsid": null,
+                        "legacy_id": "114585",
+                        "catalog_source_id": "1206376"
+                    }
+                },
+                {
+                    "reference": "1537168",
+                    "machine_name": "ilex_cultivars_oak_leaf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140502",
+                        "fgsid": null,
+                        "legacy_id": "114584",
+                        "catalog_source_id": "1206377"
+                    }
+                },
+                {
+                    "reference": "1477061",
+                    "machine_name": "ilex_koehneana_wirt_l_winn",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140503",
+                        "fgsid": null,
+                        "legacy_id": "14514",
+                        "catalog_source_id": "1206378"
+                    }
+                },
+                {
+                    "reference": "1512002",
+                    "machine_name": "ilex_opaca_greenleaf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140504",
+                        "fgsid": null,
+                        "legacy_id": "85422",
+                        "catalog_source_id": "1206379"
+                    }
+                },
+                {
+                    "reference": "1477165",
+                    "machine_name": "lagerstroemia_cultivars_muskogee",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140507",
+                        "fgsid": null,
+                        "legacy_id": "16980",
+                        "catalog_source_id": "1206381"
+                    }
+                },
+                {
+                    "reference": "1477166",
+                    "machine_name": "lagerstroemia_cultivars_natchez",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140514",
+                        "fgsid": null,
+                        "legacy_id": "16981",
+                        "catalog_source_id": "1206382"
+                    }
+                },
+                {
+                    "reference": "1416069",
+                    "machine_name": "myrica_cerifera",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185753",
+                        "fgsid": "23664",
+                        "legacy_id": null,
+                        "catalog_source_id": "1206629"
+                    }
+                },
+                {
+                    "reference": "1408772",
+                    "machine_name": "cuprocyparis_leylandii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "185754",
+                        "fgsid": "9593",
+                        "legacy_id": null,
+                        "catalog_source_id": "1206630"
+                    }
+                },
+                {
+                    "reference": "1477171",
+                    "machine_name": "lagerstroemia_cultivars_tuscarora",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "219641",
+                        "fgsid": null,
+                        "legacy_id": "16986",
+                        "catalog_source_id": "1206383"
+                    }
+                },
+                {
+                    "reference": "1512303",
+                    "machine_name": "ilex_vomitoria_yaupon",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "219646",
+                        "fgsid": null,
+                        "legacy_id": "85519",
+                        "catalog_source_id": "1206380"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Holly Factory, The 2017",
+            "machine_name": "holly_factory_the_2017",
+            "type": "nursery_catalog",
+            "date": "May 19 2017",
+            "nursery": "holly_factory_the",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1476752",
+                    "machine_name": "ilex_cultivars_nellie_r_stevens",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563911",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1537169",
+                    "machine_name": "ilex_cultivars_robin",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563916",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1537168",
+                    "machine_name": "ilex_cultivars_oak_leaf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563926",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1477061",
+                    "machine_name": "ilex_koehneana_wirt_l_winn",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563931",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1512002",
+                    "machine_name": "ilex_opaca_greenleaf",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563936",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1477165",
+                    "machine_name": "lagerstroemia_cultivars_muskogee",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563941",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1477166",
+                    "machine_name": "lagerstroemia_cultivars_natchez",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563951",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1416069",
+                    "machine_name": "myrica_cerifera",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563956",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1408772",
+                    "machine_name": "cuprocyparis_leylandii",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563961",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1477171",
+                    "machine_name": "lagerstroemia_cultivars_tuscarora",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "563971",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1548628",
+                    "machine_name": "ilex_cultivars_liberty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "564096",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1511180",
+                    "machine_name": "ilex_cultivars_mary_nell",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "564101",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1530101",
+                    "machine_name": "ilex_cultivars_auburn",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "564106",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1477171",
+                    "machine_name": "lagerstroemia_cultivars_tuscarora",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "564111",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1534957",
+                    "machine_name": "thuja_cultivars_green_giant",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "564116",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673581",
+        "legacy_id": "30730",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

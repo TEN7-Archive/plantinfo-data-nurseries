@@ -1,0 +1,60 @@
+{
+    "name": "Kawamoto Orchid Nursery",
+    "machine_name": "kawamoto_orchid_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2630 Waiomao Rd.",
+        "address_2": null,
+        "city": "Honolulu",
+        "state": "HI",
+        "postal_code": "96816",
+        "geo_coordinate": "POINT (-157.7828103 21.30757)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.kawamotoOrchids.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "orchids@kawamotoorchids.com",
+        "phone": "808-732-5808",
+        "fax": "808-732-5572",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672837",
+        "legacy_id": "8688",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

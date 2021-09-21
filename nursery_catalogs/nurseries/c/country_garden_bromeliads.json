@@ -1,0 +1,60 @@
+{
+    "name": "Country Garden Bromeliads",
+    "machine_name": "country_garden_bromeliads",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "15403 SW 200 Street",
+        "address_2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postal_code": "33187",
+        "geo_coordinate": "POINT (-80.4384819 25.5805049)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bromeliadworld.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@bromeliadworld.com",
+        "phone": "233-233-9033",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673755",
+        "legacy_id": "29708",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

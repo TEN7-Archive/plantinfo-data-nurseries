@@ -1,0 +1,771 @@
+{
+    "name": "Phoenix Orchids",
+    "machine_name": "phoenix_orchids",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2807 West Villa Rita Drive",
+        "address_2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "postal_code": "85053",
+        "geo_coordinate": "POINT (-112.1196648 33.650142)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.phoenixorchids.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "egoo1@cox.net",
+        "phone": "602-938-3741",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "phoenix_orchids",
+            "active": false,
+            "plants": [
+                {
+                    "reference": "1442186",
+                    "machine_name": "phalaenopsis_bellina",
+                    "type": "species",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "25620",
+                        "fgsid": "43765",
+                        "legacy_id": null,
+                        "catalog_source_id": "1194922"
+                    }
+                },
+                {
+                    "reference": "1646052",
+                    "machine_name": "phalaenopsis_cultivars_guadalupe_pineda",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "25621",
+                        "fgsid": null,
+                        "legacy_id": "258698",
+                        "catalog_source_id": "1194923"
+                    }
+                },
+                {
+                    "reference": "1569652",
+                    "machine_name": "phalaenopsis_cultivars_ambo_buddha_phoenix",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77632",
+                        "fgsid": null,
+                        "legacy_id": "180205",
+                        "catalog_source_id": "1193147"
+                    }
+                },
+                {
+                    "reference": "1532107",
+                    "machine_name": "phalaenopsis_cultivars_andalucia_eugene_maduro",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77633",
+                        "fgsid": null,
+                        "legacy_id": "109643",
+                        "catalog_source_id": "1193148"
+                    }
+                },
+                {
+                    "reference": "1594225",
+                    "machine_name": "phalaenopsis_cultivars_bev_tall_golden_ruby",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77634",
+                        "fgsid": null,
+                        "legacy_id": "370199",
+                        "catalog_source_id": "1193151"
+                    }
+                },
+                {
+                    "reference": "1594228",
+                    "machine_name": "phalaenopsis_cultivars_coral_isles_lung_ching",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77635",
+                        "fgsid": null,
+                        "legacy_id": "370202",
+                        "catalog_source_id": "1193152"
+                    }
+                },
+                {
+                    "reference": "1623995",
+                    "machine_name": "phalaenopsis_corningiana_carol",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77636",
+                        "fgsid": null,
+                        "legacy_id": "370203",
+                        "catalog_source_id": "1193153"
+                    }
+                },
+                {
+                    "reference": "1659910",
+                    "machine_name": "phalaenopsis_cultivars_dotty_woodson_claudette",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77637",
+                        "fgsid": null,
+                        "legacy_id": "272725",
+                        "catalog_source_id": "1193154"
+                    }
+                },
+                {
+                    "reference": "1594230",
+                    "machine_name": "phalaenopsis_cultivars_harford_s_gem_amber_fire",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77638",
+                        "fgsid": null,
+                        "legacy_id": "370206",
+                        "catalog_source_id": "1193156"
+                    }
+                },
+                {
+                    "reference": "1659914",
+                    "machine_name": "phalaenopsis_cultivars_kuntrarti_rarashati_copperstate",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77639",
+                        "fgsid": null,
+                        "legacy_id": "272729",
+                        "catalog_source_id": "1193157"
+                    }
+                },
+                {
+                    "reference": "1650399",
+                    "machine_name": "phalaenopsis_cultivars_memoria_don_tauscher_purple_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77640",
+                        "fgsid": null,
+                        "legacy_id": "370211",
+                        "catalog_source_id": "1193158"
+                    }
+                },
+                {
+                    "reference": "1660132",
+                    "machine_name": "doritaenopsis_cultivars_phoenix_fire_mary",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77641",
+                        "fgsid": null,
+                        "legacy_id": "272735",
+                        "catalog_source_id": "1193160"
+                    }
+                },
+                {
+                    "reference": "1625909",
+                    "machine_name": "phalaenopsis_cultivars_sherri_pantano_red_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77642",
+                        "fgsid": null,
+                        "legacy_id": "370215",
+                        "catalog_source_id": "1193161"
+                    }
+                },
+                {
+                    "reference": "1625910",
+                    "machine_name": "doritaenopsis_cultivars_sogo_manager_neo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "77643",
+                        "fgsid": null,
+                        "legacy_id": "370216",
+                        "catalog_source_id": "1193162"
+                    }
+                },
+                {
+                    "reference": "1597015",
+                    "machine_name": "phalaenopsis_cultivars_guadalupe_pineda_golden_flame",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "83194",
+                        "fgsid": null,
+                        "legacy_id": "390548",
+                        "catalog_source_id": "1194931"
+                    }
+                },
+                {
+                    "reference": "1597014",
+                    "machine_name": "phalaenopsis_cultivars_joy_spring_canary_rainbow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "83205",
+                        "fgsid": null,
+                        "legacy_id": "390547",
+                        "catalog_source_id": "1194933"
+                    }
+                },
+                {
+                    "reference": "1597013",
+                    "machine_name": "phalaenopsis_cultivars_palace_reef_th",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "83207",
+                        "fgsid": null,
+                        "legacy_id": "390546",
+                        "catalog_source_id": "1194935"
+                    }
+                },
+                {
+                    "reference": "1597012",
+                    "machine_name": "phalaenopsis_cultivars_penang_girl_taipei",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "83209",
+                        "fgsid": null,
+                        "legacy_id": "390545",
+                        "catalog_source_id": "1194936"
+                    }
+                },
+                {
+                    "reference": "1647116",
+                    "machine_name": "phalaenopsis_cultivars_sherri_pantano_tangelo",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "83210",
+                        "fgsid": null,
+                        "legacy_id": "390544",
+                        "catalog_source_id": "1194937"
+                    }
+                },
+                {
+                    "reference": "1647115",
+                    "machine_name": "phalaenopsis_cultivars_sogo_kaiulani_joy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "83218",
+                        "fgsid": null,
+                        "legacy_id": "390543",
+                        "catalog_source_id": "1194938"
+                    }
+                },
+                {
+                    "reference": "1647114",
+                    "machine_name": "phalaenopsis_cultivars_venimp_sedona_11",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "83219",
+                        "fgsid": null,
+                        "legacy_id": "390542",
+                        "catalog_source_id": "1194939"
+                    }
+                },
+                {
+                    "reference": "1622664",
+                    "machine_name": "phalaenopsis_cultivars_penang_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "103204",
+                        "fgsid": null,
+                        "legacy_id": "358816",
+                        "catalog_source_id": "1194924"
+                    }
+                },
+                {
+                    "reference": "1625907",
+                    "machine_name": "phalaenopsis_cultivars_olatt_diane",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "112202",
+                        "fgsid": null,
+                        "legacy_id": "370213",
+                        "catalog_source_id": "1193159"
+                    }
+                },
+                {
+                    "reference": "1616055",
+                    "machine_name": "phalaenopsis_cultivars_an_tai_spot_mary",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "159493",
+                        "fgsid": null,
+                        "legacy_id": "236767",
+                        "catalog_source_id": "1193149"
+                    }
+                },
+                {
+                    "reference": "1623996",
+                    "machine_name": "phalaenopsis_cultivars_dotty_woodson_orchidland",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "159494",
+                        "fgsid": null,
+                        "legacy_id": "370205",
+                        "catalog_source_id": "1193155"
+                    }
+                },
+                {
+                    "reference": "1659894",
+                    "machine_name": "phalaenopsis_cultivars_an_tai_spot_splotchy_2",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "159495",
+                        "fgsid": null,
+                        "legacy_id": "272696",
+                        "catalog_source_id": "1193150"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Phoenix Orchids 2017",
+            "machine_name": "phoenix_orchids_2017",
+            "type": "nursery_catalog",
+            "date": "May 16 2017",
+            "nursery": "phoenix_orchids",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1532107",
+                    "machine_name": "phalaenopsis_cultivars_andalucia_eugene_maduro",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549591",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1594228",
+                    "machine_name": "phalaenopsis_cultivars_coral_isles_lung_ching",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549601",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1623995",
+                    "machine_name": "phalaenopsis_corningiana_carol",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549606",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1659910",
+                    "machine_name": "phalaenopsis_cultivars_dotty_woodson_claudette",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549611",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1594230",
+                    "machine_name": "phalaenopsis_cultivars_harford_s_gem_amber_fire",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549616",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1597012",
+                    "machine_name": "phalaenopsis_cultivars_penang_girl_taipei",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549661",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1647115",
+                    "machine_name": "phalaenopsis_cultivars_sogo_kaiulani_joy",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549671",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1625907",
+                    "machine_name": "phalaenopsis_cultivars_olatt_diane",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549686",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1659894",
+                    "machine_name": "phalaenopsis_cultivars_an_tai_spot_splotchy_2",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "549701",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1548175",
+                    "machine_name": "phalaenopsis_violacea_leprechaun",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652261",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129681",
+                    "machine_name": "phalaenopsis_cultivars_ching_her_champion_phoenix_sunspots",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652266",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129686",
+                    "machine_name": "phalaenopsis_cultivars_double_garnet_ruby_glow",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652271",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129691",
+                    "machine_name": "phalaenopsis_cultivars_i_hsin_george_jh",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652596",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129696",
+                    "machine_name": "phalaenopsis_cultivars_i_hsin_sunflower_m",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652601",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129701",
+                    "machine_name": "phalaenopsis_cultivars_kuntrarti_rarashati_bunker_hill",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652606",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129706",
+                    "machine_name": "phalaenopsis_cultivars_malibu_imp_anna_mae",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652611",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129711",
+                    "machine_name": "phalaenopsis_cultivars_okay_petit_hot_phoenix_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652616",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129721",
+                    "machine_name": "phalaenopsis_cultivars_phoenix_gem_bold_beauty",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652621",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129716",
+                    "machine_name": "phalaenopsis_cultivars_phoenix_imp_trinity",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652626",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129726",
+                    "machine_name": "phalaenopsis_cultivars_phoenix_sweetheart_trinity",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "652631",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672015",
+        "legacy_id": "10793",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

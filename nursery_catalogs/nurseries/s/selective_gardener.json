@@ -1,0 +1,356 @@
+{
+    "name": "Selective Gardener",
+    "machine_name": "selective_gardener",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "6011 Martingale Ln",
+        "address_2": null,
+        "city": "Brentwood",
+        "state": "TN",
+        "postal_code": "37207-8398",
+        "geo_coordinate": "POINT (-86.8225149 36.0234291)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.selectivegardener.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "615-371-0248",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2012 not print friendly",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "selective_gardener",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1597111",
+                    "machine_name": "saintpaulia_cultivars_inca_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "34148",
+                        "fgsid": null,
+                        "legacy_id": "377683",
+                        "catalog_source_id": "1102533"
+                    }
+                },
+                {
+                    "reference": "1597110",
+                    "machine_name": "saintpaulia_cultivars_kunzite",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "34152",
+                        "fgsid": null,
+                        "legacy_id": "377682",
+                        "catalog_source_id": "1102534"
+                    }
+                },
+                {
+                    "reference": "1597109",
+                    "machine_name": "saintpaulia_cultivars_maya_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "34160",
+                        "fgsid": null,
+                        "legacy_id": "377681",
+                        "catalog_source_id": "1102535"
+                    }
+                },
+                {
+                    "reference": "1597107",
+                    "machine_name": "saintpaulia_cultivars_oneida_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "34162",
+                        "fgsid": null,
+                        "legacy_id": "377679",
+                        "catalog_source_id": "1102536"
+                    }
+                },
+                {
+                    "reference": "1597108",
+                    "machine_name": "saintpaulia_cultivars_pawnee_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "34163",
+                        "fgsid": null,
+                        "legacy_id": "377680",
+                        "catalog_source_id": "1102537"
+                    }
+                },
+                {
+                    "reference": "1597104",
+                    "machine_name": "saintpaulia_cultivars_seneca_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "34164",
+                        "fgsid": null,
+                        "legacy_id": "377676",
+                        "catalog_source_id": "1102538"
+                    }
+                },
+                {
+                    "reference": "1597105",
+                    "machine_name": "saintpaulia_cultivars_wichita_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "34165",
+                        "fgsid": null,
+                        "legacy_id": "377677",
+                        "catalog_source_id": "1102539"
+                    }
+                },
+                {
+                    "reference": "1597106",
+                    "machine_name": "saintpaulia_cultivars_indian_summer_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56759",
+                        "fgsid": null,
+                        "legacy_id": "377678",
+                        "catalog_source_id": "1102523"
+                    }
+                },
+                {
+                    "reference": "1611928",
+                    "machine_name": "saintpaulia_cultivars_apache_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56760",
+                        "fgsid": null,
+                        "legacy_id": "377688",
+                        "catalog_source_id": "1102524"
+                    }
+                },
+                {
+                    "reference": "1611929",
+                    "machine_name": "saintpaulia_cultivars_apatite",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56761",
+                        "fgsid": null,
+                        "legacy_id": "377689",
+                        "catalog_source_id": "1102525"
+                    }
+                },
+                {
+                    "reference": "1611930",
+                    "machine_name": "saintpaulia_cultivars_aztec_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56762",
+                        "fgsid": null,
+                        "legacy_id": "377690",
+                        "catalog_source_id": "1102526"
+                    }
+                },
+                {
+                    "reference": "1597115",
+                    "machine_name": "saintpaulia_cultivars_azurite",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56763",
+                        "fgsid": null,
+                        "legacy_id": "377691",
+                        "catalog_source_id": "1102527"
+                    }
+                },
+                {
+                    "reference": "1597116",
+                    "machine_name": "saintpaulia_cultivars_blackfoot_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56764",
+                        "fgsid": null,
+                        "legacy_id": "377692",
+                        "catalog_source_id": "1102528"
+                    }
+                },
+                {
+                    "reference": "1611927",
+                    "machine_name": "saintpaulia_cultivars_cheyenne_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56765",
+                        "fgsid": null,
+                        "legacy_id": "377687",
+                        "catalog_source_id": "1102529"
+                    }
+                },
+                {
+                    "reference": "1597114",
+                    "machine_name": "saintpaulia_cultivars_comanche_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56766",
+                        "fgsid": null,
+                        "legacy_id": "377686",
+                        "catalog_source_id": "1102530"
+                    }
+                },
+                {
+                    "reference": "1597113",
+                    "machine_name": "saintpaulia_cultivars_creek_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56767",
+                        "fgsid": null,
+                        "legacy_id": "377685",
+                        "catalog_source_id": "1102531"
+                    }
+                },
+                {
+                    "reference": "1597112",
+                    "machine_name": "saintpaulia_cultivars_hopi_girl",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "56768",
+                        "fgsid": null,
+                        "legacy_id": "377684",
+                        "catalog_source_id": "1102532"
+                    }
+                },
+                {
+                    "reference": "1494104",
+                    "machine_name": "saintpaulia_cultivars_arapahoe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "137889",
+                        "fgsid": null,
+                        "legacy_id": "31184",
+                        "catalog_source_id": "1102521"
+                    }
+                },
+                {
+                    "reference": "1494447",
+                    "machine_name": "saintpaulia_cultivars_little_jewels_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "137893",
+                        "fgsid": null,
+                        "legacy_id": "31323",
+                        "catalog_source_id": "1102522"
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673051",
+        "legacy_id": "9611",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "N",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

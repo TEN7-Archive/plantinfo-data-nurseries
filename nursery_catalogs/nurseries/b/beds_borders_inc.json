@@ -1,0 +1,88 @@
+{
+    "name": "Beds & Borders, Inc.",
+    "machine_name": "beds_borders_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "600 Laurel Lane",
+        "address_2": null,
+        "city": "Laurel",
+        "state": "NY",
+        "postal_code": "11948",
+        "geo_coordinate": "POINT (-72.5627173 40.9643735)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bedsandborders.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@bedsandborders.com",
+        "phone": "631-298-1836",
+        "fax": "631-298-1834",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "cactus_succulents",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216157"
+            }
+        },
+        {
+            "machine_name": "ferns",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216164"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2011  emailed 8\/14 for update",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672964",
+        "legacy_id": "14168",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "N",
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

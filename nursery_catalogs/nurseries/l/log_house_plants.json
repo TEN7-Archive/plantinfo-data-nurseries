@@ -1,0 +1,81 @@
+{
+    "name": "Log House Plants",
+    "machine_name": "log_house_plants",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "78185 Rat Creek Road",
+        "address_2": null,
+        "city": "Cottage Grove",
+        "state": "OR",
+        "postal_code": "97424",
+        "geo_coordinate": "POINT (-122.9165869 43.7858227)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.loghouseplants.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@loghouseplants.com",
+        "phone": "541-942-2288",
+        "fax": "541-942-3235",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        },
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        },
+        {
+            "machine_name": "vegetables",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216191"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671875",
+        "legacy_id": "2588",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

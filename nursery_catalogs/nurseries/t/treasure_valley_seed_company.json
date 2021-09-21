@@ -1,0 +1,60 @@
+{
+    "name": "Treasure Valley Seed Company",
+    "machine_name": "treasure_valley_seed_company",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "313 South Fair Street",
+        "address_2": "",
+        "city": "Powell",
+        "state": "WY",
+        "postal_code": "82435",
+        "geo_coordinate": "POINT (-108.7610273 44.7497352)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.tvseed.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674230",
+        "legacy_id": "33168",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

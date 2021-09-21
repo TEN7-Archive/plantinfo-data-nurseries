@@ -1,0 +1,74 @@
+{
+    "name": "Kigi Nursery",
+    "machine_name": "kigi_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "121 Noble Ridge Drive",
+        "address_2": "",
+        "city": "Kelso",
+        "state": "WA",
+        "postal_code": "98626",
+        "geo_coordinate": "POINT (-122.8480228 46.0799051)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.kiginursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@kiginursery.com",
+        "phone": "360-425-0541",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bonsai",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216155"
+            }
+        },
+        {
+            "machine_name": "evergreens",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216162"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673457",
+        "legacy_id": "23609",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

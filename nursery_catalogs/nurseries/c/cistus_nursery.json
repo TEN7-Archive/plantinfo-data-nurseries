@@ -1,0 +1,60 @@
+{
+    "name": "Cistus Nursery",
+    "machine_name": "cistus_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "22711 NW Gillihan Road",
+        "address_2": "",
+        "city": "Portland",
+        "state": "OR",
+        "postal_code": "97231",
+        "geo_coordinate": "POINT (-122.782429 45.6874622)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.cistus.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@cistus.com",
+        "phone": "503-621-2233",
+        "fax": "503-621-9657",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673064",
+        "legacy_id": "14597",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

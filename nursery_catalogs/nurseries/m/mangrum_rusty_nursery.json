@@ -1,0 +1,60 @@
+{
+    "name": "Mangrum, Rusty, Nursery",
+    "machine_name": "mangrum_rusty_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "3075 West Greenhill Road",
+        "address_2": null,
+        "city": "McMinnville",
+        "state": "TN",
+        "postal_code": "37110",
+        "geo_coordinate": "POINT (-85.91435 35.767462)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.rustymangrumnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "mangrumfarms@blomand.net",
+        "phone": "931-939-2572",
+        "fax": "931-939-2577",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "fruit_trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216166"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674183",
+        "legacy_id": "31468",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

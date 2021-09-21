@@ -1,0 +1,74 @@
+{
+    "name": "Kalamazoo Flower Group",
+    "machine_name": "kalamazoo_flower_group",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8937 Krum Avenue",
+        "address_2": null,
+        "city": "Galesburg",
+        "state": "MI",
+        "postal_code": "49053",
+        "geo_coordinate": "POINT (-85.4536795 42.2851185)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.kalamazooflowergroup.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@kvpg.com",
+        "phone": "800-253-4898",
+        "fax": "269-342-1644",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673182",
+        "legacy_id": "15189",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

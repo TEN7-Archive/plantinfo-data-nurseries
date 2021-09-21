@@ -1,0 +1,67 @@
+{
+    "name": "Bamert Seed Company (W)",
+    "machine_name": "bamert_seed_company_w",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1897 County Road 1018",
+        "address_2": null,
+        "city": "Muleshoe",
+        "state": "TX",
+        "postal_code": "79347",
+        "geo_coordinate": "POINT (-102.7109911 34.28593)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bamertseed.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "natives@bamertseed.com",
+        "phone": "800-262-9892",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672320",
+        "legacy_id": "6909",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

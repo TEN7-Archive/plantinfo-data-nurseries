@@ -1,0 +1,74 @@
+{
+    "name": "Plant Oregon",
+    "machine_name": "plant_oregon",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "8677 Wagner Creek Rd",
+        "address_2": "",
+        "city": "Talent",
+        "state": "OR",
+        "postal_code": "97540",
+        "geo_coordinate": "POINT (-122.7904958 42.209251)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.plantoregon.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "541-535-3531",
+        "fax": "541-535-2537",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672135",
+        "legacy_id": "17230",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

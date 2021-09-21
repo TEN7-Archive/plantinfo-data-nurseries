@@ -1,0 +1,726 @@
+{
+    "name": "Freshops",
+    "machine_name": "freshops",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "36180 Kings Valley Hwy",
+        "address_2": "",
+        "city": "Philomath",
+        "state": "OR",
+        "postal_code": "97370",
+        "geo_coordinate": "POINT (-123.428148 44.622011)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.freshops.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@freshops.com",
+        "phone": "800-460-6925",
+        "fax": "541-929-2702",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "herbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216169"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "freshops",
+            "active": false,
+            "plants": [
+                {
+                    "reference": "1596773",
+                    "machine_name": "humulus_lupulus_canadian_redvine",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63581",
+                        "fgsid": null,
+                        "legacy_id": "370056",
+                        "catalog_source_id": "1061903"
+                    }
+                },
+                {
+                    "reference": "1621611",
+                    "machine_name": "humulus_lupulus_newport",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63582",
+                        "fgsid": null,
+                        "legacy_id": "352937",
+                        "catalog_source_id": "1061904"
+                    }
+                },
+                {
+                    "reference": "1510313",
+                    "machine_name": "humulus_lupulus_willamette",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63583",
+                        "fgsid": null,
+                        "legacy_id": "84983",
+                        "catalog_source_id": "1061905"
+                    }
+                },
+                {
+                    "reference": "1574467",
+                    "machine_name": "humulus_lupulus_northern_brewer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "63584",
+                        "fgsid": null,
+                        "legacy_id": "186088",
+                        "catalog_source_id": "1061906"
+                    }
+                },
+                {
+                    "reference": "1510308",
+                    "machine_name": "humulus_lupulus_brewer_s_gold",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140437",
+                        "fgsid": null,
+                        "legacy_id": "84978",
+                        "catalog_source_id": "1206289"
+                    }
+                },
+                {
+                    "reference": "1480639",
+                    "machine_name": "humulus_lupulus_cascade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140441",
+                        "fgsid": null,
+                        "legacy_id": "14206",
+                        "catalog_source_id": "1206291"
+                    }
+                },
+                {
+                    "reference": "1574465",
+                    "machine_name": "humulus_lupulus_centennial",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140446",
+                        "fgsid": null,
+                        "legacy_id": "186086",
+                        "catalog_source_id": "1206292"
+                    }
+                },
+                {
+                    "reference": "1510309",
+                    "machine_name": "humulus_lupulus_hallertauer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140480",
+                        "fgsid": null,
+                        "legacy_id": "84979",
+                        "catalog_source_id": "1206296"
+                    }
+                },
+                {
+                    "reference": "1633405",
+                    "machine_name": "humulus_lupulus_spalt_select",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140482",
+                        "fgsid": null,
+                        "legacy_id": "299979",
+                        "catalog_source_id": "1206297"
+                    }
+                },
+                {
+                    "reference": "1660918",
+                    "machine_name": "humulus_lupulus_teamaker",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140483",
+                        "fgsid": null,
+                        "legacy_id": "391374",
+                        "catalog_source_id": "1206343"
+                    }
+                },
+                {
+                    "reference": "1510309",
+                    "machine_name": "humulus_lupulus_hallertauer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140487",
+                        "fgsid": null,
+                        "legacy_id": "84979",
+                        "catalog_source_id": "1206344"
+                    }
+                },
+                {
+                    "reference": "1663079",
+                    "machine_name": "humulus_lupulus_wye_viking",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140488",
+                        "fgsid": null,
+                        "legacy_id": "391376",
+                        "catalog_source_id": "1206347"
+                    }
+                },
+                {
+                    "reference": "1544223",
+                    "machine_name": "humulus_lupulus_fuggle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140506",
+                        "fgsid": null,
+                        "legacy_id": "116450",
+                        "catalog_source_id": "847425"
+                    }
+                },
+                {
+                    "reference": "1633403",
+                    "machine_name": "humulus_lupulus_galena",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140508",
+                        "fgsid": null,
+                        "legacy_id": "299977",
+                        "catalog_source_id": "847427"
+                    }
+                },
+                {
+                    "reference": "1629146",
+                    "machine_name": "humulus_lupulus_kent_golding",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140509",
+                        "fgsid": null,
+                        "legacy_id": "247974",
+                        "catalog_source_id": "847428"
+                    }
+                },
+                {
+                    "reference": "1510310",
+                    "machine_name": "humulus_lupulus_mount_hood",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140510",
+                        "fgsid": null,
+                        "legacy_id": "84980",
+                        "catalog_source_id": "847429"
+                    }
+                },
+                {
+                    "reference": "1510311",
+                    "machine_name": "humulus_lupulus_nuggett",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140511",
+                        "fgsid": null,
+                        "legacy_id": "84981",
+                        "catalog_source_id": "847430"
+                    }
+                },
+                {
+                    "reference": "1631033",
+                    "machine_name": "humulus_lupulus_perle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140512",
+                        "fgsid": null,
+                        "legacy_id": "251136",
+                        "catalog_source_id": "847431"
+                    }
+                },
+                {
+                    "reference": "1633404",
+                    "machine_name": "humulus_lupulus_magnum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140515",
+                        "fgsid": null,
+                        "legacy_id": "299978",
+                        "catalog_source_id": "847434"
+                    }
+                },
+                {
+                    "reference": "1633406",
+                    "machine_name": "humulus_lupulus_sterling",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "140517",
+                        "fgsid": null,
+                        "legacy_id": "299980",
+                        "catalog_source_id": "847436"
+                    }
+                },
+                {
+                    "reference": "1574466",
+                    "machine_name": "humulus_lupulus_chinook",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "178733",
+                        "fgsid": null,
+                        "legacy_id": "186087",
+                        "catalog_source_id": "1206293"
+                    }
+                },
+                {
+                    "reference": "1633402",
+                    "machine_name": "humulus_lupulus_crystal",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "178734",
+                        "fgsid": null,
+                        "legacy_id": "299976",
+                        "catalog_source_id": "1206294"
+                    }
+                },
+                {
+                    "reference": "1510312",
+                    "machine_name": "humulus_lupulus_tettnanger",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "178736",
+                        "fgsid": null,
+                        "legacy_id": "84982",
+                        "catalog_source_id": "1206298"
+                    }
+                },
+                {
+                    "reference": "1663080",
+                    "machine_name": "humulus_lupulus_zeus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "219639",
+                        "fgsid": null,
+                        "legacy_id": "391377",
+                        "catalog_source_id": "1206345"
+                    }
+                },
+                {
+                    "reference": "1660920",
+                    "machine_name": "humulus_lupulus_wye_challenger",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "219640",
+                        "fgsid": null,
+                        "legacy_id": "391375",
+                        "catalog_source_id": "1206346"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Freshops 2017",
+            "machine_name": "freshops_2017",
+            "type": "nursery_catalog",
+            "date": "Dec 19 2016",
+            "nursery": "freshops",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1510313",
+                    "machine_name": "humulus_lupulus_willamette",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371071",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1574467",
+                    "machine_name": "humulus_lupulus_northern_brewer",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371076",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1480639",
+                    "machine_name": "humulus_lupulus_cascade",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371086",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1574465",
+                    "machine_name": "humulus_lupulus_centennial",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371091",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1544223",
+                    "machine_name": "humulus_lupulus_fuggle",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371121",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1510310",
+                    "machine_name": "humulus_lupulus_mount_hood",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371136",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1510311",
+                    "machine_name": "humulus_lupulus_nuggett",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371141",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1633404",
+                    "machine_name": "humulus_lupulus_magnum",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371151",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1574466",
+                    "machine_name": "humulus_lupulus_chinook",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371161",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1633402",
+                    "machine_name": "humulus_lupulus_crystal",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "371166",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2128996",
+                    "machine_name": "humulus_lupulus_citra",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569816",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2127746",
+                    "machine_name": "humulus_lupulus_columbus",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569821",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1549078",
+                    "machine_name": "humulus_lupulus_goldings",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569826",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129001",
+                    "machine_name": "humulus_lupulus_lambic",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569831",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129006",
+                    "machine_name": "humulus_lupulus_mosaic",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569836",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129011",
+                    "machine_name": "humulus_lupulus_saaz",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569841",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129021",
+                    "machine_name": "humulus_lupulus_tardif_de_bourgogne",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569846",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "2129016",
+                    "machine_name": "humulus_lupulus_simcoe",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "569851",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1671717",
+        "legacy_id": "15618",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2019, 2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

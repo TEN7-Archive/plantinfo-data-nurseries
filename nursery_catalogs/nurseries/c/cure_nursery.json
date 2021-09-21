@@ -1,0 +1,67 @@
+{
+    "name": "Cure Nursery",
+    "machine_name": "cure_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "880 Buteo Ridge Rd",
+        "address_2": null,
+        "city": "Pittsboro",
+        "state": "NC",
+        "postal_code": "27312",
+        "geo_coordinate": "POINT (-79.110242 35.759385)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.curenursery.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "919-542-6186",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673290",
+        "legacy_id": "22111",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

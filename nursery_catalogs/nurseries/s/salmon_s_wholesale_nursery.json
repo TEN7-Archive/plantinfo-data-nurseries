@@ -1,0 +1,60 @@
+{
+    "name": "Salmon's Wholesale Nursery",
+    "machine_name": "salmon_s_wholesale_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 770059",
+        "address_2": null,
+        "city": "Ocala",
+        "state": "FL",
+        "postal_code": "34432",
+        "geo_coordinate": "POINT (-82.366887 29.0846585)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.salmonsnsy.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "sales@salmonsnsy.com",
+        "phone": "352-854-0011",
+        "fax": "352-854-9686",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "roses",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216181"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "web",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673245",
+        "legacy_id": "21691",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

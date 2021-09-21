@@ -1,0 +1,216 @@
+{
+    "name": "Larson's Geraniums",
+    "machine_name": "larson_s_geraniums",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "20 East Quasset Road",
+        "address_2": "",
+        "city": "Woodstock",
+        "state": "CT",
+        "postal_code": "06281",
+        "geo_coordinate": "POINT (-71.980168 41.9364149)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/larsonsgeraniums.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@larsonsgeraniums.com",
+        "phone": "860-974-0045",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017",
+    "nursery_catalog_items": [
+        {
+            "name": "Catalog",
+            "machine_name": "catalog",
+            "type": "nursery_catalog",
+            "date": "Sep 10 2016",
+            "nursery": "larson_s_geraniums",
+            "active": false,
+            "plants": [
+                {
+                    "reference": "1485554",
+                    "machine_name": "pelargonium_peltatum_mini_cascade_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "46010",
+                        "fgsid": null,
+                        "legacy_id": "22856",
+                        "catalog_source_id": "1179963"
+                    }
+                },
+                {
+                    "reference": "1485583",
+                    "machine_name": "pelargonium_peltatum_ville_de_paris_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "46015",
+                        "fgsid": null,
+                        "legacy_id": "22886",
+                        "catalog_source_id": "1179964"
+                    }
+                },
+                {
+                    "reference": "1485289",
+                    "machine_name": "pelargonium_peltatum_acapulco",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "117714",
+                        "fgsid": null,
+                        "legacy_id": "22815",
+                        "catalog_source_id": "1179965"
+                    }
+                },
+                {
+                    "reference": "1647757",
+                    "machine_name": "pelargonium_cultivars_mid_cascade_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": true,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "117715",
+                        "fgsid": null,
+                        "legacy_id": "389307",
+                        "catalog_source_id": "1179966"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Larson's Geraniums 2017",
+            "machine_name": "larson_s_geraniums_2017",
+            "type": "nursery_catalog",
+            "date": "Mar 13 2017",
+            "nursery": "larson_s_geraniums",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1485583",
+                    "machine_name": "pelargonium_peltatum_ville_de_paris_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "445946",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1647757",
+                    "machine_name": "pelargonium_cultivars_mid_cascade_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "445956",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1485554",
+                    "machine_name": "pelargonium_peltatum_mini_cascade_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "445961",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1638150",
+                    "machine_name": "pelargonium_peltatum_grand_idols_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "445966",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                },
+                {
+                    "reference": "1637588",
+                    "machine_name": "pelargonium_cultivars_calliope_series",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "445971",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1673018",
+        "legacy_id": "1155",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

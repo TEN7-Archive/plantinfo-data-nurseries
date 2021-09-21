@@ -1,0 +1,60 @@
+{
+    "name": "Vegetable Seeds Warehouse",
+    "machine_name": "vegetable_seeds_warehouse",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "P.O. Box 572",
+        "address_2": null,
+        "city": "Graniteville",
+        "state": "SC",
+        "postal_code": "29829",
+        "geo_coordinate": "POINT (-81.8081622 33.5633311)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.vegetableseedwarehouse.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "orders@vegetableseedwarehouse.com",
+        "phone": null,
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672754",
+        "legacy_id": "13150",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

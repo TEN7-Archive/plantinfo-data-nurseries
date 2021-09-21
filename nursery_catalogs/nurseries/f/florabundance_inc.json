@@ -1,0 +1,81 @@
+{
+    "name": "Florabundance Inc",
+    "machine_name": "florabundance_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1296 Cravens Lane",
+        "address_2": "",
+        "city": "Carpinteria",
+        "state": "CA",
+        "postal_code": "93013",
+        "geo_coordinate": "POINT (-119.5368954 34.4086542)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.florabundance.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-201-3597",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "bedding_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216190"
+            }
+        },
+        {
+            "machine_name": "bulbs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216156"
+            }
+        },
+        {
+            "machine_name": "orchids",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216175"
+            }
+        },
+        {
+            "machine_name": "perennials",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216177"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "2100811",
+        "legacy_id": null,
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "jense035",
+        "created": "1479916080"
+    }
+}

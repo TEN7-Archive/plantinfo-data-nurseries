@@ -1,0 +1,60 @@
+{
+    "name": "Iris 4 U",
+    "machine_name": "iris_4_u",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "2700 W. Amherst Avenue",
+        "address_2": "",
+        "city": "Denver",
+        "state": "CO",
+        "postal_code": "80236",
+        "geo_coordinate": "POINT (-105.0199884 39.665042)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.iris4u.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": "info@irus4u.com",
+        "phone": "303-789-4747",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "iris",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216172"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674036",
+        "legacy_id": "21229",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

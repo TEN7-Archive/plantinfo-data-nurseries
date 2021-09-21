@@ -1,0 +1,93 @@
+{
+    "name": "Church's Beachgrass & Nursery",
+    "machine_name": "church_s_beachgrass_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "522 Seashore Road",
+        "address_2": "",
+        "city": "Cape May",
+        "state": "NJ",
+        "postal_code": "08204",
+        "geo_coordinate": "POINT (-74.895718 39.000075)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.churchsbeachgrass.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "609-884-3927",
+        "fax": "609-884-7738",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "grasses_ornamental",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216167"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "2017 ",
+    "nursery_catalog_items": [
+        {
+            "name": "Church's Beachgrass & Nursery 2017",
+            "machine_name": "church_s_beachgrass_nursery_2017",
+            "type": "nursery_catalog",
+            "date": "May 29 2017",
+            "nursery": "church_s_beachgrass_nursery",
+            "active": true,
+            "plants": [
+                {
+                    "reference": "1496475",
+                    "machine_name": "ammophila_breviligulata_cape",
+                    "type": "variety",
+                    "seed": false,
+                    "pages": null,
+                    "active": false,
+                    "notes": null,
+                    "archival_data": {
+                        "id": "804096",
+                        "fgsid": null,
+                        "legacy_id": null,
+                        "catalog_source_id": null
+                    }
+                }
+            ]
+        }
+    ],
+    "archival_data": {
+        "id": "1672682",
+        "legacy_id": "173",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "2017, 2014",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

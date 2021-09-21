@@ -1,0 +1,74 @@
+{
+    "name": "Fernbrook Nursery, Inc",
+    "machine_name": "fernbrook_nursery_inc",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 228",
+        "address_2": "",
+        "city": "Bordentown",
+        "state": "NJ",
+        "postal_code": "08505",
+        "geo_coordinate": "POINT (-74.7118264 40.1462213)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.fernbrooknursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "609-298-8282",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "rhododendron",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216179"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1674300",
+        "legacy_id": "33209",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

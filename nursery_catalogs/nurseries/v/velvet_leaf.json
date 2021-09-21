@@ -1,0 +1,60 @@
+{
+    "name": "Velvet Leaf",
+    "machine_name": "velvet_leaf",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "790 Ridgecrest Drive",
+        "address_2": "",
+        "city": "Colfax",
+        "state": "CA",
+        "postal_code": "95713",
+        "geo_coordinate": "POINT (-120.9899175 39.0384871)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.thevelvetleaf.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": "lynn@thevelvetleaf.com",
+        "phone": "530-637-9000",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "house_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216171"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673242",
+        "legacy_id": "21628",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

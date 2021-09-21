@@ -1,0 +1,60 @@
+{
+    "name": "Blue Heron Farm Nursery",
+    "machine_name": "blue_heron_farm_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "PO Box 357",
+        "address_2": null,
+        "city": "Independence",
+        "state": "OR",
+        "postal_code": "97351",
+        "geo_coordinate": "POINT (-123.1867655 44.8512305)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.bhfnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-223-8410",
+        "fax": "541-754-6181",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1672132",
+        "legacy_id": "17208",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Florida Natives Nursery",
+    "machine_name": "florida_natives_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "4115 Native Garden Drive",
+        "address_2": null,
+        "city": "Plant City",
+        "state": "FL",
+        "postal_code": "33565",
+        "geo_coordinate": "POINT (-82.1113699 28.063098)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/floridanativesnursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "813-754-1900",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "tropical_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216186"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673975",
+        "legacy_id": "30033",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897990"
+    }
+}

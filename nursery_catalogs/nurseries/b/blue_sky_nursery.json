@@ -1,0 +1,60 @@
+{
+    "name": "Blue Sky Nursery",
+    "machine_name": "blue_sky_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "4659 King Street East",
+        "address_2": "",
+        "city": "Beamsville",
+        "state": "ON",
+        "postal_code": "L0R 1B0",
+        "geo_coordinate": "POINT (-79.4575481 43.1598754)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.blueskynursery.ca\/index.php?",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "905-563-4245",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "rhododendron",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216179"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673408",
+        "legacy_id": "28549",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

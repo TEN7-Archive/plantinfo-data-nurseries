@@ -1,0 +1,74 @@
+{
+    "name": "Overhill Gardens",
+    "machine_name": "overhill_gardens",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1404 Citico Road",
+        "address_2": "",
+        "city": "Vonore",
+        "state": "TN",
+        "postal_code": "37885",
+        "geo_coordinate": "POINT (-84.1183275 35.539351)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.overhillgardens.com\/index.html",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "423-295-2288",
+        "fax": "423-295-2252",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": "Web only",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1671970",
+        "legacy_id": "615",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

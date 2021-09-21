@@ -1,0 +1,67 @@
+{
+    "name": "Nearly Native Nursery",
+    "machine_name": "nearly_native_nursery",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": true,
+        "wholesale": false
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "776 McBride Road",
+        "address_2": "",
+        "city": "Fayetteville",
+        "state": "GA",
+        "postal_code": "30215",
+        "geo_coordinate": "POINT (-84.4735819 33.382584)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.nearlynativenursery.com\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "770-460-6284",
+        "fax": "770-460-7050",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "native_plants",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216201"
+            }
+        },
+        {
+            "machine_name": "wildflowers",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216189"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673683",
+        "legacy_id": "25215",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

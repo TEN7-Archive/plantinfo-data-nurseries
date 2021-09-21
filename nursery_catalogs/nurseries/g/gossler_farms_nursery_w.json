@@ -1,0 +1,67 @@
+{
+    "name": "Gossler Farms Nursery (W)",
+    "machine_name": "gossler_farms_nursery_w",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": true,
+            "canada": false
+        },
+        "address_1": "1200 Weaver Rd.",
+        "address_2": "",
+        "city": "Springfield",
+        "state": "OR",
+        "postal_code": "97478-9691",
+        "geo_coordinate": "POINT (-122.8974491 44.0567297)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.gosslerfarms.com",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "541-746-3922",
+        "fax": "541-744-7924",
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "shrubs",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216184"
+            }
+        },
+        {
+            "machine_name": "trees",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216185"
+            }
+        }
+    ],
+    "catalog": {
+        "print": true,
+        "online": true,
+        "web_only": false
+    },
+    "update": "2016",
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673085",
+        "legacy_id": "345",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": false,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": "U",
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}

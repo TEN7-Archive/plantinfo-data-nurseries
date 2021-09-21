@@ -1,0 +1,60 @@
+{
+    "name": "Norseco",
+    "machine_name": "norseco",
+    "type": "nursery",
+    "retail_wholesale": {
+        "retail": false,
+        "wholesale": true
+    },
+    "location": {
+        "country": {
+            "united_states": false,
+            "canada": true
+        },
+        "address_1": "2914 Blvd Cure-Labelle",
+        "address_2": "",
+        "city": "Laval",
+        "state": "QC",
+        "postal_code": "H7P 5R9",
+        "geo_coordinate": "POINT (-73.7799003 45.5650703)"
+    },
+    "contact": {
+        "website": {
+            "url": "http:\/\/www.norseco.com\/fr\/",
+            "title": null,
+            "attributes": []
+        },
+        "email": null,
+        "phone": "800-561-9693",
+        "fax": null,
+        "name": null
+    },
+    "specialties": [
+        {
+            "machine_name": "seeds_garden",
+            "type": "nursery_category",
+            "archival_data": {
+                "id": "216182"
+            }
+        }
+    ],
+    "catalog": {
+        "print": false,
+        "online": true,
+        "web_only": true
+    },
+    "update": null,
+    "nursery_catalog_items": [],
+    "archival_data": {
+        "id": "1673737",
+        "legacy_id": "30010",
+        "ships": true,
+        "NODATE": false,
+        "NoCatalog": true,
+        "active": true,
+        "bulkmail": false,
+        "SRCE2000": null,
+        "author": "oitadmin",
+        "created": "1474897980"
+    }
+}
